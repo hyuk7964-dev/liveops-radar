@@ -1,0 +1,10 @@
+# 덱 커버 팔레트 (presentation/_deck2min.py dark): 잉크 0D1117, 카드 161B22, 라임 D8FF3F, 블루 3D5AFE
+[theme]
+base = "dark"
+primaryColor = "#D8FF3F"
+backgroundColor = "#0D1117"
+secondaryBackgroundColor = "#161B22"
+textColor = "#FFFFFF"
+
+[client]
+toolbarMode = "minimal"

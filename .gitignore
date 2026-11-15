@@ -7,3 +7,6 @@ data/processed/gold_labels.csv
 data/processed/gold_recheck_monetization.csv
 data/processed/review_topics.csv
 data/processed/analysis.sqlite
+
+# 디자인 시안은 이 PC에만 (2026-11-15 결정)
+design/

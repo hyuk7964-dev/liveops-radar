@@ -7,9 +7,31 @@ APP = os.path.join(os.path.dirname(__file__), '..', 'app.py')
 
 
 def test_app_runs_without_error():
+    # 사이드바 버튼(radio) 7개 섹션을 하나씩 눌러 모두 오류 없이 그려지는지
     at = AppTest.from_file(APP, default_timeout=60).run()
     assert not at.exception, at.exception
-    assert len(at.tabs) == 7
+    nav = at.sidebar.radio[0]
+    assert list(nav.options) == ['개요', '언어별 불만 지도', '이슈 탐색', '공지와 반응', '다음 과제', 'AI 정확도', '커뮤니티 온도']
+    for s in nav.options:
+        at.sidebar.radio[0].set_value(s).run()
+        assert not at.exception, (s, at.exception)
+
+
+def test_display_rules():
+    sys.path.insert(0, os.path.dirname(APP))
+    import app
+    # 11/12 결정(일본 운영 P1 → P2)이 AI 초안 화면에 반영되고, 영어 주제 키가 한국어로 바뀐다
+    d = app.draft()
+    assert app.JA_OPS_P1 in app.md('business_report_draft.md') and app.JA_OPS_P1 not in d and '### 이벤트 운영, ' in d and '### monetization' not in d
+    # docs 원문 전문 칸은 화면에서만 가운데 점과 줄표를 쉼표로 (docs 파일은 그대로)
+    assert '·' not in d and '—' not in d and '·' in app.md('business_report_draft.md')
+    assert app.plain('가챠 구조 · 가격, 난이도·단조로움 — 끝') == '가챠 구조, 가격, 난이도, 단조로움, 끝'
+    # 정확도는 리포트에서 읽어 덱과 같은 값
+    acc, bands, mon, overall = app.eval_report()
+    assert {l: v['acc'] for l, v in acc.items()} == {'ko': 0.76, 'ja': 0.82, 'en': 0.68} and round(overall, 2) == 0.75
+    assert mon == {'ko': 1.0, 'ja': 0.70, 'en': 0.68}
+    # 리뷰 발췌의 markdown 특수문자는 이스케이프
+    assert app.esc('*굵게* $5 [링크](x)') == r'\*굵게\* \$5 \[링크\]\(x\)'
 
 
 def test_temperature_formula():
@@ -33,4 +55,4 @@ def test_public_data_excerpt_only():
 
 
 if __name__ == '__main__':
-    test_app_runs_without_error(); test_temperature_formula(); test_public_data_excerpt_only(); print('ok')
+    test_app_runs_without_error(); test_display_rules(); test_temperature_formula(); test_public_data_excerpt_only(); print('ok')
