@@ -44,7 +44,9 @@ python -X utf8 tests/test_app.py                 # 앱 오류 없음 · 온도 6
 
 앱은 `data/public/`(발췌 + 링크) · `data/processed/`의 집계 결과(weighted_metrics · update_impact · issue_groups) · `data/reference/` · `docs/`만 읽는다. 원문 리뷰 CSV는 읽지 않는다.
 
-### 배포 (Streamlit Community Cloud) — 아직 안 함
+### 배포 (Streamlit Community Cloud)
+
+배포 주소: https://hyuk7964-dev-liveops-radar-app-whyhdq.streamlit.app (2026-11-15)
 
 1. `python -X utf8 -m src.reporting.public_data` 로 `data/public/`를 최신으로 만든다.
 2. 이 폴더(`liveops-radar/`)만 담은 새 GitHub 저장소를 만든다. `.gitignore`가 원문(`data/raw/reviews/`, `processed/game_reviews.csv`, `gold_*.csv`, `review_topics.csv`, `analysis.sqlite`)과 `.env`를 뺀다. 푸시 전에 `git status`로 원문 파일이 목록에 없는지 확인한다.
