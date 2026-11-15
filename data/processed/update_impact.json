@@ -1,0 +1,894 @@
+[
+ {
+  "stream": "JP 공지 × 앱스토어 JP",
+  "update_id": "jp_702",
+  "title": "【イベント】特殊作戦「ロア追跡」編 紹介",
+  "base_date": "2026-10-20",
+  "base_is_notice_date": true,
+  "window_days": 14,
+  "pre": {
+   "n": 6,
+   "neg_ratio": 0.0,
+   "avg_rating": 4.67,
+   "topics": {
+    "tech_bugs": 1,
+    "customer_support": 1,
+    "other": 3,
+    "content_story": 2,
+    "combat_balance": 1,
+    "character": 1
+   },
+   "topic_neg": {
+    "tech_bugs": 1,
+    "customer_support": 1,
+    "other": 0,
+    "content_story": 0,
+    "combat_balance": 0,
+    "character": 0
+   }
+  },
+  "post": {
+   "n": 39,
+   "neg_ratio": 0.282,
+   "avg_rating": 3.82,
+   "topics": {
+    "other": 23,
+    "character": 10,
+    "content_story": 11,
+    "monetization": 10,
+    "growth_resources": 2,
+    "combat_balance": 6,
+    "event_ops": 2,
+    "customer_support": 1,
+    "ui_ux": 1,
+    "tech_bugs": 1
+   },
+   "topic_neg": {
+    "other": 12,
+    "character": 1,
+    "content_story": 1,
+    "monetization": 6,
+    "growth_resources": 1,
+    "combat_balance": 5,
+    "event_ops": 1,
+    "customer_support": 0,
+    "ui_ux": 0,
+    "tech_bugs": 1
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "other": "persistent",
+   "monetization": "new"
+  },
+  "confounders": [
+   "【新規コンテンツ】「仮想適性試験BETA」について",
+   "【イベント】「Start Your Engines！ ～183号よ永遠に！～」紹介",
+   "メンテナンスのお知らせ（10/28 11:00 - 19:00予定）",
+   "ピックアップ募集紹介：★3「ヒフミ(レーシング)」、★3「アズサ(レーシング)」",
+   "運営権移管に関するお知らせ"
+  ],
+  "source_url": "https://bluearchive.jp/news/newsJump/702"
+ },
+ {
+  "stream": "JP 공지 × 앱스토어 JP",
+  "update_id": "jp_703",
+  "title": "運営権移管に関するお知らせ",
+  "base_date": "2026-10-25",
+  "base_is_notice_date": true,
+  "window_days": 14,
+  "pre": {
+   "n": 10,
+   "neg_ratio": 0.3,
+   "avg_rating": 3.7,
+   "topics": {
+    "content_story": 4,
+    "combat_balance": 3,
+    "growth_resources": 1,
+    "monetization": 2,
+    "other": 4,
+    "tech_bugs": 2,
+    "customer_support": 1,
+    "character": 1
+   },
+   "topic_neg": {
+    "content_story": 0,
+    "combat_balance": 2,
+    "growth_resources": 1,
+    "monetization": 1,
+    "other": 1,
+    "tech_bugs": 2,
+    "customer_support": 1,
+    "character": 0
+   }
+  },
+  "post": {
+   "n": 37,
+   "neg_ratio": 0.216,
+   "avg_rating": 4.03,
+   "topics": {
+    "other": 24,
+    "character": 9,
+    "content_story": 8,
+    "monetization": 8,
+    "growth_resources": 1,
+    "combat_balance": 4,
+    "event_ops": 1,
+    "customer_support": 1,
+    "ui_ux": 1
+   },
+   "topic_neg": {
+    "other": 10,
+    "character": 1,
+    "content_story": 1,
+    "monetization": 5,
+    "growth_resources": 0,
+    "combat_balance": 3,
+    "event_ops": 0,
+    "customer_support": 0,
+    "ui_ux": 0
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "improved",
+   "other": "persistent"
+  },
+  "confounders": [
+   "【新規コンテンツ】「仮想適性試験BETA」について",
+   "【イベント】「Start Your Engines！ ～183号よ永遠に！～」紹介",
+   "メンテナンスのお知らせ（10/28 11:00 - 19:00予定）",
+   "ピックアップ募集紹介：★3「ヒフミ(レーシング)」、★3「アズサ(レーシング)」",
+   "【イベント】特殊作戦「ロア追跡」編 紹介"
+  ],
+  "source_url": "https://bluearchive.jp/news/newsJump/703"
+ },
+ {
+  "stream": "JP 공지 × 앱스토어 JP",
+  "update_id": "jp_707 + jp_706 + jp_704",
+  "title": "【新規コンテンツ】「仮想適性試験BETA」について + 【イベント】「Start Your Engines！ ～183号よ永遠に！～」紹介 + ピックアップ募集紹介：★3「ヒフミ(レーシング)」、★3「アズサ(レーシング)」",
+  "base_date": "2026-10-27",
+  "base_is_notice_date": true,
+  "window_days": 14,
+  "pre": {
+   "n": 16,
+   "neg_ratio": 0.375,
+   "avg_rating": 3.5,
+   "topics": {
+    "customer_support": 2,
+    "monetization": 3,
+    "other": 9,
+    "content_story": 6,
+    "ui_ux": 1,
+    "event_ops": 1,
+    "character": 2,
+    "combat_balance": 3,
+    "growth_resources": 1,
+    "tech_bugs": 2
+   },
+   "topic_neg": {
+    "customer_support": 1,
+    "monetization": 2,
+    "other": 6,
+    "content_story": 0,
+    "ui_ux": 0,
+    "event_ops": 1,
+    "character": 0,
+    "combat_balance": 2,
+    "growth_resources": 1,
+    "tech_bugs": 2
+   }
+  },
+  "post": {
+   "n": 31,
+   "neg_ratio": 0.161,
+   "avg_rating": 4.23,
+   "topics": {
+    "other": 20,
+    "character": 8,
+    "content_story": 7,
+    "monetization": 7,
+    "growth_resources": 1,
+    "combat_balance": 4,
+    "event_ops": 1
+   },
+   "topic_neg": {
+    "other": 6,
+    "character": 1,
+    "content_story": 1,
+    "monetization": 4,
+    "growth_resources": 0,
+    "combat_balance": 3,
+    "event_ops": 0
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "persistent",
+   "other": "persistent",
+   "monetization": "persistent"
+  },
+  "confounders": [
+   "メンテナンスのお知らせ（10/28 11:00 - 19:00予定）",
+   "運営権移管に関するお知らせ",
+   "【イベント】特殊作戦「ロア追跡」編 紹介"
+  ],
+  "source_url": "https://bluearchive.jp/news/newsJump/707"
+ },
+ {
+  "stream": "KR 공지 × Steam 한국어(PC 표본)",
+  "update_id": "kr_20260908_1",
+  "title": "9/8(화) 업데이트 상세 안내",
+  "base_date": "2026-09-08",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 30,
+   "neg_ratio": 0.067,
+   "avg_rating": null,
+   "topics": {
+    "other": 15,
+    "character": 8,
+    "content_story": 8,
+    "tech_bugs": 1,
+    "monetization": 2,
+    "ui_ux": 1,
+    "event_ops": 1
+   },
+   "topic_neg": {
+    "other": 2,
+    "character": 0,
+    "content_story": 2,
+    "tech_bugs": 1,
+    "monetization": 1,
+    "ui_ux": 1,
+    "event_ops": 1
+   }
+  },
+  "post": {
+   "n": 29,
+   "neg_ratio": 0.069,
+   "avg_rating": null,
+   "topics": {
+    "content_story": 5,
+    "character": 7,
+    "monetization": 3,
+    "combat_balance": 2,
+    "other": 14,
+    "tech_bugs": 1,
+    "growth_resources": 1
+   },
+   "topic_neg": {
+    "content_story": 0,
+    "character": 0,
+    "monetization": 1,
+    "combat_balance": 2,
+    "other": 1,
+    "tech_bugs": 1,
+    "growth_resources": 0
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "improved",
+   "other": "persistent",
+   "character": "persistent"
+  },
+  "confounders": [
+   "9/15(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3532788"
+ },
+ {
+  "stream": "KR 공지 × Steam 한국어(PC 표본)",
+  "update_id": "kr_20260915_1",
+  "title": "9/15(화) 업데이트 상세 안내",
+  "base_date": "2026-09-15",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 35,
+   "neg_ratio": 0.086,
+   "avg_rating": null,
+   "topics": {
+    "other": 22,
+    "content_story": 5,
+    "character": 7,
+    "combat_balance": 1,
+    "tech_bugs": 2,
+    "monetization": 1,
+    "growth_resources": 1
+   },
+   "topic_neg": {
+    "other": 4,
+    "content_story": 0,
+    "character": 0,
+    "combat_balance": 1,
+    "tech_bugs": 2,
+    "monetization": 0,
+    "growth_resources": 0
+   }
+  },
+  "post": {
+   "n": 24,
+   "neg_ratio": 0.042,
+   "avg_rating": null,
+   "topics": {
+    "other": 10,
+    "monetization": 3,
+    "growth_resources": 2,
+    "content_story": 6,
+    "character": 6,
+    "combat_balance": 3
+   },
+   "topic_neg": {
+    "other": 0,
+    "monetization": 2,
+    "growth_resources": 1,
+    "content_story": 2,
+    "character": 0,
+    "combat_balance": 1
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "persistent",
+   "other": "improved",
+   "character": "persistent"
+  },
+  "confounders": [
+   "9/29(화) 업데이트 상세 안내",
+   "9/8(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3536012"
+ },
+ {
+  "stream": "KR 공지 × Steam 한국어(PC 표본)",
+  "update_id": "kr_20260929_1",
+  "title": "9/29(화) 업데이트 상세 안내",
+  "base_date": "2026-09-29",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 23,
+   "neg_ratio": 0.0,
+   "avg_rating": null,
+   "topics": {
+    "character": 6,
+    "other": 9,
+    "content_story": 6,
+    "combat_balance": 3,
+    "growth_resources": 1,
+    "monetization": 2
+   },
+   "topic_neg": {
+    "character": 0,
+    "other": 0,
+    "content_story": 1,
+    "combat_balance": 1,
+    "growth_resources": 0,
+    "monetization": 1
+   }
+  },
+  "post": {
+   "n": 25,
+   "neg_ratio": 0.08,
+   "avg_rating": null,
+   "topics": {
+    "character": 15,
+    "other": 8,
+    "combat_balance": 5,
+    "content_story": 5,
+    "monetization": 3,
+    "growth_resources": 3
+   },
+   "topic_neg": {
+    "character": 1,
+    "other": 1,
+    "combat_balance": 2,
+    "content_story": 0,
+    "monetization": 2,
+    "growth_resources": 2
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "improved",
+   "combat_balance": "persistent",
+   "other": "persistent",
+   "character": "persistent"
+  },
+  "confounders": [
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "10/13(화) 업데이트 상세 안내",
+   "9/15(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3542434"
+ },
+ {
+  "stream": "KR 공지 × Steam 한국어(PC 표본)",
+  "update_id": "kr_20261013_1",
+  "title": "10/13(화) 업데이트 상세 안내",
+  "base_date": "2026-10-13",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 24,
+   "neg_ratio": 0.125,
+   "avg_rating": null,
+   "topics": {
+    "character": 13,
+    "combat_balance": 5,
+    "other": 8,
+    "content_story": 6,
+    "monetization": 4,
+    "growth_resources": 4
+   },
+   "topic_neg": {
+    "character": 1,
+    "combat_balance": 2,
+    "other": 1,
+    "content_story": 1,
+    "monetization": 3,
+    "growth_resources": 3
+   }
+  },
+  "post": {
+   "n": 27,
+   "neg_ratio": 0.111,
+   "avg_rating": null,
+   "topics": {
+    "character": 9,
+    "monetization": 2,
+    "growth_resources": 2,
+    "content_story": 9,
+    "other": 10,
+    "tech_bugs": 2,
+    "combat_balance": 3,
+    "ui_ux": 1
+   },
+   "topic_neg": {
+    "character": 0,
+    "monetization": 2,
+    "growth_resources": 1,
+    "content_story": 1,
+    "other": 0,
+    "tech_bugs": 2,
+    "combat_balance": 3,
+    "ui_ux": 0
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "persistent",
+   "growth_resources": "improved",
+   "other": "improved",
+   "character": "improved"
+  },
+  "confounders": [
+   "10/27(화) 업데이트 상세 안내",
+   "10/14(수) 무중단 패치 안내",
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "9/29(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3555107"
+ },
+ {
+  "stream": "KR 공지 × Steam 한국어(PC 표본)",
+  "update_id": "kr_20261027_1",
+  "title": "10/27(화) 업데이트 상세 안내",
+  "base_date": "2026-10-27",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 28,
+   "neg_ratio": 0.107,
+   "avg_rating": null,
+   "topics": {
+    "tech_bugs": 2,
+    "other": 10,
+    "character": 10,
+    "content_story": 8,
+    "combat_balance": 3,
+    "monetization": 1,
+    "ui_ux": 1,
+    "growth_resources": 1
+   },
+   "topic_neg": {
+    "tech_bugs": 2,
+    "other": 0,
+    "character": 0,
+    "content_story": 0,
+    "combat_balance": 3,
+    "monetization": 1,
+    "ui_ux": 0,
+    "growth_resources": 0
+   }
+  },
+  "post": {
+   "n": 22,
+   "neg_ratio": 0.091,
+   "avg_rating": null,
+   "topics": {
+    "character": 7,
+    "monetization": 2,
+    "other": 9,
+    "tech_bugs": 3,
+    "content_story": 1,
+    "growth_resources": 1
+   },
+   "topic_neg": {
+    "character": 0,
+    "monetization": 0,
+    "other": 0,
+    "tech_bugs": 3,
+    "content_story": 0,
+    "growth_resources": 1
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "combat_balance": "improved",
+   "other": "persistent",
+   "character": "persistent"
+  },
+  "confounders": [
+   "10/14(수) 무중단 패치 안내",
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "10/13(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3559967"
+ },
+ {
+  "stream": "KR 공지 × Steam 영어(PC 표본)",
+  "update_id": "kr_20260908_1",
+  "title": "9/8(화) 업데이트 상세 안내",
+  "base_date": "2026-09-08",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 87,
+   "neg_ratio": 0.575,
+   "avg_rating": null,
+   "topics": {
+    "monetization": 38,
+    "content_story": 17,
+    "character": 14,
+    "ui_ux": 2,
+    "combat_balance": 6,
+    "other": 41,
+    "tech_bugs": 2,
+    "growth_resources": 2,
+    "event_ops": 1,
+    "customer_support": 1
+   },
+   "topic_neg": {
+    "monetization": 34,
+    "content_story": 2,
+    "character": 3,
+    "ui_ux": 1,
+    "combat_balance": 4,
+    "other": 18,
+    "tech_bugs": 2,
+    "growth_resources": 1,
+    "event_ops": 1,
+    "customer_support": 1
+   }
+  },
+  "post": {
+   "n": 38,
+   "neg_ratio": 0.316,
+   "avg_rating": null,
+   "topics": {
+    "tech_bugs": 1,
+    "monetization": 9,
+    "combat_balance": 3,
+    "character": 9,
+    "event_ops": 1,
+    "other": 10,
+    "content_story": 3,
+    "ui_ux": 1
+   },
+   "topic_neg": {
+    "tech_bugs": 1,
+    "monetization": 9,
+    "combat_balance": 1,
+    "character": 1,
+    "event_ops": 1,
+    "other": 5,
+    "content_story": 1,
+    "ui_ux": 1
+   }
+  },
+  "enough_sample": true,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "persistent",
+   "other": "persistent",
+   "character": "persistent",
+   "monetization": "persistent"
+  },
+  "confounders": [
+   "9/15(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3532788"
+ },
+ {
+  "stream": "KR 공지 × Steam 영어(PC 표본)",
+  "update_id": "kr_20260915_1",
+  "title": "9/15(화) 업데이트 상세 안내",
+  "base_date": "2026-09-15",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 53,
+   "neg_ratio": 0.396,
+   "avg_rating": null,
+   "topics": {
+    "combat_balance": 5,
+    "other": 23,
+    "monetization": 23,
+    "content_story": 10,
+    "character": 11,
+    "ui_ux": 2,
+    "tech_bugs": 1,
+    "growth_resources": 1
+   },
+   "topic_neg": {
+    "combat_balance": 3,
+    "other": 8,
+    "monetization": 21,
+    "content_story": 2,
+    "character": 3,
+    "ui_ux": 1,
+    "tech_bugs": 1,
+    "growth_resources": 1
+   }
+  },
+  "post": {
+   "n": 36,
+   "neg_ratio": 0.389,
+   "avg_rating": null,
+   "topics": {
+    "content_story": 7,
+    "other": 11,
+    "combat_balance": 4,
+    "monetization": 5,
+    "character": 7,
+    "tech_bugs": 2,
+    "event_ops": 1
+   },
+   "topic_neg": {
+    "content_story": 1,
+    "other": 5,
+    "combat_balance": 3,
+    "monetization": 5,
+    "character": 1,
+    "tech_bugs": 2,
+    "event_ops": 1
+   }
+  },
+  "enough_sample": true,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "persistent",
+   "other": "persistent",
+   "character": "improved",
+   "monetization": "improved"
+  },
+  "confounders": [
+   "9/29(화) 업데이트 상세 안내",
+   "9/8(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3536012"
+ },
+ {
+  "stream": "KR 공지 × Steam 영어(PC 표본)",
+  "update_id": "kr_20260929_1",
+  "title": "9/29(화) 업데이트 상세 안내",
+  "base_date": "2026-09-29",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 40,
+   "neg_ratio": 0.35,
+   "avg_rating": null,
+   "topics": {
+    "combat_balance": 4,
+    "content_story": 6,
+    "monetization": 6,
+    "character": 9,
+    "other": 12,
+    "tech_bugs": 2,
+    "event_ops": 1,
+    "ui_ux": 1
+   },
+   "topic_neg": {
+    "combat_balance": 3,
+    "content_story": 1,
+    "monetization": 6,
+    "character": 1,
+    "other": 6,
+    "tech_bugs": 2,
+    "event_ops": 1,
+    "ui_ux": 1
+   }
+  },
+  "post": {
+   "n": 39,
+   "neg_ratio": 0.333,
+   "avg_rating": null,
+   "topics": {
+    "character": 11,
+    "other": 15,
+    "monetization": 16,
+    "tech_bugs": 2,
+    "combat_balance": 6,
+    "content_story": 8,
+    "ui_ux": 2
+   },
+   "topic_neg": {
+    "character": 1,
+    "other": 5,
+    "monetization": 12,
+    "tech_bugs": 2,
+    "combat_balance": 1,
+    "content_story": 0,
+    "ui_ux": 2
+   }
+  },
+  "enough_sample": true,
+  "topic_status": {
+   "content_story": "improved",
+   "combat_balance": "improved",
+   "other": "persistent",
+   "character": "persistent",
+   "monetization": "persistent"
+  },
+  "confounders": [
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "10/13(화) 업데이트 상세 안내",
+   "9/15(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3542434"
+ },
+ {
+  "stream": "KR 공지 × Steam 영어(PC 표본)",
+  "update_id": "kr_20261013_1",
+  "title": "10/13(화) 업데이트 상세 안내",
+  "base_date": "2026-10-13",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 37,
+   "neg_ratio": 0.324,
+   "avg_rating": null,
+   "topics": {
+    "other": 14,
+    "monetization": 16,
+    "tech_bugs": 2,
+    "combat_balance": 6,
+    "content_story": 9,
+    "character": 10,
+    "ui_ux": 2
+   },
+   "topic_neg": {
+    "other": 4,
+    "monetization": 12,
+    "tech_bugs": 2,
+    "combat_balance": 1,
+    "content_story": 0,
+    "character": 1,
+    "ui_ux": 2
+   }
+  },
+  "post": {
+   "n": 44,
+   "neg_ratio": 0.227,
+   "avg_rating": null,
+   "topics": {
+    "other": 17,
+    "content_story": 10,
+    "character": 18,
+    "combat_balance": 4,
+    "monetization": 5,
+    "tech_bugs": 2
+   },
+   "topic_neg": {
+    "other": 7,
+    "content_story": 2,
+    "character": 1,
+    "combat_balance": 1,
+    "monetization": 3,
+    "tech_bugs": 1
+   }
+  },
+  "enough_sample": true,
+  "topic_status": {
+   "content_story": "persistent",
+   "combat_balance": "persistent",
+   "other": "persistent",
+   "character": "persistent",
+   "monetization": "improved"
+  },
+  "confounders": [
+   "10/27(화) 업데이트 상세 안내",
+   "10/14(수) 무중단 패치 안내",
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "9/29(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3555107"
+ },
+ {
+  "stream": "KR 공지 × Steam 영어(PC 표본)",
+  "update_id": "kr_20261027_1",
+  "title": "10/27(화) 업데이트 상세 안내",
+  "base_date": "2026-10-27",
+  "base_is_notice_date": false,
+  "window_days": 14,
+  "pre": {
+   "n": 41,
+   "neg_ratio": 0.22,
+   "avg_rating": null,
+   "topics": {
+    "other": 14,
+    "character": 19,
+    "combat_balance": 4,
+    "monetization": 5,
+    "tech_bugs": 2,
+    "content_story": 9
+   },
+   "topic_neg": {
+    "other": 6,
+    "character": 1,
+    "combat_balance": 1,
+    "monetization": 3,
+    "tech_bugs": 1,
+    "content_story": 2
+   }
+  },
+  "post": {
+   "n": 27,
+   "neg_ratio": 0.185,
+   "avg_rating": null,
+   "topics": {
+    "customer_support": 1,
+    "monetization": 2,
+    "tech_bugs": 2,
+    "growth_resources": 2,
+    "event_ops": 1,
+    "content_story": 7,
+    "character": 6,
+    "combat_balance": 5,
+    "other": 8
+   },
+   "topic_neg": {
+    "customer_support": 1,
+    "monetization": 1,
+    "tech_bugs": 2,
+    "growth_resources": 1,
+    "event_ops": 1,
+    "content_story": 0,
+    "character": 2,
+    "combat_balance": 0,
+    "other": 3
+   }
+  },
+  "enough_sample": false,
+  "topic_status": {
+   "content_story": "improved",
+   "combat_balance": "improved",
+   "other": "persistent",
+   "character": "persistent"
+  },
+  "confounders": [
+   "10/14(수) 무중단 패치 안내",
+   "10/13(화) 임시점검 예정 안내 (15:10 ~ 17:10)",
+   "10/13(화) 업데이트 상세 안내"
+  ],
+  "source_url": "https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3559967"
+ }
+]

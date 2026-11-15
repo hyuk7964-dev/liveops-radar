@@ -1,0 +1,942 @@
+﻿language,topic,sub_topic,issue_group,model_name
+en,character,캐릭터 디자인 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,일러스트 화풍 불균일,기타,claude-sonnet-5-5
+en,character,캐릭터 귀여움,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,로리 캐릭터 성별 농담,선정성·미성년 논란,claude-sonnet-5-5
+en,character,미성년 캐릭터 취급 비판,선정성·미성년 논란,claude-sonnet-5-5
+en,character,치비 모델 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,AI 조수 캐릭터 호감,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,여성 캐릭터 호감,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터는 귀엽지만 취향 아님,기타,claude-sonnet-5-5
+en,character,마리 캐릭터 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,귀엽고 재미있음,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,다양한 캐릭터 디자인 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,리오 픽업 복각 요청,캐릭터 추가·복각 요청,claude-sonnet-5-5
+en,character,캐릭터로 입문,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 감정 이입,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 호평,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,좋아하는 캐릭터,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,키사키 호평,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,캐릭터 모델 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,캐릭터 개성,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,아루 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,기억에 남는 디자인,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,학생 캐릭터 호평,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,히후미 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,캐릭터 취향 언급,기타,claude-sonnet-5-5
+en,character,캐릭터 전반 호평,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,선정적 캐릭터 연출 거부감,선정성·미성년 논란,claude-sonnet-5-5
+en,character,히나 선호,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,캐릭터 애정 유지,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 연출 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,캐릭터 외형 호감,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,고스 캐릭터 추가 요청,캐릭터 추가·복각 요청,claude-sonnet-5-5
+en,character,호시노 아루 아리스 호평,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,이즈미 스킬 성능 조롱,기타,claude-sonnet-5-5
+en,character,캐릭터 매력(밈 표현),캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 애정,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,작은 로봇 캐릭터 호감,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,이부키 캐릭터 호감,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,호시노 캐릭터 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,캐릭터 매력,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 애착 형성,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 말투 거부감,선정성·미성년 논란,claude-sonnet-5-5
+en,character,학생 캐릭터 성적 대상화,선정성·미성년 논란,claude-sonnet-5-5
+en,character,캐릭터 작문 호평,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,하렘·성적 요소 비난,선정성·미성년 논란,claude-sonnet-5-5
+en,character,세이아 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,와카모 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,카요코 애정,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,학생 애정,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,아리스 애착,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,수영복 캐릭터 추가,캐릭터 추가·복각 요청,claude-sonnet-5-5
+en,character,디자인과 캐릭터 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,캐릭터 호감,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,케이 서비스 종료 우려,기타,claude-sonnet-5-5
+en,character,학생 디자인 호평,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,캐릭터 선호 밈,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,캐릭터 매력 감소,기타,claude-sonnet-5-5
+en,character,귀엽고 매력적인 캐릭터,캐릭터 호평·애정,claude-sonnet-5-5
+en,character,카린 아쉬움,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,캐릭터와 디자인 애정,캐릭터 디자인·모델 호평,claude-sonnet-5-5
+en,character,사오리 호감,특정 캐릭터 애정,claude-sonnet-5-5
+en,character,선생과 학생 관계,기타,claude-sonnet-5-5
+en,character,사랑스러운 캐릭터,캐릭터 호평·애정,claude-sonnet-5-5
+en,combat_balance,조작 개입 적은 전투,쉬운 조작·라이트 접근성,claude-sonnet-5-5
+en,combat_balance,쉬운 시스템 이해,쉬운 조작·라이트 접근성,claude-sonnet-5-5
+en,combat_balance,라이트 유저에게 적합,쉬운 조작·라이트 접근성,claude-sonnet-5-5
+en,combat_balance,재미있는 게임플레이,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,경쾌한 전투,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,단순 반복 플레이,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,자동 소탕이 전투 깊이 제거,자동전투·소탕 깊이 부족,claude-sonnet-5-5
+en,combat_balance,RTS 게임플레이 호평,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,메타 압박 적음,쉬운 조작·라이트 접근성,claude-sonnet-5-5
+en,combat_balance,전략성 호평,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,전투 시스템 호평,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,전술 전투 잠재력,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,캐주얼 재미,쉬운 조작·라이트 접근성,claude-sonnet-5-5
+en,combat_balance,경쟁 콘텐츠 스트레스,기타,claude-sonnet-5-5
+en,combat_balance,엔드게임 크리 리셋 반복,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,밋밋한 오토배틀,자동전투·소탕 깊이 부족,claude-sonnet-5-5
+en,combat_balance,게임플레이 한계,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,단순하지만 타이밍 전략,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,전투 시스템 재미,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,게임플레이 반복성,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,게임플레이 불만,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,전투 반복성 논란,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,전투 개선 요구,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,게임플레이 평범,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,게임플레이 재미,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,오토배틀 한계,자동전투·소탕 깊이 부족,claude-sonnet-5-5
+en,combat_balance,클릭 위주 단조로움,전투 반복성·단조로움,claude-sonnet-5-5
+en,combat_balance,보스별 다양한 공략,전투 재미·전략성 호평,claude-sonnet-5-5
+en,combat_balance,단순한 게임플레이,전투 반복성·단조로움,claude-sonnet-5-5
+en,content_story,스토리 감동,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,감동적인 스토리,스토리 호평,claude-sonnet-5-5
+en,content_story,몰입되는 미션 스토리,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 감동 추정,스토리 호평,claude-sonnet-5-5
+en,content_story,감동적인 스토리 추정,스토리 호평,claude-sonnet-5-5
+en,content_story,콘텐츠 소진 빠름,콘텐츠 물량 부족,claude-sonnet-5-5
+en,content_story,스토리 극찬,스토리 호평,claude-sonnet-5-5
+en,content_story,플롯에 정착,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 몰입,스토리 호평,claude-sonnet-5-5
+en,content_story,메인스토리 풀보이스 부재,메인스토리 연출 아쉬움,claude-sonnet-5-5
+en,content_story,스토리 반전과 깊이,스토리 호평,claude-sonnet-5-5
+en,content_story,할 거리 많음,기타,claude-sonnet-5-5
+en,content_story,플롯 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리와 작가진 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,캠페인 미션 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리와 몰입 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 몰입감 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,설정과 세계관 호평,세계관 호평,claude-sonnet-5-5
+en,content_story,스토리와 성장 서사,스토리 호평,claude-sonnet-5-5
+en,content_story,아루 대사 호평,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,메인 스토리 감동,스토리 호평,claude-sonnet-5-5
+en,content_story,3년차 이후 콘텐츠 부족,콘텐츠 물량 부족,claude-sonnet-5-5
+en,content_story,글과 세계관 호평,세계관 호평,claude-sonnet-5-5
+en,content_story,스토리 작문 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리·OST 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 만족,스토리 호평,claude-sonnet-5-5
+en,content_story,콘텐츠 부실,콘텐츠 물량 부족,claude-sonnet-5-5
+en,content_story,전반적 완성도 호평,기타,claude-sonnet-5-5
+en,content_story,스토리·캐릭터 호평,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,메인스토리 장황함,메인스토리 연출 아쉬움,claude-sonnet-5-5
+en,content_story,스토리와 이벤트 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 질문,기타,claude-sonnet-5-5
+en,content_story,세계관 풍부,세계관 호평,claude-sonnet-5-5
+en,content_story,스토리와 캐릭터로 지속,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,아트와 스토리로 유지,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,스토리·음악·그림체 호평,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,스토리·캐릭터·음악 호평,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,스토리만 장점,스토리 호평,claude-sonnet-5-5
+en,content_story,메인 스토리 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리와 OST 호평,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리 평범,스토리 평범·산만,claude-sonnet-5-5
+en,content_story,재미있는 이벤트와 스토리,스토리 호평,claude-sonnet-5-5
+en,content_story,스토리는 여전히 최고,스토리 호평,claude-sonnet-5-5
+en,content_story,깊은 세계관,세계관 호평,claude-sonnet-5-5
+en,content_story,좋은 스토리,스토리 호평,claude-sonnet-5-5
+en,content_story,설정·캐릭터·스토리 호평,캐릭터 연계 호평,claude-sonnet-5-5
+en,content_story,작가 교체로 스토리 산만,스토리 평범·산만,claude-sonnet-5-5
+en,event_ops,출석 기록 끊김,운영 방향 불신,claude-sonnet-5-5
+en,event_ops,넥슨 운영 방향 불신,운영 방향 불신,claude-sonnet-5-5
+en,event_ops,사과만 하고 강행,피드백 무시와 강행,claude-sonnet-5-5
+en,event_ops,몰래 진행한 업데이트,사전 공지 부재,claude-sonnet-5-5
+en,event_ops,밀레니엄 엑스포 복각,복각 이벤트 운영,claude-sonnet-5-5
+en,event_ops,유저 피드백 무시,피드백 무시와 강행,claude-sonnet-5-5
+en,event_ops,5주년 방송 발표,사전 공지 부재,claude-sonnet-5-5
+en,growth_resources,청휘석 수급 어려움,재화 수급 부담,claude-sonnet-5-5
+en,growth_resources,안정적인 성장 진행,성장 진척감,claude-sonnet-5-5
+en,growth_resources,스태미나 제한,재화 수급 부담,claude-sonnet-5-5
+en,growth_resources,일일 숙제 부담 적음,기타,claude-sonnet-5-5
+en,growth_resources,성장 진척감 부족,성장 진척감,claude-sonnet-5-5
+en,growth_resources,5성 육성 중복 요구,육성 대상 중복 부담,claude-sonnet-5-5
+en,growth_resources,레벨 무관 육성 재미 요청,육성 콘텐츠 다양화,claude-sonnet-5-5
+en,monetization,가챠 결과 불만 추정,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,가챠 시스템 변경 논란,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,무과금 친화적,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,가챠 50/50 변경 우려,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,가챠 확률 불만,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,무과금 부담 적음,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,가챠 개편 반발,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,일본 스파크 개편 반발,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,운영사 탐욕 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 구조 무난,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,픽업 확률 낮음,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,가챠 운 좋음,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,일본 가챠 개편 우려,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,관대하지 않은 구조,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,신규 가챠 개편 반대,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,평범한 운이면 손해,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,신규 가챠 개편 비난,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,슬롯머신식 과금 유도,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,미소결제 유도,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,과금 의사 불확실,과금 중단·이탈,claude-sonnet-5-5
+en,monetization,과금 의지 표현,기타,claude-sonnet-5-5
+en,monetization,가챠 개편 불만,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,미성년자 과금 우려,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 시스템 롤백 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,신규 가챠와 팀 구성 충돌,기타,claude-sonnet-5-5
+en,monetization,가챠 개편 반대,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 불만,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,최근 가챠 변경 불만,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,캐릭터 획득 구조 악화,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,가챠 시스템 수정 요청,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,새 가챠 50/50 도입 불만,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,가챠 시스템 논란,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,회사 탐욕 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 악화,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,아카이브 모집 방치,기타,claude-sonnet-5-5
+en,monetization,스팀 포인트샵 아이템 부족,기타,claude-sonnet-5-5
+en,monetization,가챠 시스템 불만,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,비교적 저렴한 과금,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,호요식 가챠 개편,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 불신,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,랜덤박스 의존,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,일본판 가챠 개편 우려,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,과금 중단 선언,과금 중단·이탈,claude-sonnet-5-5
+en,monetization,새 가챠 환영,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,새 가챠 체감 악화,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,픽업 기대치 하락,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,50/50 도입 불만,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,과금 유도 비난,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,넥슨 탐욕 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,인색함 지적,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,탐욕적 과금 구조,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,원신식 50/50 도입,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,과금 거부 촉구,과금 중단·이탈,claude-sonnet-5-5
+en,monetization,50/50 반대,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,호요식 가챠 전환,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,신규 가챠 시스템,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,기업 탐욕 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,페이투윈 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,과도한 과금 구조 분노,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,천장 호평,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,가챠 완화 환영,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,신규 가챠 불만,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,천장 없는 낮은 확률,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,뽑기 비용 증가,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,변경 철회 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 반발,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,가챠 시스템 원복 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,일본 서버 가챠 개편 반발,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 비판,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 분노,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,가챠 업데이트 돈벌이 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 변경 옹호,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,새 가챠가 유저에 불리,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,최근 픽업 가챠 경험 최악,가챠 확률·획득 불만,claude-sonnet-5-5
+en,monetization,가챠 원복 요구와 신뢰 배신,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,가챠 개편 최악,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,EA식 과금 개편 우려,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,50/50 가챠 개편 반대,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,가챠 개편으로 추천 철회,과금 중단·이탈,claude-sonnet-5-5
+en,monetization,출시 5.5년차 가챠 개편,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,가챠 개편이 탐욕스러움,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,기존 가챠 관대함,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,가챠 개편 혼란,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 우려,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 시스템 혹평,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,새 가챠 옹호,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,스파크 폐지는 오판,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,미호요식 가챠 부적합,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,가챠 개편은 탐욕,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,스파크 폐지 분노,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,가챠 원복 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,새 가챠 수학적 이득,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,가챠 개편 탐욕 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 수정 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,뽑기 시스템 변경 비꼼,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,스파크 폐지와 천장 도입,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,스파크 유지 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,새 가챠 큰 감점,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,3성 다수 획득 체험,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,스파크가 천장으로 바뀜,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,배너 광고 과다,기타,claude-sonnet-5-5
+en,monetization,가챠는 무난,개편 옹호·호평,claude-sonnet-5-5
+en,monetization,인색하다는 밈,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 개편 비난 슬픔,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,출시 5년 뒤 가챠 변경,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,EA식 과금 비꼼,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,서구 기업식 탐욕,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,기존 시스템 복구 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,스파크 시스템 폐지,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,개발사 탐욕 비난,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,가챠 변경,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,무료 모집 확대 요청,기타,claude-sonnet-5-5
+en,monetization,가챠 시스템 변경,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,넥슨의 끝없는 탐욕,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,새 가챠와 새 CEO,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,픽뚫 후 천장 초기화,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,천장 시스템 피해,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,원신식 가챠로 변경,50/50 도입 반발,claude-sonnet-5-5
+en,monetization,더 비싼 패키지,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,EA 출신 영입 가챠 개악,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,탐욕과 EA 비판,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,약탈적 가챠,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,기업 탐욕 항의 지지,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,스파크에서 개악 가챠로,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,신규 가챠 비난 언급,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,가챠 변경 우려,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,예정된 가챠 변경,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,가챠 시스템 개악,가챠 개편 반발,claude-sonnet-5-5
+en,monetization,스파크 폐지,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,기존 가챠 복구 요구,원복·스파크 유지 요구,claude-sonnet-5-5
+en,monetization,신규 UE 반대,기타,claude-sonnet-5-5
+en,monetization,가챠 게임 이탈 의향,과금 중단·이탈,claude-sonnet-5-5
+en,monetization,가챠 개편 약탈적,운영사 탐욕 비판,claude-sonnet-5-5
+en,monetization,새 가챠 시스템 비난,가챠 개편 반발,claude-sonnet-5-5
+en,other,게임성 부족 추정,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,일부 커뮤니티 분위기,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,전반적 극찬,게임 전반 호평,claude-sonnet-5-5
+en,other,OST 극찬,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,게임 평판 억울함,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,의미 모호,의미 불명 리뷰,claude-sonnet-5-5
+en,other,은어 밈 표현,밈성 리뷰,claude-sonnet-5-5
+en,other,지루함,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,EA 욕설,경영진·운영사 비판,claude-sonnet-5-5
+en,other,무의미한 문자열,의미 불명 리뷰,claude-sonnet-5-5
+en,other,성적 소비 농담,밈성 리뷰,claude-sonnet-5-5
+en,other,시간 낭비 평가,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,게임 및 커뮤니티 비난,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,캐릭터 대상 농담,밈성 리뷰,claude-sonnet-5-5
+en,other,전작 분위기 유사,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,세계관과 OST 호평,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,커뮤니티 비난,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,팬덤 비난,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,커뮤니티 분위기,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,시간 때우기용 재미,게임 전반 호평,claude-sonnet-5-5
+en,other,무난함,게임 전반 호평,claude-sonnet-5-5
+en,other,단순 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,근거 없는 비난,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,그래픽 호평,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,게임 전반 애정,게임 전반 호평,claude-sonnet-5-5
+en,other,음악 호평,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,재미와 죄책감,게임 전반 호평,claude-sonnet-5-5
+en,other,무료라는 언급,게임 전반 호평,claude-sonnet-5-5
+en,other,스팀 계정 기록 피해,경영진·운영사 비판,claude-sonnet-5-5
+en,other,후회 표현,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,AI 생성 콘텐츠 반발,경영진·운영사 비판,claude-sonnet-5-5
+en,other,사운드트랙 호평,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,의미 불명,의미 불명 리뷰,claude-sonnet-5-5
+en,other,근거 없는 전반 비난,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,가챠 장르 피로감,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,그래픽 평범하나 무관,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,밈성 나열 비난,밈성 리뷰,claude-sonnet-5-5
+en,other,초창기 향수,게임 전반 호평,claude-sonnet-5-5
+en,other,밈성 경고,밈성 리뷰,claude-sonnet-5-5
+en,other,치비 3D 아트 호평,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,팬덤 반감,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,전투 사이 대사 부족 (모호),혹평·이탈·지루함,claude-sonnet-5-5
+en,other,커뮤니티 밈 용어 논쟁,밈성 리뷰,claude-sonnet-5-5
+en,other,커뮤니티 분위기 악화,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,분위기 호평과 팬덤 열기,연출·아트·음악 호평,claude-sonnet-5-5
+en,other,결혼 기능 요청,게임 전반 호평,claude-sonnet-5-5
+en,other,로리 게임 비하 (모호),밈성 리뷰,claude-sonnet-5-5
+en,other,게임 귀여움 vs 커뮤 혐오,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,팬덤 비판,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,전반적 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,배신감 표출,경영진·운영사 비판,claude-sonnet-5-5
+en,other,밈성 외침,밈성 리뷰,claude-sonnet-5-5
+en,other,욕설성 단평,밈성 리뷰,claude-sonnet-5-5
+en,other,귀여움 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,무난하다는 평,게임 전반 호평,claude-sonnet-5-5
+en,other,밈성 찬사,밈성 리뷰,claude-sonnet-5-5
+en,other,커뮤니티 분열,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,커뮤니티 아쉬움,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,밈성 호평,밈성 리뷰,claude-sonnet-5-5
+en,other,스토리와 운영 괴리,경영진·운영사 비판,claude-sonnet-5-5
+en,other,귀엽고 재미있음,게임 전반 호평,claude-sonnet-5-5
+en,other,동인 같다는 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,호불호 게임,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,게헨나 구호 도배,밈성 리뷰,claude-sonnet-5-5
+en,other,거부 의사,의미 불명 리뷰,claude-sonnet-5-5
+en,other,지루해 보임,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,EA 비난,경영진·운영사 비판,claude-sonnet-5-5
+en,other,변경 사항 불만,경영진·운영사 비판,claude-sonnet-5-5
+en,other,일반 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,즉시 종료,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,방 꾸미기,게임 전반 호평,claude-sonnet-5-5
+en,other,과장된 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,최근 경험상 단서,의미 불명 리뷰,claude-sonnet-5-5
+en,other,서비스 방치 우려,경영진·운영사 비판,claude-sonnet-5-5
+en,other,삭제 권유,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,무난한 분위기,게임 전반 호평,claude-sonnet-5-5
+en,other,최근 피로감,경영진·운영사 비판,claude-sonnet-5-5
+en,other,팬덤 경시 비판,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,커뮤니티 분위기 비난,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,의미 없는 짧은 글,의미 불명 리뷰,claude-sonnet-5-5
+en,other,의미 모호한 밈,의미 불명 리뷰,claude-sonnet-5-5
+en,other,기대보다 나음,게임 전반 호평,claude-sonnet-5-5
+en,other,게임 이탈 선언,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,경영진 비판,경영진·운영사 비판,claude-sonnet-5-5
+en,other,신뢰 붕괴와 주가 하락,경영진·운영사 비판,claude-sonnet-5-5
+en,other,경영진 영입 비판,경영진·운영사 비판,claude-sonnet-5-5
+en,other,게임 호감,게임 전반 호평,claude-sonnet-5-5
+en,other,넥슨 향한 의문,경영진·운영사 비판,claude-sonnet-5-5
+en,other,이상한 리뷰와 커뮤니티,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,운영사 비판,경영진·운영사 비판,claude-sonnet-5-5
+en,other,일부 커뮤니티 비판,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,강력 추천,게임 전반 호평,claude-sonnet-5-5
+en,other,의미 모호한 감탄,의미 불명 리뷰,claude-sonnet-5-5
+en,other,게임 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,CEO 인신공격,경영진·운영사 비판,claude-sonnet-5-5
+en,other,의미 모호한 은어,의미 불명 리뷰,claude-sonnet-5-5
+en,other,신임 CEO 반발,경영진·운영사 비판,claude-sonnet-5-5
+en,other,캐릭터 취향 농담,밈성 리뷰,claude-sonnet-5-5
+en,other,CEO 교체 우려,경영진·운영사 비판,claude-sonnet-5-5
+en,other,최근 변경과 방향성,경영진·운영사 비판,claude-sonnet-5-5
+en,other,게임 자체는 양호,게임 전반 호평,claude-sonnet-5-5
+en,other,근거 없는 혹평,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,CEO 개인 반감,경영진·운영사 비판,claude-sonnet-5-5
+en,other,전 EA 출신 비난,경영진·운영사 비판,claude-sonnet-5-5
+en,other,EA 비꼬는 말장난,경영진·운영사 비판,claude-sonnet-5-5
+en,other,리뷰 폭탄 반대,경영진·운영사 비판,claude-sonnet-5-5
+en,other,전반적 혹평,혹평·이탈·지루함,claude-sonnet-5-5
+en,other,리뷰 폭격 반박,경영진·운영사 비판,claude-sonnet-5-5
+en,other,최근 변화로 악화,경영진·운영사 비판,claude-sonnet-5-5
+en,other,서비스 종료 예상,경영진·운영사 비판,claude-sonnet-5-5
+en,other,팬덤 분위기 혐오,커뮤니티·팬덤 갈등,claude-sonnet-5-5
+en,other,리뷰 폭격 구경,경영진·운영사 비판,claude-sonnet-5-5
+en,other,게임 전반 호평,게임 전반 호평,claude-sonnet-5-5
+en,other,넥슨 욕설,경영진·운영사 비판,claude-sonnet-5-5
+en,other,EA 출신 경영진,경영진·운영사 비판,claude-sonnet-5-5
+en,other,원인 불명 절규,의미 불명 리뷰,claude-sonnet-5-5
+en,other,의미 없는 입력,의미 불명 리뷰,claude-sonnet-5-5
+en,other,게임 전반 극찬,게임 전반 호평,claude-sonnet-5-5
+en,other,전반적 만족,게임 전반 호평,claude-sonnet-5-5
+en,other,good 반복 입력,의미 불명 리뷰,claude-sonnet-5-5
+en,tech_bugs,세션 중복 로그인 차단,접속·세션 오류,claude-sonnet-5-5
+en,tech_bugs,램 사용량 부담,기기 자원 부담,claude-sonnet-5-5
+en,tech_bugs,실행 실패와 세션 오류,접속·세션 오류,claude-sonnet-5-5
+en,tech_bugs,리눅스 구동 양호,기타,claude-sonnet-5-5
+en,tech_bugs,접속 오류 반복,접속·세션 오류,claude-sonnet-5-5
+en,tech_bugs,불안정 연결 오류,접속·세션 오류,claude-sonnet-5-5
+en,tech_bugs,로딩 지연 비꼼,로딩 지연,claude-sonnet-5-5
+en,tech_bugs,PC 시작 시 튕김,실행 중 강제 종료,claude-sonnet-5-5
+en,tech_bugs,중복 세션 접속 오류,접속·세션 오류,claude-sonnet-5-5
+en,tech_bugs,노트북 과열,기기 자원 부담,claude-sonnet-5-5
+en,ui_ux,맵 콘텐츠 불호,콘텐츠 불만,claude-sonnet-5-5
+en,ui_ux,자동전투 풍자,콘텐츠 불만,claude-sonnet-5-5
+en,ui_ux,신규 유저 정신없음,신규 유저 혼란,claude-sonnet-5-5
+en,ui_ux,UI 개선 호평,UI·편의 기능 호평,claude-sonnet-5-5
+en,ui_ux,광고·팝업 남발,광고·팝업 과다,claude-sonnet-5-5
+en,ui_ux,자동화로 멀티태스킹 편함,UI·편의 기능 호평,claude-sonnet-5-5
+en,ui_ux,편의 기능 호평,UI·편의 기능 호평,claude-sonnet-5-5
+en,ui_ux,새 UI 디자인 불만,새 UI 디자인 불만,claude-sonnet-5-5
+en,ui_ux,미니게임 스킵 없음,콘텐츠 불만,claude-sonnet-5-5
+ja,character,시로코 호감,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,게마트리아 혐오,기타,claude-sonnet-5-5
+ja,character,하루카 애정,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,캐릭터 귀여움,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,멋진 캐릭터 증가,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,귀여운 학생 다수,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,세이아 호감,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,히나 호감,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,학생 귀여움,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,학생 매력,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,3D 모델 위화감,3D 구현·밸런스,claude-sonnet-5-5
+ja,character,수영복 이로하 구현,3D 구현·밸런스,claude-sonnet-5-5
+ja,character,카요코 애정,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,만마전 캐릭터 호평,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,에리 애정,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,츠루기 애정,캐릭터 애정·호감,claude-sonnet-5-5
+ja,character,시로코 귀여움,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,캐릭터·전투 개성,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,미요 귀여움,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,귀여운 캐릭터 다수,캐릭터 귀여움·매력,claude-sonnet-5-5
+ja,character,캐릭터 호평,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,디자인·성우 호평,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,캐릭터 스킬 오작동,스킬 오작동·강화,claude-sonnet-5-5
+ja,character,캐릭터 디자인 호평,캐릭터 디자인 호평,claude-sonnet-5-5
+ja,character,캐릭터 강화 요소 추가,스킬 오작동·강화,claude-sonnet-5-5
+ja,character,수영복 슌 방어타입,3D 구현·밸런스,claude-sonnet-5-5
+ja,character,슈포가키 캐릭터 애정,캐릭터 애정·호감,claude-sonnet-5-5
+ja,combat_balance,기믹 난이도,전투 난이도·기믹 부담,claude-sonnet-5-5
+ja,combat_balance,쉽게 게임오버,전투 난이도·기믹 부담,claude-sonnet-5-5
+ja,combat_balance,게임성 혹평,전투 재미 평가,claude-sonnet-5-5
+ja,combat_balance,상성 맞추기 부담,전투 난이도·기믹 부담,claude-sonnet-5-5
+ja,combat_balance,전투 단조로움,전투 단조로움,claude-sonnet-5-5
+ja,combat_balance,전술대항전 불만,전술대항전 AI·스킬,claude-sonnet-5-5
+ja,combat_balance,편성 고민의 재미,편성·육성 재미,claude-sonnet-5-5
+ja,combat_balance,세밀한 편성 육성,편성·육성 재미,claude-sonnet-5-5
+ja,combat_balance,게임성 미묘,전투 재미 평가,claude-sonnet-5-5
+ja,combat_balance,전투 재미,전투 재미 평가,claude-sonnet-5-5
+ja,combat_balance,대항전 AI·스킬 문제,전술대항전 AI·스킬,claude-sonnet-5-5
+ja,content_story,스토리 호평,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,긴 스토리 감동,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,파반느편 호평,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,괴로운 전개,전개·설정 불만,claude-sonnet-5-5
+ja,content_story,비인기 캐릭터 묘사,전개·설정 불만,claude-sonnet-5-5
+ja,content_story,스토리 무난,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,스토리 재미,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,에덴 조약편 감동,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,스토리 극찬,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,스토리 감동,스토리 호평·감동,claude-sonnet-5-5
+ja,content_story,5.5주년 에피소드 빈약,주년 스토리 실망,claude-sonnet-5-5
+ja,content_story,스토리 기대 상실,스토리 품질 저하,claude-sonnet-5-5
+ja,content_story,주년 이벤트 스토리 실망,주년 스토리 실망,claude-sonnet-5-5
+ja,content_story,2부 기대,2부 기대,claude-sonnet-5-5
+ja,content_story,스토리 난립,스토리 품질 저하,claude-sonnet-5-5
+ja,content_story,스토리 질 저하,스토리 품질 저하,claude-sonnet-5-5
+ja,content_story,스토리 설정 불만,전개·설정 불만,claude-sonnet-5-5
+ja,content_story,스토리·애니화 호평,스토리 호평·감동,claude-sonnet-5-5
+ja,event_ops,이벤트 질 향상,이벤트 품질 개선 요구,claude-sonnet-5-5
+ja,event_ops,악화된 커뮤니티 환경,커뮤니티 환경 악화,claude-sonnet-5-5
+ja,event_ops,공지 방식과 사후 대응,공지 방식·전달 경로,claude-sonnet-5-5
+ja,event_ops,논란에 침묵,논란 무대응·침묵,claude-sonnet-5-5
+ja,event_ops,생방송 형식의 공지,공지 방식·전달 경로,claude-sonnet-5-5
+ja,event_ops,사과만 하고 개선 언급 없음,사과 후 개선책 부재,claude-sonnet-5-5
+ja,event_ops,설명 부재와 과거 논란,논란 무대응·침묵,claude-sonnet-5-5
+ja,event_ops,통달 경로와 침묵,공지 방식·전달 경로,claude-sonnet-5-5
+ja,event_ops,개선 언급 없음,사과 후 개선책 부재,claude-sonnet-5-5
+ja,event_ops,하프 직전 발표와 성우 낭독,공지 방식·전달 경로,claude-sonnet-5-5
+ja,event_ops,운영 무반응·일러 미공개,논란 무대응·침묵,claude-sonnet-5-5
+ja,event_ops,공식 성명 불투명,논란 무대응·침묵,claude-sonnet-5-5
+ja,growth_resources,성장은 시간 필요,육성 소요시간 과다,claude-sonnet-5-5
+ja,growth_resources,육성 요소 빈약,육성 콘텐츠 부족,claude-sonnet-5-5
+ja,growth_resources,성7 소재 부족 우려,육성 재화 부족,claude-sonnet-5-5
+ja,growth_resources,장비 소재 고갈,육성 재화 부족,claude-sonnet-5-5
+ja,growth_resources,강화 항목 증가,육성 절차 복잡화,claude-sonnet-5-5
+ja,growth_resources,육성 번잡함 증가,육성 절차 복잡화,claude-sonnet-5-5
+ja,monetization,가챠 확률 무난,기타,claude-sonnet-5-5
+ja,monetization,가챠 개선 인정,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,사양 변경 후 획득 용이,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,가챠 불안,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,가챠 변경 후 의욕 저하,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,갑작스런 가챠 변경,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,새 가챠 제도 난해,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,가챠 개악 불만,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,배출률 문의,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,가챠 불만,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,호출 포인트 리셋 반발,천장 포인트 리셋 반발,claude-sonnet-5-5
+ja,monetization,가챠 개악,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,가챠 사양 변경,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,무과금도 즐길 만함,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,100연 픽업 미작동,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,과거 더블픽업 선호,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,포인트 리셋 손실,천장 포인트 리셋 반발,claude-sonnet-5-5
+ja,monetization,유료팩 집금감,과금 유도 불신,claude-sonnet-5-5
+ja,monetization,가챠 리셋 개악,천장 포인트 리셋 반발,claude-sonnet-5-5
+ja,monetization,가챠 변경과 과금 추가,과금 유도 불신,claude-sonnet-5-5
+ja,monetization,천장교환 소멸 포인트 리셋,천장 포인트 리셋 반발,claude-sonnet-5-5
+ja,monetization,가챠 변경 우려,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,가챠 시스템 갑작스런 변경,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,픽업 이탈 과다,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,가챠 개편 불신,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,픽업 획득 불가 불쾌감,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,낮은 픽업률 천장 리셋,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,픽업 사기,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,가챠 개편 심상 악화,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,가챠 기대값 중심 설계,과금 유도 불신,claude-sonnet-5-5
+ja,monetization,신사양 기대값 하락,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,가챠 시스템 개편 혼란,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,새 가챠 시스템 옹호,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,횟수 보상으로 재화 절약,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,과금 중심 운영,과금 유도 불신,claude-sonnet-5-5
+ja,monetization,가챠 시스템 불만,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,천장 카운트 리셋,천장 포인트 리셋 반발,claude-sonnet-5-5
+ja,monetization,가챠 개악·낮은 확률,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,monetization,가챠 호평,개편 긍정 평가,claude-sonnet-5-5
+ja,monetization,가챠 사양 개악,가챠 개편 불만,claude-sonnet-5-5
+ja,monetization,뽑기 확률 불만 언급,픽업 확률·천장 불만,claude-sonnet-5-5
+ja,other,퍼블리셔 변경 반발,운영사 변경 불안,claude-sonnet-5-5
+ja,other,게임 자체 호평,호평,claude-sonnet-5-5
+ja,other,비주얼 사운드 호평,호평,claude-sonnet-5-5
+ja,other,퍼블리셔 변경 낙관,운영사 변경 불안,claude-sonnet-5-5
+ja,other,오래 할수록 애착,호평,claude-sonnet-5-5
+ja,other,회사 변경 불안,운영사 변경 불안,claude-sonnet-5-5
+ja,other,넥슨 운영 우려,넥슨 운영 거부감,claude-sonnet-5-5
+ja,other,몰입 및 착취 우려,넥슨 운영 거부감,claude-sonnet-5-5
+ja,other,전반적 호평과 응원,호평,claude-sonnet-5-5
+ja,other,요스타 종료 한탄,운영사 변경 불안,claude-sonnet-5-5
+ja,other,플레이 권유,호평,claude-sonnet-5-5
+ja,other,BGM 캐릭터송 호평,호평,claude-sonnet-5-5
+ja,other,계속할 의지,호평,claude-sonnet-5-5
+ja,other,번역 품질 우려,기타,claude-sonnet-5-5
+ja,other,요스타 선호,운영사 변경 불안,claude-sonnet-5-5
+ja,other,서비스 비관,서비스 종료 우려,claude-sonnet-5-5
+ja,other,운영사 변경,운영사 변경 불안,claude-sonnet-5-5
+ja,other,느린 템포,기타,claude-sonnet-5-5
+ja,other,네거티브 여론 비판,네거티브 여론 반발,claude-sonnet-5-5
+ja,other,전반적 호평,호평,claude-sonnet-5-5
+ja,other,넥슨 회원가입 거부,넥슨 운영 거부감,claude-sonnet-5-5
+ja,other,넥슨ID 거부 은퇴,넥슨 운영 거부감,claude-sonnet-5-5
+ja,other,회사 변경 우려,운영사 변경 불안,claude-sonnet-5-5
+ja,other,서비스 종료 전망,서비스 종료 우려,claude-sonnet-5-5
+ja,other,퍼블리셔 변경 불안,운영사 변경 불안,claude-sonnet-5-5
+ja,other,즐거움 부족,기타,claude-sonnet-5-5
+ja,other,조롱성 비하,기타,claude-sonnet-5-5
+ja,other,네거티브 캠페인 반발,네거티브 여론 반발,claude-sonnet-5-5
+ja,other,BGM 호평 후 불만 암시,호평,claude-sonnet-5-5
+ja,other,맥락 불명 질문,내용 불명,claude-sonnet-5-5
+ja,other,의미 불명,내용 불명,claude-sonnet-5-5
+ja,other,기기 정보만 언급,내용 불명,claude-sonnet-5-5
+ja,other,내용 불명(이미지 추정),내용 불명,claude-sonnet-5-5
+ja,other,내용 불명,내용 불명,claude-sonnet-5-5
+ja,other,기념 굿즈 언급 추정,내용 불명,claude-sonnet-5-5
+ja,other,굿즈 교환 제안,내용 불명,claude-sonnet-5-5
+ja,other,밈·검색 유도,내용 불명,claude-sonnet-5-5
+ja,tech_bugs,용량 10GB 이상,앱 용량 과다,claude-sonnet-5-5
+ja,tech_bugs,데이터 소실,데이터 소실·진행 오류,claude-sonnet-5-5
+ja,tech_bugs,프리즈,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,튕김 및 긴 로딩,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,일정 로딩 무한,로딩·접속 장애,claude-sonnet-5-5
+ja,tech_bugs,앱 용량 과다,앱 용량 과다,claude-sonnet-5-5
+ja,tech_bugs,챌린지 버그,전투·콘텐츠 버그,claude-sonnet-5-5
+ja,tech_bugs,업데이트 후 접속 불가,로딩·접속 장애,claude-sonnet-5-5
+ja,tech_bugs,게브라전 튕김,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,수영복 세이아 편성 시 튕김,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,증상 지속 동의,기타,claude-sonnet-5-5
+ja,tech_bugs,수영복 카스미 미표시,UI·표시 오류,claude-sonnet-5-5
+ja,tech_bugs,스토리 전투 강제 승리,전투·콘텐츠 버그,claude-sonnet-5-5
+ja,tech_bugs,포인트 수령 후 레벨 미상승,데이터 소실·진행 오류,claude-sonnet-5-5
+ja,tech_bugs,임무 사용 시 로그아웃,로딩·접속 장애,claude-sonnet-5-5
+ja,tech_bugs,전투 시작 시 조작 불능,전투·콘텐츠 버그,claude-sonnet-5-5
+ja,tech_bugs,확률 화면 방어타입 오표기,UI·표시 오류,claude-sonnet-5-5
+ja,tech_bugs,제약해제결전 강제종료,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,iOS 총력전 홈 강제복귀,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,전투 시작 시 프리즈,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,로딩 중 앱 종료·버그 감지,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,Wi-Fi 환경 점검 조언,기타,claude-sonnet-5-5
+ja,tech_bugs,로그인 불가 반복,로딩·접속 장애,claude-sonnet-5-5
+ja,tech_bugs,이벤트 배경 검게 표시,UI·표시 오류,claude-sonnet-5-5
+ja,tech_bugs,장비 레벨업 표시 오류,UI·표시 오류,claude-sonnet-5-5
+ja,tech_bugs,버튼이 전부 검게 표시,UI·표시 오류,claude-sonnet-5-5
+ja,tech_bugs,전투 시 게임 종료,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,원인 불명 이상 증상,기타,claude-sonnet-5-5
+ja,tech_bugs,스토리·전술대항 크래시,튕김·프리즈,claude-sonnet-5-5
+ja,tech_bugs,넬 이동 불가 버그,전투·콘텐츠 버그,claude-sonnet-5-5
+ja,ui_ux,진행 편의,UI 개편 불만,claude-sonnet-5-5
+ja,ui_ux,무료팩 화면 지연,화면 지연,claude-sonnet-5-5
+ja,ui_ux,UI 개악,UI 개편 불만,claude-sonnet-5-5
+ja,ui_ux,가챠 이력 조회 없음,가챠 이력 조회 부재,claude-sonnet-5-5
+ja,ui_ux,육성 화면 알림 마크,육성 알림 표시,claude-sonnet-5-5
+ko,character,캐릭터 퀄리티 극찬,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,일러·모션 호평,외형·디자인 호평,claude-sonnet-5-5
+ko,character,학생·음악 호평,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,학생 외모 호평,외형·디자인 호평,claude-sonnet-5-5
+ko,character,캐릭터 만족,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,IP·캐릭터성 인정,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터 호평,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터 디자인 호평,외형·디자인 호평,claude-sonnet-5-5
+ko,character,일러스트 호평,외형·디자인 호평,claude-sonnet-5-5
+ko,character,캐릭터와 성우 호평,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,모모이·미도리 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,미소녀 캐릭터 선호,외형·디자인 호평,claude-sonnet-5-5
+ko,character,하루카 애정 도배,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,호시노 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,세리카 호감,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,캐릭터 외형 농담,선정성·외형 논란,claude-sonnet-5-5
+ko,character,시로코 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,스토리·캐릭터 호평,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터 수집 중심,수집·육성 요구,claude-sonnet-5-5
+ko,character,아루 선호,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,캐릭터 귀여움,외형·디자인 호평,claude-sonnet-5-5
+ko,character,캐릭터 애착,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,육감적 캐릭터,선정성·외형 논란,claude-sonnet-5-5
+ko,character,선정적 캐릭터,선정성·외형 논란,claude-sonnet-5-5
+ko,character,체리노 귀여움,외형·디자인 호평,claude-sonnet-5-5
+ko,character,아로나 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,세리카 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,코토네 기대,수집·육성 요구,claude-sonnet-5-5
+ko,character,동물귀 캐릭터,외형·디자인 호평,claude-sonnet-5-5
+ko,character,하나코 반응,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,캐릭터 외형,외형·디자인 호평,claude-sonnet-5-5
+ko,character,학생 디자인 호평,외형·디자인 호평,claude-sonnet-5-5
+ko,character,엔드 콘텐츠 캐릭 요구,캐릭터 콘텐츠 요구,claude-sonnet-5-5
+ko,character,히나 애정 표현,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,사랑 고백 반복,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,미도리 귀여움,외형·디자인 호평,claude-sonnet-5-5
+ko,character,학생 귀여움,외형·디자인 호평,claude-sonnet-5-5
+ko,character,SD 캐릭터 귀여움,외형·디자인 호평,claude-sonnet-5-5
+ko,character,아리스 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,아루 애정 반복,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,케이 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,드하루 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,캐릭터 취향 적중,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터별 매력,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터 애정,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,호시노 디자인,외형·디자인 호평,claude-sonnet-5-5
+ko,character,쿠루미 호감,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,미카 호감,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,아리우스 의상 요구,캐릭터 콘텐츠 요구,claude-sonnet-5-5
+ko,character,학생 디자인,외형·디자인 호평,claude-sonnet-5-5
+ko,character,캐릭터 극찬,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,캐릭터 매력,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,학생 캐릭터 애정,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,애정 캐릭터 의존,캐릭터 전반 호평,claude-sonnet-5-5
+ko,character,원하는 캐릭터 육성,수집·육성 요구,claude-sonnet-5-5
+ko,character,쿠루미 픽업 욕구,수집·육성 요구,claude-sonnet-5-5
+ko,character,이치카 애정,특정 캐릭터 애정,claude-sonnet-5-5
+ko,character,의상별 성능 격차,캐릭터 콘텐츠 요구,claude-sonnet-5-5
+ko,combat_balance,콘텐츠 전반 개선 필요,기타,claude-sonnet-5-5
+ko,combat_balance,보스 기믹 좌표 강제,보스 패턴 설계,claude-sonnet-5-5
+ko,combat_balance,난이도 높음,난이도 과다,claude-sonnet-5-5
+ko,combat_balance,게임성 아쉬움,전투 재미 부족,claude-sonnet-5-5
+ko,combat_balance,게임성 부족,전투 재미 부족,claude-sonnet-5-5
+ko,combat_balance,총력전 언급,보스 패턴 설계,claude-sonnet-5-5
+ko,combat_balance,일반 전투 재미 부족,전투 재미 부족,claude-sonnet-5-5
+ko,combat_balance,총력전 보스 패턴,보스 패턴 설계,claude-sonnet-5-5
+ko,combat_balance,경쟁 압박 적음,기타,claude-sonnet-5-5
+ko,combat_balance,확률 요소 있는 전투,랜덤 요소,claude-sonnet-5-5
+ko,combat_balance,랜덤 있으나 힐링,랜덤 요소,claude-sonnet-5-5
+ko,combat_balance,전투는 서브 콘텐츠,기타,claude-sonnet-5-5
+ko,combat_balance,플레이 재미 부족,전투 재미 부족,claude-sonnet-5-5
+ko,combat_balance,결전 반복 피로,반복 플레이 피로,claude-sonnet-5-5
+ko,combat_balance,전투 상호작용 부족,전투 재미 부족,claude-sonnet-5-5
+ko,content_story,스토리 구성 극찬,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리 감동,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리·이벤트 스토리,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리 호평,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리 만족,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,초반 연출 지루함,초반 전개·주인공 불만,claude-sonnet-5-5
+ko,content_story,재미와 콘텐츠 물량,엔드 콘텐츠 부족,claude-sonnet-5-5
+ko,content_story,만렙 후 콘텐츠 부족,엔드 콘텐츠 부족,claude-sonnet-5-5
+ko,content_story,성교육 업데이트 요청,기타,claude-sonnet-5-5
+ko,content_story,스토리 연출 호평,연출·영상미 호평,claude-sonnet-5-5
+ko,content_story,메인 풀더빙,연출·영상미 호평,claude-sonnet-5-5
+ko,content_story,스토리 영상미 호평,연출·영상미 호평,claude-sonnet-5-5
+ko,content_story,아비도스 3장 호평,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,다채로운 스토리,스토리 다양성,claude-sonnet-5-5
+ko,content_story,스토리 종류 다양,스토리 다양성,claude-sonnet-5-5
+ko,content_story,깊은 스토리·몰입,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,캐릭터·스토리 원툴,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,초반 주인공 언행,초반 전개·주인공 불만,claude-sonnet-5-5
+ko,content_story,청춘 학원물 정체성,세계관·장르 정체성,claude-sonnet-5-5
+ko,content_story,비주얼 노벨 완성도,연출·영상미 호평,claude-sonnet-5-5
+ko,content_story,선생님 서사 영향,세계관·장르 정체성,claude-sonnet-5-5
+ko,content_story,슬픈 스토리 몰입,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,청춘을 보는 어른 시점,세계관·장르 정체성,claude-sonnet-5-5
+ko,content_story,스토리 때문에 입문,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리 중심 게임,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,아리우스 스토리 요구,기타,claude-sonnet-5-5
+ko,content_story,엔드콘텐츠 한정,엔드 콘텐츠 부족,claude-sonnet-5-5
+ko,content_story,메인 스토리 주기,엔드 콘텐츠 부족,claude-sonnet-5-5
+ko,content_story,스토리 재미,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,스토리 몰입,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,게임 스토리 호평,스토리 호평·몰입,claude-sonnet-5-5
+ko,content_story,뇌제의 유산 전개 분노,초반 전개·주인공 불만,claude-sonnet-5-5
+ko,content_story,스토리 연출 재탕,연출·영상미 호평,claude-sonnet-5-5
+ko,customer_support,비공식 프로그램 제재 요구,비공식 프로그램 제재,claude-sonnet-5-5
+ko,customer_support,리뷰 무시하는 운영,운영진 불신·소통 부족,claude-sonnet-5-5
+ko,customer_support,원인 안내 요구,제재 사유 안내 부족,claude-sonnet-5-5
+ko,customer_support,운영진 대응 불신,운영진 불신·소통 부족,claude-sonnet-5-5
+ko,customer_support,사용자 탓 대응,운영진 불신·소통 부족,claude-sonnet-5-5
+ko,customer_support,고객센터 접근 불만,고객센터 접근성,claude-sonnet-5-5
+ko,event_ops,재화 많이 지급,보상 설계 및 지급,claude-sonnet-5-5
+ko,event_ops,레벨 제한 참가 불가,참여 조건 제한,claude-sonnet-5-5
+ko,event_ops,BM 설명 부실,BM 안내 부족,claude-sonnet-5-5
+ko,event_ops,운영 신뢰 하락,운영 신뢰 저하,claude-sonnet-5-5
+ko,event_ops,프랜차이즈 콜라보,콜라보 이벤트,claude-sonnet-5-5
+ko,growth_resources,청휘석 지급 요구,청휘석 부족·지급 요구,claude-sonnet-5-5
+ko,growth_resources,만렙 후 청휘석 부족,청휘석 부족·지급 요구,claude-sonnet-5-5
+ko,growth_resources,청휘석 재화 농담,청휘석 부족·지급 요구,claude-sonnet-5-5
+ko,growth_resources,초반 자원 부족,초반 성장 난이도,claude-sonnet-5-5
+ko,growth_resources,느긋한 수집·성장,성장 속도 체감,claude-sonnet-5-5
+ko,growth_resources,초반 빡셈·만렙 필요,초반 성장 난이도,claude-sonnet-5-5
+ko,growth_resources,복귀 유저 진입장벽,복귀 유저 진입장벽,claude-sonnet-5-5
+ko,growth_resources,골드만으로 육성 가능,성장 속도 체감,claude-sonnet-5-5
+ko,growth_resources,빠른 성장,성장 속도 체감,claude-sonnet-5-5
+ko,growth_resources,인연 랭크 느림,성장 속도 체감,claude-sonnet-5-5
+ko,monetization,가챠 확률 불만,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,히나에 30만원 과금,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,픽업 천장 불만,픽업 천장·확률 개선,claude-sonnet-5-5
+ko,monetization,270뽑 미획득 확률 불만,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,무과금 유저의 패스 결제,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,모집 3성 확률,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,월정액 가성비,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,무과금 친화,재화 지급 호평,claude-sonnet-5-5
+ko,monetization,가챠 중복 실망,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,청휘석 상점 불편,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,애정캐·페스 위주 뽑기,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,선택과 집중 필요한 가챠,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,가챠 매움·월정액 필수,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,픽뚫 심화,픽업 천장·확률 개선,claude-sonnet-5-5
+ko,monetization,페스 가챠 혜택 요구,BM 변경·완화 요구,claude-sonnet-5-5
+ko,monetization,픽업 확률 상향 요구,픽업 천장·확률 개선,claude-sonnet-5-5
+ko,monetization,뽑기권 지급 호평,재화 지급 호평,claude-sonnet-5-5
+ko,monetization,가챠 운 좋음,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,BM 완화 요구,BM 변경·완화 요구,claude-sonnet-5-5
+ko,monetization,BM 변경 반발,BM 변경·완화 요구,claude-sonnet-5-5
+ko,monetization,확률 조작 의심,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,가챠 확률 악화,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,가챠 개선 환영,재화 지급 호평,claude-sonnet-5-5
+ko,monetization,뽑기 개선 호평,재화 지급 호평,claude-sonnet-5-5
+ko,monetization,한섭 체감확률 최악,가챠 확률 불만·의심,claude-sonnet-5-5
+ko,monetization,재화 부족 천장,픽업 천장·확률 개선,claude-sonnet-5-5
+ko,monetization,한섭 BM 개선 요구,BM 변경·완화 요구,claude-sonnet-5-5
+ko,monetization,한정 상품 FOMO,과금 부담·가성비,claude-sonnet-5-5
+ko,monetization,BM 변경 요구,BM 변경·완화 요구,claude-sonnet-5-5
+ko,other,의미 불명,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,전반적 만족,전반적 호평·추천,claude-sonnet-5-5
+ko,other,게임 재미,재미·완성도 호평,claude-sonnet-5-5
+ko,other,의미 불명 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,의미 모호,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,감사 표현,기타,claude-sonnet-5-5
+ko,other,인게임 재미 부족,재미·게임성 불만,claude-sonnet-5-5
+ko,other,운영사 불신,운영 불신·불만,claude-sonnet-5-5
+ko,other,재미없다는 비추천,재미·게임성 불만,claude-sonnet-5-5
+ko,other,게임에 대한 애정,세계관·게임 애착,claude-sonnet-5-5
+ko,other,재미 칭찬,재미·완성도 호평,claude-sonnet-5-5
+ko,other,플레이 권유,전반적 호평·추천,claude-sonnet-5-5
+ko,other,의미 없는 이모티콘,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,관전 소감,기타,claude-sonnet-5-5
+ko,other,대사 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,밈 도배,밈·드립성 글,claude-sonnet-5-5
+ko,other,밈성 문구,밈·드립성 글,claude-sonnet-5-5
+ko,other,F1 선수 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,강력 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,게임 전반 극찬,전반적 호평·추천,claude-sonnet-5-5
+ko,other,전반적 재미,재미·완성도 호평,claude-sonnet-5-5
+ko,other,게임 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,전반 완성도 호평,재미·완성도 호평,claude-sonnet-5-5
+ko,other,의미 없는 글,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,재미 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,무과금 재미,재미·완성도 호평,claude-sonnet-5-5
+ko,other,세계관 몰입,세계관·게임 애착,claude-sonnet-5-5
+ko,other,욕심 버리면 즐거움,재미·완성도 호평,claude-sonnet-5-5
+ko,other,의미 모호한 한 줄,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,감탄사,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,내부 은어 진입장벽,기타,claude-sonnet-5-5
+ko,other,PC판 필요성 의문,기타,claude-sonnet-5-5
+ko,other,단순 호평,전반적 호평·추천,claude-sonnet-5-5
+ko,other,서브컬처 최고 평가,전반적 호평·추천,claude-sonnet-5-5
+ko,other,세계관 애착,세계관·게임 애착,claude-sonnet-5-5
+ko,other,쿠소게 밈 응원,밈·드립성 글,claude-sonnet-5-5
+ko,other,애니 팬 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,유입 경로 감사,기타,claude-sonnet-5-5
+ko,other,플레이 외 요소 재미,재미·완성도 호평,claude-sonnet-5-5
+ko,other,의미 없는 감탄,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,스토리 대사 인용,밈·드립성 글,claude-sonnet-5-5
+ko,other,예상 밖의 재미,재미·완성도 호평,claude-sonnet-5-5
+ko,other,드립성 글,밈·드립성 글,claude-sonnet-5-5
+ko,other,게임성 기대 낮음,재미·게임성 불만,claude-sonnet-5-5
+ko,other,택틱 성공 응원,기타,claude-sonnet-5-5
+ko,other,심해 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,전반적 호평,전반적 호평·추천,claude-sonnet-5-5
+ko,other,파봉 복사 불만,운영 불신·불만,claude-sonnet-5-5
+ko,other,낮은 평점 납득,재미·게임성 불만,claude-sonnet-5-5
+ko,other,게임 및 PD 신뢰,세계관·게임 애착,claude-sonnet-5-5
+ko,other,무난한 평가,기타,claude-sonnet-5-5
+ko,other,선생 롤플레이 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,개발진 영향력 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,게임플레이 구성 혹평,재미·게임성 불만,claude-sonnet-5-5
+ko,other,힐링 분위기,세계관·게임 애착,claude-sonnet-5-5
+ko,other,업계 영향력 고평가,전반적 호평·추천,claude-sonnet-5-5
+ko,other,인생 게임 호평,전반적 호평·추천,claude-sonnet-5-5
+ko,other,내용 없음,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,밈성 글,밈·드립성 글,claude-sonnet-5-5
+ko,other,욕설 이모티콘,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,게임성 평가 모호,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,게임 애정,세계관·게임 애착,claude-sonnet-5-5
+ko,other,전반적 비난,재미·게임성 불만,claude-sonnet-5-5
+ko,other,게임성 평범,재미·게임성 불만,claude-sonnet-5-5
+ko,other,게임명 외침,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,취향 추천,전반적 호평·추천,claude-sonnet-5-5
+ko,other,가벼운 플레이,기타,claude-sonnet-5-5
+ko,other,애정 표현 밈,밈·드립성 글,claude-sonnet-5-5
+ko,other,매몰비용 불만,운영 불신·불만,claude-sonnet-5-5
+ko,other,습관적 플레이,기타,claude-sonnet-5-5
+ko,other,최근 사건 언급,기타,claude-sonnet-5-5
+ko,other,운영 배신감,운영 불신·불만,claude-sonnet-5-5
+ko,other,루틴이라 못 접음,기타,claude-sonnet-5-5
+ko,other,플레이 비추천,재미·게임성 불만,claude-sonnet-5-5
+ko,other,집무실 의문,기타,claude-sonnet-5-5
+ko,other,유입 경위,기타,claude-sonnet-5-5
+ko,other,가볍게 체험,기타,claude-sonnet-5-5
+ko,other,의리로 플레이,세계관·게임 애착,claude-sonnet-5-5
+ko,other,전반적 호감,전반적 호평·추천,claude-sonnet-5-5
+ko,other,게임성 노잼,재미·게임성 불만,claude-sonnet-5-5
+ko,other,게임이 준 변화,기타,claude-sonnet-5-5
+ko,other,은어 의미 모호,의미 불명·무의미 글,claude-sonnet-5-5
+ko,other,게임 외 콘텐츠 소비,기타,claude-sonnet-5-5
+ko,other,게임 애착,세계관·게임 애착,claude-sonnet-5-5
+ko,tech_bugs,메모리 최적화·튕김,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,잦은 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,랙 발생,로딩 지연·렉,claude-sonnet-5-5
+ko,tech_bugs,장기간 튕김 방치,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,종료·발열 최적화,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,구형 기기 미지원,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,전투 진입 시 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,종합전술시험 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,전투 진입 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,모바일 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,튕김·화면 멈춤,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,아이폰13미니 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,튕김 악화,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,아이폰16 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,아이폰13 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,콘텐츠 진입 시 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,업데이트 후 잦은 튕김,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,아이폰 프레임 저하,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,아이폰13 강제종료,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,결전 콘텐츠 반복 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,아이폰 튕김 지속,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,튕김과 업데이트 후 버벅임,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,진행 불가 수준 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,심한 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,업데이트 후 튕김,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,고질적 문제 미해결,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,일반 화면 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,그래픽 높으면 튕김,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,기기 불문 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,화면 전환 시 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,10~20분 강제종료,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,모바일 튕김 PC 대체,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,최근 튕김 증가,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,SE2 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,점령전 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,플레이 중 튕김 다발,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,재설치 후에도 크래시,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,최적화 요구,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,해외 접속 타임아웃,기타,claude-sonnet-5-5
+ko,tech_bugs,아이폰 1분 내 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,3분마다 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,이벤트 이후 튕김 악화,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,카테고리 이동 시 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,예고 없는 앱 꺼짐,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,강종 주기 단축,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,백야당 이벤트 진입 불가,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,아이폰12미니 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,튕김으로 진행 곤란,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,아이패드 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,버튼마다 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,카페와 이벤트 진입 튕김,콘텐츠 진입 시 튕김,claude-sonnet-5-5
+ko,tech_bugs,이벤트 패치 후 강제종료,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,5분마다 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,게임 종료 잦음,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,5분에 3번 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,실행 직후 튕김 반복,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,아이폰8 잦은 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,구형폰 최적화와 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,업데이트 후 튕김 악화,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,패치 후 튕김,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,미친듯한 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,아이패드 에어4 튕김,기기별 튕김,claude-sonnet-5-5
+ko,tech_bugs,혼자 나가지는 오류,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,이벤트 시작 후 튕김 악화,업데이트 후 튕김 악화,claude-sonnet-5-5
+ko,tech_bugs,5분 플레이 후 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,20분에 4번 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,로딩 중 튕김과 최적화,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,iOS 최적화 불량,최적화 불량,claude-sonnet-5-5
+ko,tech_bugs,몇 판 후 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,보안모듈 불만,기타,claude-sonnet-5-5
+ko,tech_bugs,로딩 지연과 튕김,로딩 지연·렉,claude-sonnet-5-5
+ko,tech_bugs,실행 중 튕김,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,2D 라이브 때 끊김,로딩 지연·렉,claude-sonnet-5-5
+ko,tech_bugs,초반 랙,로딩 지연·렉,claude-sonnet-5-5
+ko,tech_bugs,튕김 실행 삭제 오류,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,보안 모듈 초기화 반복,기타,claude-sonnet-5-5
+ko,tech_bugs,게임 구동 불량,앱 튕김·강제종료,claude-sonnet-5-5
+ko,tech_bugs,저사양 최적화,최적화 불량,claude-sonnet-5-5
+ko,ui_ux,버프 지정 불편한 카메라,카메라·조작 불편,claude-sonnet-5-5
+ko,ui_ux,코스트 게이지 가시성,UI 가시성·가독성,claude-sonnet-5-5
+ko,ui_ux,UI 만족,기타,claude-sonnet-5-5
+ko,ui_ux,모바일 화면 가시성,UI 가시성·가독성,claude-sonnet-5-5
+ko,ui_ux,저사양 옵션 요청,저사양 옵션 지원,claude-sonnet-5-5
+ko,ui_ux,저옵션 글자 가독성,저사양 옵션 지원,claude-sonnet-5-5
+ko,ui_ux,UI 용어 몰입감,기타,claude-sonnet-5-5
+ko,ui_ux,캐릭터 상호작용 부족,소통·상호작용 부족,claude-sonnet-5-5
+ko,ui_ux,유저 간 소통 기능 부재,소통·상호작용 부족,claude-sonnet-5-5

@@ -1,0 +1,9 @@
+.env
+__pycache__/
+# 원문 리뷰는 배포하지 않는다 (웹사이트는 data/public 발췌본만 읽음)
+data/raw/reviews/
+data/processed/game_reviews.csv
+data/processed/gold_labels.csv
+data/processed/gold_recheck_monetization.csv
+data/processed/review_topics.csv
+data/processed/analysis.sqlite

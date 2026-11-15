@@ -1,0 +1,6 @@
+﻿game_id,service_region,store,store_country,package_or_app_id,publisher,primary_language,store_url,id_verified_at,id_verified_by,review_access
+blue_archive,GLOBAL,google_play,KR,com.nexon.bluearchive,NEXON,ko,https://play.google.com/store/apps/details?id=com.nexon.bluearchive,2026-11-08,스토어 페이지 HTTP 200,AppFollow 확인 전 수집 안 함
+blue_archive,JP,google_play,JP,com.YostarJP.BlueArchive,Yostar,ja,https://play.google.com/store/apps/details?id=com.YostarJP.BlueArchive,2026-11-08,스토어 페이지 HTTP 200,AppFollow 확인 전 수집 안 함
+blue_archive,GLOBAL,app_store,KR,1571873795,NEXON Korea Corporation,ko,https://apps.apple.com/kr/app/id1571873795,2026-11-08,"iTunes Search API lookup (평점 수 4,961 · 버전 1.93.452024)",AppFollow 확인 전 수집 안 함
+blue_archive,JP,app_store,JP,1515877221,"Yostar, Inc.",ja,https://apps.apple.com/jp/app/id1515877221,2026-11-08,"iTunes Search API lookup (평점 수 45,576 · 버전 1.74)",AppFollow 확인 전 수집 안 함
+blue_archive,GLOBAL,steam,,3557620,NEXON Korea,en,https://store.steampowered.com/app/3557620/,2026-11-08,Steam appdetails (출시 2025-07-03 · 일본어 미지원),공식 API 수집 중

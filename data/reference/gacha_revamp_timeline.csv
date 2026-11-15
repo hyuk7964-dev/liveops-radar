@@ -1,0 +1,8 @@
+﻿event_date,region,event,source_type,source_url,note
+2026-07-26,JP,5.5주년 생방송에서 가챠(生徒募集) 개편 발표,press,https://search.yahoo.co.jp/realtime/search/matome/10e41fbb2a87462a92fd219295faad2d-1785068400,발표가 갑작스러웠다는 반응. 날짜는 SNS 정리 기사 기준
+2026-07-28,GLOBAL,Steam 글로벌판 리뷰 압도적 불호로 하락(일본 개편이 글로벌에 올까 우려),press,https://www.gamespark.jp/article/2026/07/28/169855.html,공식 공지 아님
+2026-07-29,JP,"점검 후 새 모집 적용: 呼び出しポイント 폐지, 100회 3성 확정(픽업 50%), 200회 픽업 확정, 픽업 획득 시 카운트 리셋",press,https://automaton-media.com/articles/newsjp/20260728-457011/,일본 공식 공지 원문은 미확보(공식 뉴스 목록 6건 밖)
+2026-07-30,JP,김용하 총괄 PD 사과 코멘트 공개(변경은 유지),press,https://www.famitsu.com/article/202607/82796,날짜는 기사 게재월 기준 근사
+2026-10-08,GLOBAL,11/10(화) 모집 시스템 개편 사전 안내 (Steam 공식 공지),official,https://store.steampowered.com/news/app/3557620,data/raw/updates Steam 뉴스에 포함
+2026-11-08,GLOBAL,"5주년 발표: 모집 포인트 폐지 · 모집 스택 도입, 100회 3성 확정(픽업 50%), 200회 확정, 미획득 시 이월, 무료 200회 등",press,https://zdnet.co.kr/view/?no=20261108170705,일본과 달리 이월 있음(기사 기준)
+2026-11-10,GLOBAL,"한국 · 글로벌 개편 적용: 모집 스택 · 특별 스택, 100스택 ★3 확정(픽업 50%), 200스택 픽업 확정, 스택 이월, 상시 모집 종료",official,https://forum.nexon.com/bluearchive/board_view?board=1076&thread=3566313,"공식 공지로 적용 확인(11/12). 점검 18시 종료(2시간 연장). 일본과 달리 이월 있음. 사후 검증 기준일"

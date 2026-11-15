@@ -1,0 +1,11 @@
+﻿collection_id,source_name,source_type,collected_at,date_from,date_to,records_collected,records_rejected,collection_method,permission_status,notes
+c1794120933,steam_reviews_koreana,reviews,2026-11-08T06:55:33Z,2026-08-10,2026-11-08,267,0,steam_official_api,official_api_terms_reviewed,Steam PC 글로벌판 리뷰. 모바일 스토어 표본 아님
+c1794120941,steam_reviews_english,reviews,2026-11-08T06:55:41Z,2026-08-10,2026-11-08,417,0,steam_official_api,official_api_terms_reviewed,Steam PC 글로벌판 리뷰. 모바일 스토어 표본 아님
+c1794120942,steam_news,updates,2026-11-08T06:55:42Z,2026-08-10,2026-11-08,49,0,steam_official_api,official_api_terms_reviewed,Steam 커뮤니티 공지. 모바일 적용일과 다를 수 있음
+c1794123967,appstore_reviews_kr,reviews,2026-11-08T07:46:07Z,2023-01-31,2026-11-08,100,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건
+c1794124062,appstore_reviews_jp,reviews,2026-11-08T07:47:42Z,2026-08-04,2026-11-08,100,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건
+c1794124175,appstore_reviews_us,reviews,2026-11-08T07:49:35Z,2026-11-08,2026-11-08,0,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건
+c1794124259,gamerch_jp,updates,2026-11-08T07:50:59Z,2026-05-12,2026-11-08,34,0,community_lowrate,user_approved_no_prohibition,Gamerch 불구합 · 잡담 게시판. 날짜는 상대 표기 환산
+c1794124625,appstore_reviews_kr,reviews,2026-11-08T07:57:05Z,2023-01-31,2026-11-08,100,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건
+c1794125049,appstore_reviews_us,reviews,2026-11-08T08:04:09Z,2026-11-08,2026-11-08,0,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건
+c1794125472,appstore_reviews_jp,reviews,2026-11-08T08:11:12Z,2026-08-04,2026-11-08,100,0,apple_rss,user_approved_terms_unverified,Apple 공개 RSS 최신순 최대 500건

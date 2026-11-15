@@ -1,0 +1,940 @@
+﻿review_id,topic,sub_topic,sentiment,language,review_date,issue_group
+appstore_jp_14759798576,other,퍼블리셔 변경 반발,negative,ja,2026-11-06,운영사 변경 불안
+appstore_jp_14753031958,other,게임 자체 호평,positive,ja,2026-11-05,호평
+appstore_jp_14751809606,other,비주얼 사운드 호평,positive,ja,2026-11-04,호평
+appstore_jp_14750030822,other,퍼블리셔 변경 낙관,positive,ja,2026-11-04,운영사 변경 불안
+appstore_jp_14748646885,other,오래 할수록 애착,positive,ja,2026-11-03,호평
+appstore_jp_14748646885,other,회사 변경 불안,neutral,ja,2026-11-03,운영사 변경 불안
+appstore_jp_14747407926,other,넥슨 운영 우려,neutral,ja,2026-11-03,넥슨 운영 거부감
+appstore_jp_14745839321,character,시로코 호감,positive,ja,2026-11-03,캐릭터 애정·호감
+appstore_jp_14741304486,content_story,스토리 호평,positive,ja,2026-11-02,스토리 호평·감동
+appstore_jp_14741304486,monetization,가챠 확률 무난,positive,ja,2026-11-02,기타
+appstore_jp_14741304486,growth_resources,성장은 시간 필요,neutral,ja,2026-11-02,육성 소요시간 과다
+appstore_jp_14741304486,combat_balance,기믹 난이도,neutral,ja,2026-11-02,전투 난이도·기믹 부담
+appstore_jp_14740707039,other,몰입 및 착취 우려,positive,ja,2026-11-01,넥슨 운영 거부감
+appstore_jp_14738006706,monetization,가챠 개선 인정,positive,ja,2026-11-01,개편 긍정 평가
+appstore_jp_14737908673,other,전반적 호평과 응원,positive,ja,2026-11-01,호평
+appstore_jp_14736920454,other,요스타 종료 한탄,negative,ja,2026-11-01,운영사 변경 불안
+appstore_jp_14736115113,other,플레이 권유,positive,ja,2026-10-31,호평
+appstore_jp_14735537141,combat_balance,쉽게 게임오버,negative,ja,2026-10-31,전투 난이도·기믹 부담
+appstore_jp_14731659008,monetization,사양 변경 후 획득 용이,positive,ja,2026-10-30,개편 긍정 평가
+appstore_jp_14731659008,content_story,긴 스토리 감동,positive,ja,2026-10-30,스토리 호평·감동
+appstore_jp_14730056802,content_story,파반느편 호평,positive,ja,2026-10-30,스토리 호평·감동
+appstore_jp_14730056802,other,BGM 캐릭터송 호평,positive,ja,2026-10-30,호평
+appstore_jp_14726317315,content_story,괴로운 전개,negative,ja,2026-10-29,전개·설정 불만
+appstore_jp_14726317315,character,게마트리아 혐오,negative,ja,2026-10-29,기타
+appstore_jp_14726053347,monetization,가챠 불안,negative,ja,2026-10-29,가챠 개편 불만
+appstore_jp_14726053347,other,계속할 의지,positive,ja,2026-10-29,호평
+appstore_jp_14725924510,content_story,비인기 캐릭터 묘사,positive,ja,2026-10-29,전개·설정 불만
+appstore_jp_14725924510,other,번역 품질 우려,negative,ja,2026-10-29,기타
+appstore_jp_14725055138,character,하루카 애정,positive,ja,2026-10-29,캐릭터 애정·호감
+appstore_jp_14724727072,monetization,가챠 변경 후 의욕 저하,negative,ja,2026-10-29,가챠 개편 불만
+appstore_jp_14724727072,combat_balance,게임성 혹평,negative,ja,2026-10-29,전투 재미 평가
+appstore_jp_14724727072,other,요스타 선호,negative,ja,2026-10-29,운영사 변경 불안
+appstore_jp_14724357356,other,서비스 비관,negative,ja,2026-10-28,서비스 종료 우려
+appstore_jp_14723954540,character,캐릭터 귀여움,positive,ja,2026-10-28,캐릭터 귀여움·매력
+appstore_jp_14723702708,monetization,갑작스런 가챠 변경,negative,ja,2026-10-28,가챠 개편 불만
+appstore_jp_14723702708,other,운영사 변경,negative,ja,2026-10-28,운영사 변경 불안
+appstore_jp_14723511859,monetization,새 가챠 제도 난해,negative,ja,2026-10-28,가챠 개편 불만
+appstore_jp_14723511859,combat_balance,상성 맞추기 부담,negative,ja,2026-10-28,전투 난이도·기믹 부담
+appstore_jp_14723511859,content_story,스토리 무난,positive,ja,2026-10-28,스토리 호평·감동
+appstore_jp_14723511859,other,느린 템포,neutral,ja,2026-10-28,기타
+appstore_jp_14721702489,other,네거티브 여론 비판,neutral,ja,2026-10-28,네거티브 여론 반발
+appstore_jp_14721164908,other,전반적 호평,positive,ja,2026-10-28,호평
+appstore_jp_14721159010,event_ops,이벤트 질 향상,positive,ja,2026-10-28,이벤트 품질 개선 요구
+appstore_jp_14721159010,character,멋진 캐릭터 증가,positive,ja,2026-10-28,캐릭터 디자인 호평
+appstore_jp_14721072903,character,귀여운 학생 다수,positive,ja,2026-10-28,캐릭터 귀여움·매력
+appstore_jp_14721041563,character,캐릭터 귀여움,positive,ja,2026-10-28,캐릭터 귀여움·매력
+appstore_jp_14721041563,content_story,스토리 재미,positive,ja,2026-10-28,스토리 호평·감동
+appstore_jp_14720962039,character,세이아 호감,positive,ja,2026-10-28,캐릭터 애정·호감
+appstore_jp_14720604829,character,히나 호감,positive,ja,2026-10-27,캐릭터 애정·호감
+appstore_jp_14717814993,other,넥슨 회원가입 거부,negative,ja,2026-10-27,넥슨 운영 거부감
+appstore_jp_14716627686,customer_support,데이터 복구 대응,positive,ja,2026-10-26,
+appstore_jp_14715305738,monetization,가챠 개악 불만,negative,ja,2026-10-26,가챠 개편 불만
+appstore_jp_14715305738,other,넥슨ID 거부 은퇴,negative,ja,2026-10-26,넥슨 운영 거부감
+appstore_jp_14713365576,content_story,에덴 조약편 감동,positive,ja,2026-10-26,스토리 호평·감동
+appstore_jp_14713365576,ui_ux,진행 편의,positive,ja,2026-10-26,UI 개편 불만
+appstore_jp_14713141502,other,회사 변경 우려,negative,ja,2026-10-26,운영사 변경 불안
+appstore_jp_14713141502,other,서비스 종료 전망,negative,ja,2026-10-26,서비스 종료 우려
+appstore_jp_14712544550,other,퍼블리셔 변경 불안,negative,ja,2026-10-25,운영사 변경 불안
+appstore_jp_14712544550,event_ops,악화된 커뮤니티 환경,negative,ja,2026-10-25,커뮤니티 환경 악화
+appstore_jp_14712544550,other,즐거움 부족,negative,ja,2026-10-25,기타
+appstore_jp_14708955938,content_story,스토리 재미,positive,ja,2026-10-25,스토리 호평·감동
+appstore_jp_14708955938,character,학생 귀여움,positive,ja,2026-10-25,캐릭터 귀여움·매력
+appstore_jp_14708010844,content_story,스토리 극찬,positive,ja,2026-10-24,스토리 호평·감동
+appstore_jp_14708010844,combat_balance,전투 단조로움,negative,ja,2026-10-24,전투 단조로움
+appstore_jp_14708010844,growth_resources,육성 요소 빈약,negative,ja,2026-10-24,육성 콘텐츠 부족
+appstore_jp_14708010844,monetization,배출률 문의,neutral,ja,2026-10-24,픽업 확률·천장 불만
+appstore_jp_14694137256,other,조롱성 비하,negative,ja,2026-10-21,기타
+appstore_jp_14692498681,tech_bugs,용량 10GB 이상,negative,ja,2026-10-21,앱 용량 과다
+appstore_jp_14692498681,monetization,가챠 불만,negative,ja,2026-10-21,가챠 개편 불만
+appstore_jp_14692329304,content_story,스토리 호평,positive,ja,2026-10-21,스토리 호평·감동
+appstore_jp_14692329304,combat_balance,전술대항전 불만,negative,ja,2026-10-21,전술대항전 AI·스킬
+appstore_jp_14687969292,tech_bugs,데이터 소실,negative,ja,2026-10-19,데이터 소실·진행 오류
+appstore_jp_14687969292,customer_support,복구 불가 안내,negative,ja,2026-10-19,
+appstore_jp_14684367767,other,네거티브 캠페인 반발,positive,ja,2026-10-18,네거티브 여론 반발
+appstore_jp_14681061192,content_story,스토리 감동,positive,ja,2026-10-18,스토리 호평·감동
+appstore_jp_14681061192,combat_balance,편성 고민의 재미,positive,ja,2026-10-18,편성·육성 재미
+appstore_jp_14672742146,other,BGM 호평 후 불만 암시,neutral,ja,2026-10-16,호평
+appstore_jp_14665573385,character,학생 매력,positive,ja,2026-10-14,캐릭터 귀여움·매력
+appstore_jp_14665573385,content_story,스토리 감동,positive,ja,2026-10-14,스토리 호평·감동
+appstore_jp_14406985977,monetization,호출 포인트 리셋 반발,negative,ja,2026-08-09,천장 포인트 리셋 반발
+appstore_jp_14406985977,event_ops,공지 방식과 사후 대응,negative,ja,2026-08-09,공지 방식·전달 경로
+appstore_jp_14406985977,content_story,5.5주년 에피소드 빈약,negative,ja,2026-08-09,주년 스토리 실망
+appstore_jp_14400504236,content_story,스토리 기대 상실,negative,ja,2026-08-07,스토리 품질 저하
+appstore_jp_14400504236,monetization,가챠 개악,negative,ja,2026-08-07,가챠 개편 불만
+appstore_jp_14400504236,growth_resources,성7 소재 부족 우려,negative,ja,2026-08-07,육성 재화 부족
+appstore_jp_14399487312,monetization,가챠 사양 변경,negative,ja,2026-08-07,가챠 개편 불만
+appstore_jp_14399060290,tech_bugs,프리즈,negative,ja,2026-08-07,튕김·프리즈
+appstore_jp_14398521986,monetization,무과금도 즐길 만함,positive,ja,2026-08-07,개편 긍정 평가
+appstore_jp_14398521986,combat_balance,세밀한 편성 육성,positive,ja,2026-08-07,편성·육성 재미
+appstore_jp_14398521986,character,3D 모델 위화감,negative,ja,2026-08-07,3D 구현·밸런스
+appstore_jp_14398521986,tech_bugs,튕김 및 긴 로딩,negative,ja,2026-08-07,튕김·프리즈
+appstore_jp_14398521986,growth_resources,장비 소재 고갈,negative,ja,2026-08-07,육성 재화 부족
+appstore_jp_14397614715,other,전반적 호평,positive,ja,2026-08-06,호평
+appstore_jp_14397572912,monetization,100연 픽업 미작동,negative,ja,2026-08-06,픽업 확률·천장 불만
+appstore_jp_14397572912,monetization,과거 더블픽업 선호,negative,ja,2026-08-06,픽업 확률·천장 불만
+appstore_jp_14396241327,content_story,주년 이벤트 스토리 실망,negative,ja,2026-08-06,주년 스토리 실망
+appstore_jp_14395284171,monetization,포인트 리셋 손실,negative,ja,2026-08-06,천장 포인트 리셋 반발
+appstore_jp_14395284171,monetization,유료팩 집금감,negative,ja,2026-08-06,과금 유도 불신
+appstore_jp_14395284171,tech_bugs,일정 로딩 무한,negative,ja,2026-08-06,로딩·접속 장애
+appstore_jp_14395284171,ui_ux,무료팩 화면 지연,negative,ja,2026-08-06,화면 지연
+appstore_jp_14395284171,content_story,2부 기대,positive,ja,2026-08-06,2부 기대
+appstore_jp_14394885499,monetization,가챠 리셋 개악,negative,ja,2026-08-06,천장 포인트 리셋 반발
+appstore_jp_14394519291,monetization,가챠 변경과 과금 추가,negative,ja,2026-08-06,과금 유도 불신
+appstore_jp_14394519291,event_ops,논란에 침묵,negative,ja,2026-08-06,논란 무대응·침묵
+appstore_jp_14394499071,character,캐릭터 귀여움,positive,ja,2026-08-06,캐릭터 귀여움·매력
+appstore_jp_14394477723,character,수영복 이로하 구현,positive,ja,2026-08-06,3D 구현·밸런스
+appstore_jp_14394474296,event_ops,생방송 형식의 공지,negative,ja,2026-08-06,공지 방식·전달 경로
+appstore_jp_14394474296,monetization,천장교환 소멸 포인트 리셋,negative,ja,2026-08-06,천장 포인트 리셋 반발
+appstore_jp_14394279778,growth_resources,강화 항목 증가,negative,ja,2026-08-06,육성 절차 복잡화
+appstore_jp_14394279778,content_story,스토리 난립,negative,ja,2026-08-06,스토리 품질 저하
+appstore_jp_14394279778,monetization,가챠 변경 우려,negative,ja,2026-08-06,가챠 개편 불만
+appstore_jp_14394068108,event_ops,사과만 하고 개선 언급 없음,negative,ja,2026-08-06,사과 후 개선책 부재
+appstore_jp_14394068108,monetization,가챠 시스템 갑작스런 변경,negative,ja,2026-08-06,가챠 개편 불만
+appstore_jp_14392778082,character,카요코 애정,positive,ja,2026-08-05,캐릭터 애정·호감
+appstore_jp_14392752643,character,만마전 캐릭터 호평,positive,ja,2026-08-05,캐릭터 디자인 호평
+appstore_jp_14392310145,monetization,픽업 이탈 과다,negative,ja,2026-08-05,픽업 확률·천장 불만
+appstore_jp_14391824277,monetization,가챠 개편 불신,negative,ja,2026-08-05,가챠 개편 불만
+appstore_jp_14391824277,event_ops,설명 부재와 과거 논란,negative,ja,2026-08-05,논란 무대응·침묵
+appstore_jp_14391741278,character,에리 애정,positive,ja,2026-08-05,캐릭터 애정·호감
+appstore_jp_14391678501,monetization,픽업 획득 불가 불쾌감,negative,ja,2026-08-05,픽업 확률·천장 불만
+appstore_jp_14391654818,monetization,낮은 픽업률 천장 리셋,negative,ja,2026-08-05,픽업 확률·천장 불만
+appstore_jp_14391654818,monetization,픽업 사기,negative,ja,2026-08-05,픽업 확률·천장 불만
+appstore_jp_14391654818,content_story,스토리 호평,positive,ja,2026-08-05,스토리 호평·감동
+appstore_jp_14391329967,character,츠루기 애정,positive,ja,2026-08-05,캐릭터 애정·호감
+appstore_jp_14391002869,character,시로코 귀여움,positive,ja,2026-08-05,캐릭터 귀여움·매력
+appstore_jp_14390915270,event_ops,통달 경로와 침묵,negative,ja,2026-08-05,공지 방식·전달 경로
+appstore_jp_14390915270,monetization,가챠 개편 심상 악화,negative,ja,2026-08-05,가챠 개편 불만
+appstore_jp_14390786957,character,캐릭터 귀여움,positive,ja,2026-08-05,캐릭터 귀여움·매력
+appstore_jp_14390737870,monetization,가챠 개악,negative,ja,2026-08-05,가챠 개편 불만
+appstore_jp_14390737870,combat_balance,게임성 미묘,negative,ja,2026-08-05,전투 재미 평가
+appstore_jp_14390653466,monetization,가챠 기대값 중심 설계,negative,ja,2026-08-05,과금 유도 불신
+appstore_jp_14390653466,event_ops,개선 언급 없음,negative,ja,2026-08-05,사과 후 개선책 부재
+appstore_jp_14390490099,content_story,스토리 질 저하,negative,ja,2026-08-05,스토리 품질 저하
+appstore_jp_14390490099,monetization,신사양 기대값 하락,negative,ja,2026-08-05,픽업 확률·천장 불만
+appstore_jp_14390490099,event_ops,하프 직전 발표와 성우 낭독,negative,ja,2026-08-05,공지 방식·전달 경로
+appstore_jp_14390342424,character,캐릭터·전투 개성,positive,ja,2026-08-05,캐릭터 디자인 호평
+appstore_jp_14390342424,monetization,가챠 시스템 개편 혼란,negative,ja,2026-08-05,가챠 개편 불만
+appstore_jp_14390035602,character,미요 귀여움,positive,ja,2026-08-05,캐릭터 귀여움·매력
+appstore_jp_14389910702,monetization,가챠 개악,negative,ja,2026-08-05,가챠 개편 불만
+appstore_jp_14389910702,ui_ux,UI 개악,negative,ja,2026-08-05,UI 개편 불만
+appstore_jp_14389910702,event_ops,운영 무반응·일러 미공개,negative,ja,2026-08-05,논란 무대응·침묵
+appstore_jp_14389867287,monetization,새 가챠 시스템 옹호,positive,ja,2026-08-05,개편 긍정 평가
+appstore_jp_14389867287,monetization,횟수 보상으로 재화 절약,positive,ja,2026-08-05,개편 긍정 평가
+appstore_jp_14389842644,monetization,과금 중심 운영,negative,ja,2026-08-04,과금 유도 불신
+appstore_jp_14389617641,monetization,가챠 시스템 불만,negative,ja,2026-08-04,가챠 개편 불만
+appstore_jp_14389567818,character,귀여운 캐릭터 다수,positive,ja,2026-08-04,캐릭터 귀여움·매력
+appstore_jp_14389567818,tech_bugs,앱 용량 과다,negative,ja,2026-08-04,앱 용량 과다
+appstore_jp_14389484449,character,캐릭터 호평,positive,ja,2026-08-04,캐릭터 디자인 호평
+appstore_jp_14389484449,content_story,스토리 호평,positive,ja,2026-08-04,스토리 호평·감동
+appstore_jp_14389484449,combat_balance,전투 재미,positive,ja,2026-08-04,전투 재미 평가
+appstore_jp_14389408740,monetization,천장 카운트 리셋,negative,ja,2026-08-04,천장 포인트 리셋 반발
+appstore_jp_14389408740,character,디자인·성우 호평,positive,ja,2026-08-04,캐릭터 디자인 호평
+appstore_jp_14389403536,ui_ux,가챠 이력 조회 없음,negative,ja,2026-08-04,가챠 이력 조회 부재
+appstore_jp_14389403536,event_ops,공식 성명 불투명,negative,ja,2026-08-04,논란 무대응·침묵
+appstore_jp_14389403536,monetization,가챠 사양 변경,negative,ja,2026-08-04,가챠 개편 불만
+appstore_jp_14389256338,monetization,가챠 개악·낮은 확률,negative,ja,2026-08-04,픽업 확률·천장 불만
+appstore_jp_14388717610,monetization,가챠 개악,negative,ja,2026-08-04,가챠 개편 불만
+appstore_jp_14387636742,tech_bugs,챌린지 버그,negative,ja,2026-08-04,전투·콘텐츠 버그
+appstore_jp_14387636742,combat_balance,대항전 AI·스킬 문제,negative,ja,2026-08-04,전술대항전 AI·스킬
+appstore_jp_14387636742,character,캐릭터 스킬 오작동,negative,ja,2026-08-04,스킬 오작동·강화
+appstore_jp_14387636742,content_story,스토리 설정 불만,negative,ja,2026-08-04,전개·설정 불만
+appstore_jp_14386900474,content_story,스토리·애니화 호평,positive,ja,2026-08-04,스토리 호평·감동
+appstore_jp_14386900474,character,캐릭터 디자인 호평,positive,ja,2026-08-04,캐릭터 디자인 호평
+appstore_jp_14386900474,monetization,가챠 호평,positive,ja,2026-08-04,개편 긍정 평가
+appstore_jp_14386882748,monetization,가챠 사양 개악,negative,ja,2026-08-04,가챠 개편 불만
+appstore_jp_14386839799,growth_resources,육성 번잡함 증가,negative,ja,2026-08-04,육성 절차 복잡화
+appstore_jp_14386839799,character,캐릭터 강화 요소 추가,negative,ja,2026-08-04,스킬 오작동·강화
+steam_239544071,customer_support,계정 연동 문의 무응답,negative,en,2026-11-06,
+steam_239526162,monetization,가챠 결과 불만 추정,negative,en,2026-11-06,가챠 확률·획득 불만
+steam_239488039,tech_bugs,세션 중복 로그인 차단,negative,en,2026-11-06,접속·세션 오류
+steam_239488039,growth_resources,청휘석 수급 어려움,negative,en,2026-11-06,재화 수급 부담
+steam_239488039,event_ops,출석 기록 끊김,negative,en,2026-11-06,운영 방향 불신
+steam_239487098,content_story,스토리 감동,positive,en,2026-11-06,스토리 호평
+steam_239487098,tech_bugs,램 사용량 부담,negative,en,2026-11-06,기기 자원 부담
+steam_239476603,character,캐릭터 디자인 호평,positive,en,2026-11-06,캐릭터 디자인·모델 호평
+steam_239476603,character,일러스트 화풍 불균일,negative,en,2026-11-06,기타
+steam_239476603,combat_balance,조작 개입 적은 전투,neutral,en,2026-11-06,쉬운 조작·라이트 접근성
+steam_239470244,content_story,스토리 호평,positive,en,2026-11-06,스토리 호평
+steam_239442568,other,게임성 부족 추정,negative,en,2026-11-05,혹평·이탈·지루함
+steam_239429603,growth_resources,안정적인 성장 진행,positive,en,2026-11-05,성장 진척감
+steam_239429603,combat_balance,쉬운 시스템 이해,positive,en,2026-11-05,쉬운 조작·라이트 접근성
+steam_239402235,content_story,스토리 호평,positive,en,2026-11-05,스토리 호평
+steam_239402235,combat_balance,라이트 유저에게 적합,positive,en,2026-11-05,쉬운 조작·라이트 접근성
+steam_239402235,other,일부 커뮤니티 분위기,negative,en,2026-11-05,커뮤니티·팬덤 갈등
+steam_239379774,content_story,감동적인 스토리,positive,en,2026-11-04,스토리 호평
+steam_239379774,character,캐릭터 귀여움,positive,en,2026-11-04,캐릭터 호평·애정
+steam_239268118,other,전반적 극찬,positive,en,2026-11-03,게임 전반 호평
+steam_239238588,content_story,감동적인 스토리,positive,en,2026-11-03,스토리 호평
+steam_239238588,combat_balance,재미있는 게임플레이,positive,en,2026-11-03,전투 재미·전략성 호평
+steam_239238588,other,OST 극찬,positive,en,2026-11-03,연출·아트·음악 호평
+steam_239228646,combat_balance,경쾌한 전투,positive,en,2026-11-02,전투 재미·전략성 호평
+steam_239228646,content_story,몰입되는 미션 스토리,positive,en,2026-11-02,스토리 호평
+steam_239209738,monetization,가챠 시스템 변경 논란,neutral,en,2026-11-02,가챠 개편 반발
+steam_239175470,content_story,스토리 감동 추정,positive,en,2026-11-02,스토리 호평
+steam_239101980,other,게임 평판 억울함,negative,en,2026-11-01,커뮤니티·팬덤 갈등
+steam_239061297,character,로리 캐릭터 성별 농담,neutral,en,2026-11-01,선정성·미성년 논란
+steam_238974463,character,미성년 캐릭터 취급 비판,negative,en,2026-10-31,선정성·미성년 논란
+steam_238909767,character,캐릭터 귀여움,positive,en,2026-10-30,캐릭터 호평·애정
+steam_238819060,other,의미 모호,neutral,en,2026-10-29,의미 불명 리뷰
+steam_238784702,other,은어 밈 표현,neutral,en,2026-10-29,밈성 리뷰
+steam_238674127,other,지루함,negative,en,2026-10-27,혹평·이탈·지루함
+steam_238673492,other,EA 욕설,negative,en,2026-10-27,경영진·운영사 비판
+steam_238668755,content_story,감동적인 스토리 추정,positive,en,2026-10-27,스토리 호평
+steam_238663246,other,무의미한 문자열,neutral,en,2026-10-27,의미 불명 리뷰
+steam_238652477,other,성적 소비 농담,positive,en,2026-10-27,밈성 리뷰
+steam_238619416,other,시간 낭비 평가,negative,en,2026-10-26,혹평·이탈·지루함
+steam_238617437,other,게임 및 커뮤니티 비난,negative,en,2026-10-26,커뮤니티·팬덤 갈등
+steam_238599916,character,치비 모델 호평,positive,en,2026-10-26,캐릭터 디자인·모델 호평
+steam_238599916,combat_balance,단순 반복 플레이,neutral,en,2026-10-26,전투 반복성·단조로움
+steam_238599916,monetization,무과금 친화적,positive,en,2026-10-26,개편 옹호·호평
+steam_238599916,monetization,가챠 50/50 변경 우려,negative,en,2026-10-26,50/50 도입 반발
+steam_238550540,character,AI 조수 캐릭터 호감,positive,en,2026-10-25,캐릭터 호평·애정
+steam_238529313,character,여성 캐릭터 호감,positive,en,2026-10-25,캐릭터 호평·애정
+steam_238451563,combat_balance,자동 소탕이 전투 깊이 제거,negative,en,2026-10-24,자동전투·소탕 깊이 부족
+steam_238451563,character,캐릭터는 귀엽지만 취향 아님,neutral,en,2026-10-24,기타
+steam_238430495,character,마리 캐릭터 애정,positive,en,2026-10-24,특정 캐릭터 애정
+steam_238416697,character,귀엽고 재미있음,positive,en,2026-10-24,캐릭터 호평·애정
+steam_238411597,tech_bugs,실행 실패와 세션 오류,negative,en,2026-10-23,접속·세션 오류
+steam_238352174,character,다양한 캐릭터 디자인 호평,positive,en,2026-10-23,캐릭터 디자인·모델 호평
+steam_238352174,content_story,콘텐츠 소진 빠름,negative,en,2026-10-23,콘텐츠 물량 부족
+steam_238306474,character,귀엽고 재미있음,positive,en,2026-10-22,캐릭터 호평·애정
+steam_238280440,monetization,가챠 확률 불만,negative,en,2026-10-22,가챠 확률·획득 불만
+steam_238266379,content_story,스토리 극찬,positive,en,2026-10-21,스토리 호평
+steam_238158493,character,리오 픽업 복각 요청,negative,en,2026-10-20,캐릭터 추가·복각 요청
+steam_238087499,other,캐릭터 대상 농담,neutral,en,2026-10-19,밈성 리뷰
+steam_238078487,content_story,스토리 호평,positive,en,2026-10-19,스토리 호평
+steam_238078487,combat_balance,RTS 게임플레이 호평,positive,en,2026-10-19,전투 재미·전략성 호평
+steam_238067678,character,귀엽고 재미있음,positive,en,2026-10-19,캐릭터 호평·애정
+steam_238058674,character,캐릭터로 입문,positive,en,2026-10-18,캐릭터 호평·애정
+steam_238058674,content_story,플롯에 정착,positive,en,2026-10-18,스토리 호평
+steam_238043781,content_story,스토리 몰입,positive,en,2026-10-18,스토리 호평
+steam_238043781,character,캐릭터 감정 이입,positive,en,2026-10-18,캐릭터 호평·애정
+steam_238042403,other,의미 모호,neutral,en,2026-10-18,의미 불명 리뷰
+steam_238039506,other,전작 분위기 유사,positive,en,2026-10-18,혹평·이탈·지루함
+steam_237964169,character,캐릭터 호평,positive,en,2026-10-17,캐릭터 호평·애정
+steam_237964169,content_story,스토리 호평,positive,en,2026-10-17,스토리 호평
+steam_237964169,monetization,무과금 부담 적음,positive,en,2026-10-17,개편 옹호·호평
+steam_237958723,tech_bugs,리눅스 구동 양호,positive,en,2026-10-17,기타
+steam_237958723,character,좋아하는 캐릭터,positive,en,2026-10-17,캐릭터 호평·애정
+steam_237953671,other,세계관과 OST 호평,positive,en,2026-10-17,연출·아트·음악 호평
+steam_237953671,content_story,메인스토리 풀보이스 부재,negative,en,2026-10-17,메인스토리 연출 아쉬움
+steam_237953671,monetization,가챠 개편 반발,negative,en,2026-10-17,가챠 개편 반발
+steam_237930689,other,커뮤니티 비난,negative,en,2026-10-17,커뮤니티·팬덤 갈등
+steam_237887013,other,팬덤 비난,negative,en,2026-10-16,커뮤니티·팬덤 갈등
+steam_237870837,character,키사키 호평,positive,en,2026-10-16,특정 캐릭터 애정
+steam_237825144,content_story,스토리 호평,positive,en,2026-10-16,스토리 호평
+steam_237825144,character,캐릭터 모델 호평,positive,en,2026-10-16,캐릭터 디자인·모델 호평
+steam_237746809,other,커뮤니티 분위기,negative,en,2026-10-15,커뮤니티·팬덤 갈등
+steam_237713671,combat_balance,메타 압박 적음,positive,en,2026-10-14,쉬운 조작·라이트 접근성
+steam_237713671,content_story,스토리 호평,positive,en,2026-10-14,스토리 호평
+steam_237713671,character,캐릭터 개성,positive,en,2026-10-14,캐릭터 호평·애정
+steam_237678883,other,시간 때우기용 재미,positive,en,2026-10-14,게임 전반 호평
+steam_237665038,other,무난함,neutral,en,2026-10-14,게임 전반 호평
+steam_237630481,character,아루 애정,positive,en,2026-10-13,특정 캐릭터 애정
+steam_237622381,other,단순 호평,positive,en,2026-10-13,게임 전반 호평
+steam_237613645,other,근거 없는 비난,negative,en,2026-10-13,혹평·이탈·지루함
+steam_237559663,other,그래픽 호평,positive,en,2026-10-12,연출·아트·음악 호평
+steam_237549705,other,게임 전반 애정,positive,en,2026-10-12,게임 전반 호평
+steam_237549705,monetization,일본 스파크 개편 반발,negative,en,2026-10-12,원복·스파크 유지 요구
+steam_237549705,monetization,운영사 탐욕 비판,negative,en,2026-10-12,운영사 탐욕 비판
+steam_237531932,tech_bugs,접속 오류 반복,negative,en,2026-10-12,접속·세션 오류
+steam_237531932,combat_balance,전략성 호평,positive,en,2026-10-12,전투 재미·전략성 호평
+steam_237492606,content_story,스토리 반전과 깊이,positive,en,2026-10-11,스토리 호평
+steam_237492606,character,기억에 남는 디자인,positive,en,2026-10-11,캐릭터 디자인·모델 호평
+steam_237492606,other,음악 호평,positive,en,2026-10-11,연출·아트·음악 호평
+steam_237472261,monetization,가챠 구조 무난,positive,en,2026-10-11,개편 옹호·호평
+steam_237472261,monetization,픽업 확률 낮음,negative,en,2026-10-11,가챠 확률·획득 불만
+steam_237472261,content_story,할 거리 많음,positive,en,2026-10-11,기타
+steam_237472261,ui_ux,맵 콘텐츠 불호,negative,en,2026-10-11,콘텐츠 불만
+steam_237394392,monetization,가챠 운 좋음,positive,en,2026-10-10,개편 옹호·호평
+steam_237394392,character,학생 캐릭터 호평,positive,en,2026-10-10,캐릭터 호평·애정
+steam_237388765,character,학생 캐릭터 호평,positive,en,2026-10-10,캐릭터 호평·애정
+steam_237388765,content_story,플롯 호평,positive,en,2026-10-10,스토리 호평
+steam_237363785,other,재미와 죄책감,neutral,en,2026-10-10,게임 전반 호평
+steam_237342489,character,히후미 애정,positive,en,2026-10-10,특정 캐릭터 애정
+steam_237341260,monetization,일본 가챠 개편 우려,negative,en,2026-10-10,가챠 개편 반발
+steam_237341260,monetization,관대하지 않은 구조,negative,en,2026-10-10,운영사 탐욕 비판
+steam_237340246,character,캐릭터 취향 언급,positive,en,2026-10-10,기타
+steam_237274834,other,의미 모호,positive,en,2026-10-09,의미 불명 리뷰
+steam_237258651,monetization,신규 가챠 개편 반대,negative,en,2026-10-09,가챠 개편 반발
+steam_237258651,monetization,평범한 운이면 손해,negative,en,2026-10-09,가챠 확률·획득 불만
+steam_237258651,content_story,스토리 호평,positive,en,2026-10-09,스토리 호평
+steam_237216827,combat_balance,전략성 호평,positive,en,2026-10-08,전투 재미·전략성 호평
+steam_237216827,monetization,신규 가챠 개편 비난,negative,en,2026-10-08,가챠 개편 반발
+steam_237206865,monetization,슬롯머신식 과금 유도,negative,en,2026-10-08,운영사 탐욕 비판
+steam_237206865,monetization,미소결제 유도,negative,en,2026-10-08,운영사 탐욕 비판
+steam_237206865,ui_ux,자동전투 풍자,negative,en,2026-10-08,콘텐츠 불만
+steam_237191810,other,무료라는 언급,neutral,en,2026-10-08,게임 전반 호평
+steam_237178305,other,스팀 계정 기록 피해,negative,en,2026-10-08,경영진·운영사 비판
+steam_237176745,other,후회 표현,negative,en,2026-10-08,혹평·이탈·지루함
+steam_237175469,monetization,신규 가챠 개편 비난,negative,en,2026-10-08,가챠 개편 반발
+steam_237132431,character,캐릭터 전반 호평,positive,en,2026-10-07,캐릭터 호평·애정
+steam_237104639,tech_bugs,불안정 연결 오류,negative,en,2026-10-07,접속·세션 오류
+steam_237097946,combat_balance,전투 시스템 호평,positive,en,2026-10-07,전투 재미·전략성 호평
+steam_237097946,content_story,스토리 호평,positive,en,2026-10-07,스토리 호평
+steam_237017625,other,AI 생성 콘텐츠 반발,negative,en,2026-10-06,경영진·운영사 비판
+steam_236977924,content_story,스토리와 작가진 호평,positive,en,2026-10-05,스토리 호평
+steam_236926966,content_story,캠페인 미션 호평,positive,en,2026-10-04,스토리 호평
+steam_236926966,character,캐릭터 호평,positive,en,2026-10-04,캐릭터 호평·애정
+steam_236926966,other,사운드트랙 호평,positive,en,2026-10-04,연출·아트·음악 호평
+steam_236926966,monetization,과금 의사 불확실,neutral,en,2026-10-04,과금 중단·이탈
+steam_236820078,character,선정적 캐릭터 연출 거부감,negative,en,2026-10-03,선정성·미성년 논란
+steam_236820078,combat_balance,전술 전투 잠재력,neutral,en,2026-10-03,전투 재미·전략성 호평
+steam_236786808,character,히나 선호,positive,en,2026-10-03,특정 캐릭터 애정
+steam_236786808,content_story,스토리와 몰입 호평,positive,en,2026-10-03,스토리 호평
+steam_236786808,monetization,과금 의지 표현,neutral,en,2026-10-03,기타
+steam_236692588,other,의미 불명,neutral,en,2026-10-02,의미 불명 리뷰
+steam_236616557,other,근거 없는 전반 비난,negative,en,2026-10-01,혹평·이탈·지루함
+steam_236602035,monetization,가챠 개편 불만,negative,en,2026-10-01,가챠 개편 반발
+steam_236602035,character,캐릭터 애정 유지,positive,en,2026-10-01,캐릭터 호평·애정
+steam_236542911,combat_balance,캐주얼 재미,positive,en,2026-09-30,쉬운 조작·라이트 접근성
+steam_236542911,combat_balance,경쟁 콘텐츠 스트레스,negative,en,2026-09-30,기타
+steam_236444488,content_story,스토리 몰입감 호평,positive,en,2026-09-29,스토리 호평
+steam_236444488,other,가챠 장르 피로감,neutral,en,2026-09-29,혹평·이탈·지루함
+steam_236397679,combat_balance,엔드게임 크리 리셋 반복,negative,en,2026-09-28,전투 반복성·단조로움
+steam_236374337,content_story,설정과 세계관 호평,positive,en,2026-09-28,세계관 호평
+steam_236374337,monetization,미성년자 과금 우려,negative,en,2026-09-28,운영사 탐욕 비판
+steam_236369807,character,캐릭터 연출 호평,positive,en,2026-09-28,캐릭터 디자인·모델 호평
+steam_236369807,combat_balance,밋밋한 오토배틀,negative,en,2026-09-28,자동전투·소탕 깊이 부족
+steam_236321485,character,캐릭터 외형 호감,positive,en,2026-09-27,캐릭터 디자인·모델 호평
+steam_236284283,content_story,스토리와 성장 서사,positive,en,2026-09-27,스토리 호평
+steam_236284283,character,고스 캐릭터 추가 요청,neutral,en,2026-09-27,캐릭터 추가·복각 요청
+steam_236284283,other,그래픽 평범하나 무관,neutral,en,2026-09-27,연출·아트·음악 호평
+steam_236264207,tech_bugs,로딩 지연 비꼼,negative,en,2026-09-26,로딩 지연
+steam_236185532,other,밈성 나열 비난,negative,en,2026-09-25,밈성 리뷰
+steam_236105229,other,초창기 향수,positive,en,2026-09-24,게임 전반 호평
+steam_236090132,other,밈성 경고,negative,en,2026-09-24,밈성 리뷰
+steam_236070850,other,밈성 경고,negative,en,2026-09-24,밈성 리뷰
+steam_236063081,character,호시노 아루 아리스 호평,positive,en,2026-09-24,특정 캐릭터 애정
+steam_236063081,content_story,스토리 호평,positive,en,2026-09-24,스토리 호평
+steam_236063081,other,치비 3D 아트 호평,positive,en,2026-09-24,연출·아트·음악 호평
+steam_235995377,monetization,가챠 시스템 롤백 요구,negative,en,2026-09-24,원복·스파크 유지 요구
+steam_235895345,content_story,아루 대사 호평,positive,en,2026-09-23,캐릭터 연계 호평
+steam_235858758,tech_bugs,PC 시작 시 튕김,negative,en,2026-09-22,실행 중 강제 종료
+steam_235858758,monetization,신규 가챠와 팀 구성 충돌,negative,en,2026-09-22,기타
+steam_235858758,combat_balance,게임플레이 한계,negative,en,2026-09-22,전투 반복성·단조로움
+steam_235858758,character,캐릭터 디자인 호평,positive,en,2026-09-22,캐릭터 디자인·모델 호평
+steam_235790410,event_ops,넥슨 운영 방향 불신,negative,en,2026-09-21,운영 방향 불신
+steam_235790410,monetization,가챠 개편 반대,negative,en,2026-09-21,가챠 개편 반발
+steam_235738957,other,의미 모호,neutral,en,2026-09-21,의미 불명 리뷰
+steam_235659892,content_story,메인 스토리 감동,positive,en,2026-09-20,스토리 호평
+steam_235659892,content_story,3년차 이후 콘텐츠 부족,negative,en,2026-09-20,콘텐츠 물량 부족
+steam_235659892,combat_balance,단순하지만 타이밍 전략,neutral,en,2026-09-20,전투 재미·전략성 호평
+steam_235643103,character,이즈미 스킬 성능 조롱,negative,en,2026-09-19,기타
+steam_235444510,monetization,새 가챠 시스템 불만,negative,en,2026-09-17,가챠 개편 반발
+steam_235444510,other,팬덤 반감,negative,en,2026-09-17,커뮤니티·팬덤 갈등
+steam_235444246,character,캐릭터 매력(밈 표현),positive,en,2026-09-17,캐릭터 호평·애정
+steam_235426962,other,전투 사이 대사 부족 (모호),negative,en,2026-09-16,혹평·이탈·지루함
+steam_235399879,other,커뮤니티 밈 용어 논쟁,neutral,en,2026-09-16,밈성 리뷰
+steam_235359629,other,커뮤니티 분위기 악화,negative,en,2026-09-15,커뮤니티·팬덤 갈등
+steam_235356017,ui_ux,신규 유저 정신없음,negative,en,2026-09-15,신규 유저 혼란
+steam_235323745,monetization,최근 가챠 변경 불만,negative,en,2026-09-15,가챠 개편 반발
+steam_235323745,character,캐릭터 애정,positive,en,2026-09-15,캐릭터 호평·애정
+steam_235323745,other,분위기 호평과 팬덤 열기,positive,en,2026-09-15,연출·아트·음악 호평
+steam_235314344,character,작은 로봇 캐릭터 호감,positive,en,2026-09-15,캐릭터 호평·애정
+steam_235285510,combat_balance,전투 시스템 재미,positive,en,2026-09-14,전투 재미·전략성 호평
+steam_235275414,other,결혼 기능 요청,neutral,en,2026-09-14,게임 전반 호평
+steam_234993966,monetization,캐릭터 획득 구조 악화,negative,en,2026-09-11,가챠 확률·획득 불만
+steam_234932072,other,로리 게임 비하 (모호),negative,en,2026-09-10,밈성 리뷰
+steam_234908059,monetization,가챠 시스템 수정 요청,negative,en,2026-09-10,원복·스파크 유지 요구
+steam_234895339,content_story,스토리 호평,positive,en,2026-09-10,스토리 호평
+steam_234895339,character,캐릭터 호평,positive,en,2026-09-10,캐릭터 호평·애정
+steam_234895031,other,게임 귀여움 vs 커뮤 혐오,mixed,en,2026-09-10,커뮤니티·팬덤 갈등
+steam_234879427,character,이부키 캐릭터 호감,positive,en,2026-09-10,특정 캐릭터 애정
+steam_234860098,monetization,새 가챠 50/50 도입 불만,negative,en,2026-09-09,50/50 도입 반발
+steam_234852345,monetization,가챠 시스템 논란,negative,en,2026-09-09,가챠 개편 반발
+steam_234852345,character,캐릭터 귀여움,positive,en,2026-09-09,캐릭터 호평·애정
+steam_234813762,monetization,회사 탐욕 비판,negative,en,2026-09-09,운영사 탐욕 비판
+steam_234813762,other,팬덤 비판,negative,en,2026-09-09,커뮤니티·팬덤 갈등
+steam_234808525,character,호시노 캐릭터 애정,positive,en,2026-09-09,특정 캐릭터 애정
+steam_234751695,monetization,가챠 악화,negative,en,2026-09-08,가챠 개편 반발
+steam_234751695,monetization,아카이브 모집 방치,negative,en,2026-09-08,기타
+steam_234706074,monetization,스팀 포인트샵 아이템 부족,negative,en,2026-09-07,기타
+steam_234680727,content_story,스토리 호평,positive,en,2026-09-07,스토리 호평
+steam_234680727,monetization,가챠 시스템 불만,negative,en,2026-09-07,가챠 개편 반발
+steam_234645306,content_story,글과 세계관 호평,positive,en,2026-09-06,세계관 호평
+steam_234645306,character,캐릭터 매력,positive,en,2026-09-06,캐릭터 호평·애정
+steam_234645306,monetization,비교적 저렴한 과금,positive,en,2026-09-06,개편 옹호·호평
+steam_234621210,character,캐릭터 애착 형성,positive,en,2026-09-06,캐릭터 호평·애정
+steam_234621210,content_story,스토리 작문 호평,positive,en,2026-09-06,스토리 호평
+steam_234604053,content_story,스토리·OST 호평,positive,en,2026-09-06,스토리 호평
+steam_234604053,ui_ux,UI 개선 호평,positive,en,2026-09-06,UI·편의 기능 호평
+steam_234604053,combat_balance,게임플레이 반복성,negative,en,2026-09-06,전투 반복성·단조로움
+steam_234604053,other,커뮤니티 분위기,negative,en,2026-09-06,커뮤니티·팬덤 갈등
+steam_234600167,other,전반적 호평,positive,en,2026-09-06,게임 전반 호평
+steam_234592161,other,배신감 표출,negative,en,2026-09-06,경영진·운영사 비판
+steam_234582888,monetization,호요식 가챠 개편,negative,en,2026-09-06,50/50 도입 반발
+steam_234582888,combat_balance,게임플레이 불만,negative,en,2026-09-06,전투 반복성·단조로움
+steam_234560914,other,밈성 외침,neutral,en,2026-09-05,밈성 리뷰
+steam_234517581,tech_bugs,중복 세션 접속 오류,negative,en,2026-09-05,접속·세션 오류
+steam_234509460,monetization,가챠 개편 반발,negative,en,2026-09-05,가챠 개편 반발
+steam_234509460,content_story,스토리 만족,positive,en,2026-09-05,스토리 호평
+steam_234509460,character,캐릭터 매력,positive,en,2026-09-05,캐릭터 호평·애정
+steam_234501127,other,욕설성 단평,negative,en,2026-09-05,밈성 리뷰
+steam_234427224,other,귀여움 호평,positive,en,2026-09-04,게임 전반 호평
+steam_234397620,other,전반적 호평,positive,en,2026-09-03,게임 전반 호평
+steam_234393114,other,무난하다는 평,positive,en,2026-09-03,게임 전반 호평
+steam_234379814,other,전반적 호평,positive,en,2026-09-03,게임 전반 호평
+steam_234369301,character,캐릭터 말투 거부감,negative,en,2026-09-03,선정성·미성년 논란
+steam_234369301,content_story,콘텐츠 부실,negative,en,2026-09-03,콘텐츠 물량 부족
+steam_234366110,other,밈성 찬사,positive,en,2026-09-03,밈성 리뷰
+steam_234359929,monetization,새 가챠 시스템 불신,negative,en,2026-09-03,가챠 개편 반발
+steam_234359929,other,커뮤니티 분열,negative,en,2026-09-03,커뮤니티·팬덤 갈등
+steam_234359594,content_story,전반적 완성도 호평,positive,en,2026-09-03,기타
+steam_234359594,character,학생 캐릭터 성적 대상화,negative,en,2026-09-03,선정성·미성년 논란
+steam_234317799,content_story,스토리·캐릭터 호평,positive,en,2026-09-02,캐릭터 연계 호평
+steam_234317799,combat_balance,전투 반복성 논란,neutral,en,2026-09-02,전투 반복성·단조로움
+steam_234317799,other,커뮤니티 아쉬움,negative,en,2026-09-02,커뮤니티·팬덤 갈등
+steam_234310704,character,캐릭터 작문 호평,positive,en,2026-09-02,캐릭터 호평·애정
+steam_234310704,content_story,메인스토리 장황함,negative,en,2026-09-02,메인스토리 연출 아쉬움
+steam_234310704,ui_ux,광고·팝업 남발,negative,en,2026-09-02,광고·팝업 과다
+steam_234310704,monetization,랜덤박스 의존,negative,en,2026-09-02,운영사 탐욕 비판
+steam_234310704,growth_resources,스태미나 제한,negative,en,2026-09-02,재화 수급 부담
+steam_234307613,other,밈성 호평,positive,en,2026-09-02,밈성 리뷰
+steam_234276317,monetization,일본판 가챠 개편 우려,negative,en,2026-09-02,가챠 개편 반발
+steam_234276317,monetization,과금 중단 선언,negative,en,2026-09-02,과금 중단·이탈
+steam_234276317,other,스토리와 운영 괴리,negative,en,2026-09-02,경영진·운영사 비판
+steam_234260322,other,귀엽고 재미있음,positive,en,2026-09-01,게임 전반 호평
+steam_234256949,monetization,새 가챠 환영,positive,en,2026-09-01,개편 옹호·호평
+steam_234256949,combat_balance,전투 개선 요구,negative,en,2026-09-01,전투 반복성·단조로움
+steam_234244586,monetization,새 가챠 체감 악화,negative,en,2026-09-01,가챠 확률·획득 불만
+steam_234244586,monetization,픽업 기대치 하락,negative,en,2026-09-01,가챠 확률·획득 불만
+steam_234231452,other,동인 같다는 호평,positive,en,2026-09-01,게임 전반 호평
+steam_234225917,other,호불호 게임,neutral,en,2026-09-01,커뮤니티·팬덤 갈등
+steam_234223771,monetization,50/50 도입 불만,negative,en,2026-09-01,50/50 도입 반발
+steam_234220224,monetization,과금 유도 비난,negative,en,2026-09-01,운영사 탐욕 비판
+steam_234220224,character,하렘·성적 요소 비난,negative,en,2026-09-01,선정성·미성년 논란
+steam_234218154,monetization,넥슨 탐욕 비판,negative,en,2026-09-01,운영사 탐욕 비판
+steam_234209776,monetization,인색함 지적,negative,en,2026-09-01,운영사 탐욕 비판
+steam_234208132,other,전반적 호평,positive,en,2026-09-01,게임 전반 호평
+steam_234206102,other,전반적 호평,positive,en,2026-09-01,게임 전반 호평
+steam_234192144,other,게헨나 구호 도배,neutral,en,2026-08-31,밈성 리뷰
+steam_234181771,monetization,탐욕적 과금 구조,negative,en,2026-08-31,운영사 탐욕 비판
+steam_234180296,monetization,원신식 50/50 도입,negative,en,2026-08-31,50/50 도입 반발
+steam_234180296,monetization,과금 거부 촉구,negative,en,2026-08-31,과금 중단·이탈
+steam_234170006,monetization,50/50 반대,negative,en,2026-08-31,50/50 도입 반발
+steam_234170006,other,귀엽고 재미있음,positive,en,2026-08-31,게임 전반 호평
+steam_234143562,other,거부 의사,negative,en,2026-08-31,의미 불명 리뷰
+steam_234136810,monetization,호요식 가챠 전환,negative,en,2026-08-31,50/50 도입 반발
+steam_234136810,growth_resources,일일 숙제 부담 적음,positive,en,2026-08-31,기타
+steam_234136810,content_story,스토리 호평,positive,en,2026-08-31,스토리 호평
+steam_234123805,other,지루해 보임,negative,en,2026-08-30,혹평·이탈·지루함
+steam_234107156,other,EA 비난,negative,en,2026-08-30,경영진·운영사 비판
+steam_234097967,other,변경 사항 불만,negative,en,2026-08-30,경영진·운영사 비판
+steam_234064050,character,세이아 애정,positive,en,2026-08-30,특정 캐릭터 애정
+steam_234055892,tech_bugs,접속 오류 반복,negative,en,2026-08-30,접속·세션 오류
+steam_234047729,other,일반 호평,positive,en,2026-08-30,게임 전반 호평
+steam_234022534,monetization,신규 가챠 시스템,negative,en,2026-08-29,가챠 개편 반발
+steam_234021212,monetization,기업 탐욕 비판,negative,en,2026-08-29,운영사 탐욕 비판
+steam_234019022,monetization,페이투윈 비판,negative,en,2026-08-29,운영사 탐욕 비판
+steam_234012223,monetization,과도한 과금 구조 분노,negative,en,2026-08-29,운영사 탐욕 비판
+steam_233990805,other,즉시 종료,negative,en,2026-08-29,혹평·이탈·지루함
+steam_233961880,combat_balance,게임플레이 평범,negative,en,2026-08-29,전투 반복성·단조로움
+steam_233958555,combat_balance,게임플레이 재미,positive,en,2026-08-29,전투 재미·전략성 호평
+steam_233958555,monetization,천장 호평,positive,en,2026-08-29,개편 옹호·호평
+steam_233958555,other,방 꾸미기,positive,en,2026-08-29,게임 전반 호평
+steam_233952556,other,과장된 호평,positive,en,2026-08-29,게임 전반 호평
+steam_233934346,monetization,가챠 완화 환영,positive,en,2026-08-28,개편 옹호·호평
+steam_233919538,content_story,스토리와 이벤트 호평,positive,en,2026-08-28,스토리 호평
+steam_233919538,character,캐릭터 호평,positive,en,2026-08-28,캐릭터 호평·애정
+steam_233919538,other,최근 경험상 단서,negative,en,2026-08-28,의미 불명 리뷰
+steam_233899343,monetization,신규 가챠 불만,negative,en,2026-08-28,가챠 개편 반발
+steam_233887889,other,서비스 방치 우려,negative,en,2026-08-28,경영진·운영사 비판
+steam_233863734,other,EA 비난,negative,en,2026-08-28,경영진·운영사 비판
+steam_233838631,other,일반 호평,positive,en,2026-08-27,게임 전반 호평
+steam_233837560,monetization,가챠 개편 반대,negative,en,2026-08-27,가챠 개편 반발
+steam_233831536,monetization,신규 가챠 불만,negative,en,2026-08-27,가챠 개편 반발
+steam_233831523,monetization,신규 가챠 불만,negative,en,2026-08-27,가챠 개편 반발
+steam_233830428,monetization,천장 없는 낮은 확률,negative,en,2026-08-27,가챠 확률·획득 불만
+steam_233785485,other,삭제 권유,negative,en,2026-08-27,혹평·이탈·지루함
+steam_233767416,content_story,스토리 질문,neutral,en,2026-08-26,기타
+steam_233758919,character,와카모 애정,positive,en,2026-08-26,특정 캐릭터 애정
+steam_233751416,character,카요코 애정,positive,en,2026-08-26,특정 캐릭터 애정
+steam_233750132,other,일반 호평,positive,en,2026-08-26,게임 전반 호평
+steam_233745162,other,무난한 분위기,positive,en,2026-08-26,게임 전반 호평
+steam_233741773,content_story,스토리 호평,positive,en,2026-08-26,스토리 호평
+steam_233741773,character,캐릭터 호평,positive,en,2026-08-26,캐릭터 호평·애정
+steam_233739050,character,학생 애정,positive,en,2026-08-26,캐릭터 호평·애정
+steam_233731096,content_story,세계관 풍부,positive,en,2026-08-26,세계관 호평
+steam_233731096,other,최근 피로감,negative,en,2026-08-26,경영진·운영사 비판
+steam_233712904,other,의미 불명,neutral,en,2026-08-26,의미 불명 리뷰
+steam_233710689,other,팬덤 경시 비판,negative,en,2026-08-26,커뮤니티·팬덤 갈등
+steam_233706367,content_story,스토리 호평,positive,en,2026-08-25,스토리 호평
+steam_233706367,monetization,뽑기 비용 증가,negative,en,2026-08-25,가챠 확률·획득 불만
+steam_233706367,event_ops,사과만 하고 강행,negative,en,2026-08-25,피드백 무시와 강행
+steam_233685860,other,의미 모호,neutral,en,2026-08-25,의미 불명 리뷰
+steam_233670380,monetization,신규 가챠 불만,negative,en,2026-08-25,가챠 개편 반발
+steam_233670380,content_story,스토리와 캐릭터로 지속,positive,en,2026-08-25,캐릭터 연계 호평
+steam_233665726,monetization,가챠 개편 반발,negative,en,2026-08-25,가챠 개편 반발
+steam_233665726,content_story,아트와 스토리로 유지,positive,en,2026-08-25,캐릭터 연계 호평
+steam_233665287,character,아리스 애착,positive,en,2026-08-25,특정 캐릭터 애정
+steam_233648801,customer_support,개발·지원팀 응대 불만,negative,en,2026-08-25,
+steam_233647694,monetization,변경 철회 요구,negative,en,2026-08-25,원복·스파크 유지 요구
+steam_233633742,monetization,새 가챠 시스템 반발,negative,en,2026-08-25,가챠 개편 반발
+steam_233633008,monetization,가챠 시스템 원복 요구,negative,en,2026-08-25,원복·스파크 유지 요구
+steam_233632640,other,커뮤니티 분위기 비난,negative,en,2026-08-25,커뮤니티·팬덤 갈등
+steam_233630834,other,의미 없는 짧은 글,neutral,en,2026-08-24,의미 불명 리뷰
+steam_233625980,monetization,새 가챠 시스템 불만,negative,en,2026-08-24,가챠 개편 반발
+steam_233618573,monetization,일본 서버 가챠 개편 반발,negative,en,2026-08-24,가챠 개편 반발
+steam_233618573,content_story,스토리 호평,positive,en,2026-08-24,스토리 호평
+steam_233615895,other,의미 모호한 밈,neutral,en,2026-08-24,의미 불명 리뷰
+steam_233589174,content_story,스토리·음악·그림체 호평,positive,en,2026-08-24,캐릭터 연계 호평
+steam_233586502,content_story,스토리 호평,positive,en,2026-08-24,스토리 호평
+steam_233586502,character,캐릭터 호평,positive,en,2026-08-24,캐릭터 호평·애정
+steam_233578962,other,기대보다 나음,positive,en,2026-08-24,게임 전반 호평
+steam_233576917,other,게임 이탈 선언,negative,en,2026-08-24,혹평·이탈·지루함
+steam_233574055,content_story,스토리·캐릭터·음악 호평,positive,en,2026-08-24,캐릭터 연계 호평
+steam_233574055,monetization,새 가챠 시스템 비판,negative,en,2026-08-24,가챠 개편 반발
+steam_233574055,other,경영진 비판,negative,en,2026-08-24,경영진·운영사 비판
+steam_233562299,monetization,새 가챠 시스템 분노,negative,en,2026-08-24,가챠 개편 반발
+steam_233562299,other,신뢰 붕괴와 주가 하락,negative,en,2026-08-24,경영진·운영사 비판
+steam_233486580,monetization,가챠 업데이트 돈벌이 비판,negative,en,2026-08-23,운영사 탐욕 비판
+steam_233468464,monetization,가챠 변경 옹호,neutral,en,2026-08-23,개편 옹호·호평
+steam_233468464,character,수영복 캐릭터 추가,positive,en,2026-08-23,캐릭터 추가·복각 요청
+steam_233462196,ui_ux,자동화로 멀티태스킹 편함,positive,en,2026-08-22,UI·편의 기능 호평
+steam_233462196,monetization,새 가챠가 유저에 불리,negative,en,2026-08-22,가챠 확률·획득 불만
+steam_233455611,monetization,최근 픽업 가챠 경험 최악,negative,en,2026-08-22,가챠 확률·획득 불만
+steam_233455611,other,경영진 영입 비판,negative,en,2026-08-22,경영진·운영사 비판
+steam_233429149,content_story,스토리 호평,positive,en,2026-08-22,스토리 호평
+steam_233429149,ui_ux,편의 기능 호평,positive,en,2026-08-22,UI·편의 기능 호평
+steam_233392715,other,재미 칭찬,positive,ko,2026-08-22,재미·완성도 호평
+steam_233385759,other,게임 호감,positive,en,2026-08-22,게임 전반 호평
+steam_233383256,other,넥슨 향한 의문,negative,en,2026-08-22,경영진·운영사 비판
+steam_233380967,content_story,스토리만 장점,positive,en,2026-08-21,스토리 호평
+steam_233380967,other,이상한 리뷰와 커뮤니티,negative,en,2026-08-21,커뮤니티·팬덤 갈등
+steam_233354769,other,플레이 권유,positive,ko,2026-08-21,전반적 호평·추천
+steam_233348675,other,운영사 비판,negative,en,2026-08-21,경영진·운영사 비판
+steam_233344973,monetization,가챠 원복 요구와 신뢰 배신,negative,en,2026-08-21,원복·스파크 유지 요구
+steam_233330219,content_story,스토리·OST 호평,positive,en,2026-08-21,스토리 호평
+steam_233330219,other,일부 커뮤니티 비판,negative,en,2026-08-21,커뮤니티·팬덤 갈등
+steam_233289201,other,강력 추천,positive,en,2026-08-20,게임 전반 호평
+steam_233272792,other,의미 모호한 감탄,neutral,en,2026-08-20,의미 불명 리뷰
+steam_233268732,other,게임 호평,positive,en,2026-08-20,게임 전반 호평
+steam_233263760,monetization,가챠 개편 최악,negative,en,2026-08-20,가챠 개편 반발
+steam_233261887,other,게임 호평,positive,en,2026-08-20,게임 전반 호평
+steam_233257470,character,디자인과 캐릭터 호평,positive,en,2026-08-20,캐릭터 디자인·모델 호평
+steam_233254674,other,재미 칭찬,positive,ko,2026-08-20,재미·완성도 호평
+steam_233246498,monetization,EA식 과금 개편 우려,negative,en,2026-08-20,운영사 탐욕 비판
+steam_233246498,character,캐릭터 호감,positive,en,2026-08-20,캐릭터 호평·애정
+steam_233243737,monetization,50/50 가챠 개편 반대,negative,en,2026-08-20,50/50 도입 반발
+steam_233243737,character,케이 서비스 종료 우려,negative,en,2026-08-20,기타
+steam_233241067,monetization,가챠 개편으로 추천 철회,negative,en,2026-08-20,과금 중단·이탈
+steam_233237503,monetization,출시 5.5년차 가챠 개편,negative,en,2026-08-20,가챠 개편 반발
+steam_233237503,other,CEO 인신공격,negative,en,2026-08-20,경영진·운영사 비판
+steam_233229282,monetization,가챠 개편이 탐욕스러움,negative,en,2026-08-19,운영사 탐욕 비판
+steam_233224684,content_story,메인 스토리 호평,positive,en,2026-08-19,스토리 호평
+steam_233224684,character,학생 디자인 호평,positive,en,2026-08-19,캐릭터 디자인·모델 호평
+steam_233224684,combat_balance,오토배틀 한계,neutral,en,2026-08-19,자동전투·소탕 깊이 부족
+steam_233224684,monetization,기존 가챠 관대함,positive,en,2026-08-19,원복·스파크 유지 요구
+steam_233224684,monetization,가챠 개편 혼란,negative,en,2026-08-19,가챠 개편 반발
+steam_233200964,monetization,새 가챠 시스템 우려,negative,en,2026-08-19,가챠 개편 반발
+steam_233195329,other,의미 모호한 은어,neutral,en,2026-08-19,의미 불명 리뷰
+steam_233194121,other,신임 CEO 반발,negative,en,2026-08-19,경영진·운영사 비판
+steam_233188545,other,캐릭터 취향 농담,neutral,en,2026-08-19,밈성 리뷰
+steam_233182845,character,캐릭터 귀여움,positive,en,2026-08-19,캐릭터 호평·애정
+steam_233176259,monetization,새 시스템 혹평,negative,en,2026-08-19,가챠 개편 반발
+steam_233173784,monetization,새 가챠 옹호,positive,en,2026-08-19,개편 옹호·호평
+steam_233173784,character,캐릭터 선호 밈,positive,en,2026-08-19,캐릭터 호평·애정
+steam_233173161,monetization,스파크 폐지는 오판,negative,en,2026-08-19,원복·스파크 유지 요구
+steam_233173161,growth_resources,성장 진척감 부족,negative,en,2026-08-19,성장 진척감
+steam_233166346,monetization,미호요식 가챠 부적합,negative,en,2026-08-19,50/50 도입 반발
+steam_233166346,growth_resources,5성 육성 중복 요구,negative,en,2026-08-19,육성 대상 중복 부담
+steam_233163505,content_story,스토리와 OST 호평,positive,en,2026-08-19,스토리 호평
+steam_233163505,character,학생 디자인 호평,positive,en,2026-08-19,캐릭터 디자인·모델 호평
+steam_233163505,monetization,가챠 개편은 탐욕,negative,en,2026-08-19,운영사 탐욕 비판
+steam_233158197,other,단순 호평,positive,en,2026-08-18,게임 전반 호평
+steam_233143727,monetization,스파크 폐지 분노,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233143727,monetization,가챠 원복 요구,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233136804,monetization,새 가챠 수학적 이득,positive,en,2026-08-18,개편 옹호·호평
+steam_233136804,other,CEO 교체 우려,negative,en,2026-08-18,경영진·운영사 비판
+steam_233136543,monetization,가챠 개편 탐욕 비판,negative,en,2026-08-18,운영사 탐욕 비판
+steam_233135675,monetization,가챠 수정 요구,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233135640,content_story,스토리 호평,positive,en,2026-08-18,스토리 호평
+steam_233135640,other,최근 변경과 방향성,negative,en,2026-08-18,경영진·운영사 비판
+steam_233133927,monetization,뽑기 시스템 변경 비꼼,negative,en,2026-08-18,가챠 개편 반발
+steam_233131538,monetization,스파크 폐지와 천장 도입,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233131538,monetization,스파크 유지 요구,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233130635,ui_ux,새 UI 디자인 불만,negative,en,2026-08-18,새 UI 디자인 불만
+steam_233127118,monetization,새 가챠 큰 감점,negative,en,2026-08-18,가챠 개편 반발
+steam_233127118,other,게임 자체는 양호,positive,en,2026-08-18,게임 전반 호평
+steam_233126000,other,근거 없는 혹평,negative,en,2026-08-18,혹평·이탈·지루함
+steam_233125912,other,CEO 개인 반감,negative,en,2026-08-18,경영진·운영사 비판
+steam_233125632,other,전 EA 출신 비난,negative,en,2026-08-18,경영진·운영사 비판
+steam_233121671,monetization,새 가챠 옹호,positive,en,2026-08-18,개편 옹호·호평
+steam_233121671,monetization,3성 다수 획득 체험,positive,en,2026-08-18,개편 옹호·호평
+steam_233118924,tech_bugs,노트북 과열,negative,en,2026-08-18,기기 자원 부담
+steam_233118924,monetization,스파크가 천장으로 바뀜,negative,en,2026-08-18,원복·스파크 유지 요구
+steam_233118924,monetization,배너 광고 과다,negative,en,2026-08-18,기타
+steam_233115284,other,근거 없는 혹평,negative,en,2026-08-18,혹평·이탈·지루함
+steam_233115171,combat_balance,클릭 위주 단조로움,negative,en,2026-08-18,전투 반복성·단조로움
+steam_233115171,character,캐릭터 매력 감소,neutral,en,2026-08-18,기타
+steam_233115171,content_story,스토리 평범,neutral,en,2026-08-18,스토리 평범·산만
+steam_233115171,monetization,가챠는 무난,neutral,en,2026-08-18,개편 옹호·호평
+steam_233112053,other,EA 비꼬는 말장난,negative,en,2026-08-18,경영진·운영사 비판
+steam_233107136,monetization,인색하다는 밈,negative,en,2026-08-18,운영사 탐욕 비판
+steam_233106031,content_story,스토리 호평,positive,en,2026-08-18,스토리 호평
+steam_233094307,monetization,가챠 개편 비난 슬픔,negative,en,2026-08-18,가챠 개편 반발
+steam_233094307,content_story,스토리 호평,positive,en,2026-08-18,스토리 호평
+steam_233094307,other,리뷰 폭탄 반대,neutral,en,2026-08-18,경영진·운영사 비판
+steam_233069645,monetization,출시 5년 뒤 가챠 변경,negative,en,2026-08-17,가챠 개편 반발
+steam_233069645,event_ops,몰래 진행한 업데이트,negative,en,2026-08-17,사전 공지 부재
+steam_233048269,content_story,감동적인 스토리,positive,en,2026-08-17,스토리 호평
+steam_233048269,character,귀엽고 매력적인 캐릭터,positive,en,2026-08-17,캐릭터 호평·애정
+steam_233020916,monetization,EA식 과금 비꼼,negative,en,2026-08-17,운영사 탐욕 비판
+steam_233019008,other,의미 모호,neutral,en,2026-08-17,의미 불명 리뷰
+steam_233016553,monetization,서구 기업식 탐욕,negative,en,2026-08-17,운영사 탐욕 비판
+steam_233008151,monetization,기존 시스템 복구 요구,negative,en,2026-08-16,원복·스파크 유지 요구
+steam_233002563,other,전반적 혹평,negative,en,2026-08-16,혹평·이탈·지루함
+steam_232983871,monetization,스파크 시스템 폐지,negative,en,2026-08-16,원복·스파크 유지 요구
+steam_232973011,monetization,개발사 탐욕 비난,negative,en,2026-08-16,운영사 탐욕 비판
+steam_232970549,event_ops,밀레니엄 엑스포 복각,negative,en,2026-08-16,복각 이벤트 운영
+steam_232970549,ui_ux,미니게임 스킵 없음,negative,en,2026-08-16,콘텐츠 불만
+steam_232962605,monetization,가챠 변경,negative,en,2026-08-16,가챠 개편 반발
+steam_232962605,event_ops,유저 피드백 무시,negative,en,2026-08-16,피드백 무시와 강행
+steam_232955687,other,리뷰 폭격 반박,positive,en,2026-08-16,경영진·운영사 비판
+steam_232934245,content_story,재미있는 이벤트와 스토리,positive,en,2026-08-16,스토리 호평
+steam_232934245,combat_balance,보스별 다양한 공략,positive,en,2026-08-16,전투 재미·전략성 호평
+steam_232934245,monetization,무료 모집 확대 요청,neutral,en,2026-08-16,기타
+steam_232934245,growth_resources,레벨 무관 육성 재미 요청,neutral,en,2026-08-16,육성 콘텐츠 다양화
+steam_232934097,other,최근 변화로 악화,negative,en,2026-08-16,경영진·운영사 비판
+steam_232924439,monetization,넥슨 탐욕 비판,negative,en,2026-08-15,운영사 탐욕 비판
+steam_232924439,content_story,스토리는 여전히 최고,positive,en,2026-08-15,스토리 호평
+steam_232871610,monetization,가챠 시스템 변경,negative,en,2026-08-15,가챠 개편 반발
+steam_232867512,other,의미 모호,neutral,en,2026-08-15,의미 불명 리뷰
+steam_232865691,other,서비스 종료 예상,negative,en,2026-08-15,경영진·운영사 비판
+steam_232836581,character,카린 아쉬움,positive,en,2026-08-14,특정 캐릭터 애정
+steam_232823435,monetization,넥슨의 끝없는 탐욕,negative,en,2026-08-14,운영사 탐욕 비판
+steam_232820270,monetization,새 가챠와 새 CEO,negative,en,2026-08-14,운영사 탐욕 비판
+steam_232809057,monetization,픽뚫 후 천장 초기화,negative,en,2026-08-14,50/50 도입 반발
+steam_232778040,other,팬덤 분위기 혐오,negative,en,2026-08-14,커뮤니티·팬덤 갈등
+steam_232770427,monetization,천장 시스템 피해,negative,en,2026-08-14,50/50 도입 반발
+steam_232769557,monetization,원신식 가챠로 변경,negative,en,2026-08-14,50/50 도입 반발
+steam_232769557,monetization,더 비싼 패키지,negative,en,2026-08-14,운영사 탐욕 비판
+steam_232765472,character,캐릭터와 디자인 애정,positive,en,2026-08-13,캐릭터 디자인·모델 호평
+steam_232755152,monetization,EA 출신 영입 가챠 개악,negative,en,2026-08-13,운영사 탐욕 비판
+steam_232748861,monetization,탐욕과 EA 비판,negative,en,2026-08-13,운영사 탐욕 비판
+steam_232738843,character,사오리 호감,positive,en,2026-08-13,특정 캐릭터 애정
+steam_232708133,content_story,깊은 세계관,positive,en,2026-08-13,세계관 호평
+steam_232708133,character,선생과 학생 관계,positive,en,2026-08-13,기타
+steam_232703032,character,사랑스러운 캐릭터,positive,en,2026-08-13,캐릭터 호평·애정
+steam_232703032,monetization,약탈적 가챠,negative,en,2026-08-13,운영사 탐욕 비판
+steam_232703032,combat_balance,단순한 게임플레이,negative,en,2026-08-13,전투 반복성·단조로움
+steam_232696461,other,리뷰 폭격 구경,positive,en,2026-08-13,경영진·운영사 비판
+steam_232696461,monetization,기업 탐욕 항의 지지,negative,en,2026-08-13,운영사 탐욕 비판
+steam_232694177,content_story,좋은 스토리,positive,en,2026-08-13,스토리 호평
+steam_232694177,monetization,스파크에서 개악 가챠로,negative,en,2026-08-13,원복·스파크 유지 요구
+steam_232689047,monetization,신규 가챠 비난 언급,neutral,en,2026-08-12,가챠 개편 반발
+steam_232689047,other,게임 전반 호평,positive,en,2026-08-12,게임 전반 호평
+steam_232627271,other,넥슨 욕설,negative,en,2026-08-12,경영진·운영사 비판
+steam_232623461,monetization,가챠 변경 우려,negative,en,2026-08-12,가챠 개편 반발
+steam_232621420,monetization,예정된 가챠 변경,negative,en,2026-08-12,가챠 개편 반발
+steam_232596548,monetization,가챠 시스템 개악,negative,en,2026-08-11,가챠 개편 반발
+steam_232596548,event_ops,5주년 방송 발표,negative,en,2026-08-11,사전 공지 부재
+steam_232596548,content_story,설정·캐릭터·스토리 호평,positive,en,2026-08-11,캐릭터 연계 호평
+steam_232589953,monetization,스파크 폐지,negative,en,2026-08-11,원복·스파크 유지 요구
+steam_232585074,monetization,기존 가챠 복구 요구,negative,en,2026-08-11,원복·스파크 유지 요구
+steam_232573156,monetization,신규 UE 반대,negative,en,2026-08-11,기타
+steam_232552240,other,EA 출신 경영진,negative,en,2026-08-11,경영진·운영사 비판
+steam_232552240,content_story,작가 교체로 스토리 산만,negative,en,2026-08-11,스토리 평범·산만
+steam_232552240,monetization,가챠 게임 이탈 의향,negative,en,2026-08-11,과금 중단·이탈
+steam_232550513,monetization,가챠 개편 약탈적,negative,en,2026-08-11,운영사 탐욕 비판
+steam_232543154,other,의미 모호,neutral,en,2026-08-10,의미 불명 리뷰
+steam_232517954,monetization,새 가챠 시스템 비난,negative,en,2026-08-10,가챠 개편 반발
+steam_232511769,monetization,새 가챠 시스템 비난,negative,en,2026-08-10,가챠 개편 반발
+steam_232508196,other,게임 전반 호평,positive,en,2026-08-10,게임 전반 호평
+steam_232506327,other,원인 불명 절규,negative,en,2026-08-10,의미 불명 리뷰
+steam_232497516,monetization,기존 가챠 복구 요구,negative,en,2026-08-10,원복·스파크 유지 요구
+steam_239581405,character,모모이·미도리 애정,positive,ko,2026-11-07,특정 캐릭터 애정
+steam_239522465,character,미소녀 캐릭터 선호,positive,ko,2026-11-06,외형·디자인 호평
+steam_239502368,monetization,월정액 가성비,positive,ko,2026-11-06,과금 부담·가성비
+steam_239434474,other,의미 없는 이모티콘,positive,ko,2026-11-05,의미 불명·무의미 글
+steam_239368873,tech_bugs,보안모듈 불만,negative,ko,2026-11-04,기타
+steam_239356327,other,관전 소감,neutral,ko,2026-11-04,기타
+steam_239313967,character,하루카 애정 도배,positive,ko,2026-11-04,특정 캐릭터 애정
+steam_239251795,other,대사 밈,neutral,ko,2026-11-03,밈·드립성 글
+steam_239205343,other,의미 모호,neutral,ko,2026-11-02,의미 불명·무의미 글
+steam_239080293,content_story,재미와 콘텐츠 물량,positive,ko,2026-11-01,엔드 콘텐츠 부족
+steam_239055192,growth_resources,청휘석 지급 요구,negative,ko,2026-10-31,청휘석 부족·지급 요구
+steam_239005482,other,밈 도배,neutral,ko,2026-10-31,밈·드립성 글
+steam_239001373,other,의미 없는 입력,neutral,en,2026-10-31,의미 불명 리뷰
+steam_238916100,other,밈성 문구,neutral,ko,2026-10-30,밈·드립성 글
+steam_238911729,character,호시노 애정,positive,ko,2026-10-30,특정 캐릭터 애정
+steam_238879148,tech_bugs,로딩 지연과 튕김,negative,ko,2026-10-30,로딩 지연·렉
+steam_238879148,tech_bugs,실행 중 튕김,negative,ko,2026-10-30,앱 튕김·강제종료
+steam_238836782,character,세리카 호감,positive,ko,2026-10-29,특정 캐릭터 애정
+steam_238833350,other,F1 선수 밈,neutral,ko,2026-10-29,밈·드립성 글
+steam_238824847,character,캐릭터 외형 농담,positive,ko,2026-10-29,선정성·외형 논란
+steam_238802623,other,의미 모호,positive,ko,2026-10-29,의미 불명·무의미 글
+steam_238792800,monetization,무과금 친화,positive,ko,2026-10-29,재화 지급 호평
+steam_238750823,other,강력 추천,positive,ko,2026-10-28,전반적 호평·추천
+steam_238730850,character,시로코 애정,positive,ko,2026-10-28,특정 캐릭터 애정
+steam_238679241,character,스토리·캐릭터 호평,positive,ko,2026-10-27,캐릭터 전반 호평
+steam_238679241,monetization,가챠 중복 실망,negative,ko,2026-10-27,가챠 확률 불만·의심
+steam_238679241,growth_resources,만렙 후 청휘석 부족,negative,ko,2026-10-27,청휘석 부족·지급 요구
+steam_238679241,content_story,만렙 후 콘텐츠 부족,negative,ko,2026-10-27,엔드 콘텐츠 부족
+steam_238676121,other,게임 전반 극찬,positive,en,2026-10-27,게임 전반 호평
+steam_238666376,other,게임 전반 극찬,positive,ko,2026-10-27,전반적 호평·추천
+steam_238614675,character,캐릭터 애정,positive,en,2026-10-26,캐릭터 호평·애정
+steam_238613046,tech_bugs,2D 라이브 때 끊김,negative,ko,2026-10-26,로딩 지연·렉
+steam_238603280,other,전반적 만족,positive,ko,2026-10-26,전반적 호평·추천
+steam_238591728,other,전반적 재미,positive,ko,2026-10-26,재미·완성도 호평
+steam_238545125,other,의미 모호,neutral,ko,2026-10-25,의미 불명·무의미 글
+steam_238510574,character,캐릭터 수집 중심,neutral,ko,2026-10-25,수집·육성 요구
+steam_238462526,character,아루 선호,positive,ko,2026-10-24,특정 캐릭터 애정
+steam_238458278,other,게임 추천,positive,ko,2026-10-24,전반적 호평·추천
+steam_238435000,character,캐릭터 귀여움,positive,ko,2026-10-24,외형·디자인 호평
+steam_238397034,other,전반적 만족,positive,ko,2026-10-23,전반적 호평·추천
+steam_238386680,content_story,스토리 호평,positive,ko,2026-10-23,스토리 호평·몰입
+steam_238363118,content_story,스토리 호평,positive,ko,2026-10-23,스토리 호평·몰입
+steam_238334156,character,캐릭터 애착,positive,ko,2026-10-22,캐릭터 전반 호평
+steam_238297487,combat_balance,난이도 높음,negative,ko,2026-10-22,난이도 과다
+steam_238251146,combat_balance,게임성 아쉬움,negative,ko,2026-10-21,전투 재미 부족
+steam_238251146,other,전반 완성도 호평,positive,ko,2026-10-21,재미·완성도 호평
+steam_238085213,character,육감적 캐릭터,positive,ko,2026-10-19,선정성·외형 논란
+steam_238022964,other,의미 모호,neutral,ko,2026-10-18,의미 불명·무의미 글
+steam_238004662,character,캐릭터 호평,positive,ko,2026-10-18,캐릭터 전반 호평
+steam_238004662,content_story,스토리 호평,positive,ko,2026-10-18,스토리 호평·몰입
+steam_238004662,combat_balance,게임성 부족,negative,ko,2026-10-18,전투 재미 부족
+steam_237981605,character,선정적 캐릭터,neutral,ko,2026-10-18,선정성·외형 논란
+steam_237856596,other,의미 없는 글,neutral,ko,2026-10-16,의미 불명·무의미 글
+steam_237852234,other,전반적 만족,positive,en,2026-10-16,게임 전반 호평
+steam_237823003,character,체리노 귀여움,positive,ko,2026-10-16,외형·디자인 호평
+steam_237789684,content_story,성교육 업데이트 요청,neutral,ko,2026-10-15,기타
+steam_237757057,other,재미 추천,positive,ko,2026-10-15,전반적 호평·추천
+steam_237698053,monetization,청휘석 상점 불편,negative,ko,2026-10-14,과금 부담·가성비
+steam_237698053,tech_bugs,초반 랙,negative,ko,2026-10-14,로딩 지연·렉
+steam_237698053,ui_ux,UI 용어 몰입감,positive,ko,2026-10-14,기타
+steam_237698053,content_story,스토리 연출 호평,positive,ko,2026-10-14,연출·영상미 호평
+steam_237698053,content_story,메인 풀더빙,positive,ko,2026-10-14,연출·영상미 호평
+steam_237683884,content_story,스토리 감동,positive,ko,2026-10-14,스토리 호평·몰입
+steam_237682846,content_story,스토리 영상미 호평,positive,ko,2026-10-14,연출·영상미 호평
+steam_237682846,growth_resources,청휘석 재화 농담,neutral,ko,2026-10-14,청휘석 부족·지급 요구
+steam_237633276,character,아로나 애정,positive,ko,2026-10-13,특정 캐릭터 애정
+steam_237608454,character,세리카 애정,positive,ko,2026-10-13,특정 캐릭터 애정
+steam_237605871,other,무과금 재미,positive,ko,2026-10-13,재미·완성도 호평
+steam_237546647,character,코토네 기대,positive,ko,2026-10-12,수집·육성 요구
+steam_237532929,combat_balance,총력전 언급,neutral,ko,2026-10-12,보스 패턴 설계
+steam_237524758,other,의미 모호,neutral,ko,2026-10-12,의미 불명·무의미 글
+steam_237437945,character,동물귀 캐릭터,positive,ko,2026-10-11,외형·디자인 호평
+steam_237437042,other,세계관 몰입,positive,ko,2026-10-11,세계관·게임 애착
+steam_237375293,character,하나코 반응,positive,ko,2026-10-10,특정 캐릭터 애정
+steam_237277743,other,전반적 만족,positive,en,2026-10-09,게임 전반 호평
+steam_237216694,character,캐릭터 외형,positive,ko,2026-10-08,외형·디자인 호평
+steam_237130634,content_story,아비도스 3장 호평,positive,ko,2026-10-07,스토리 호평·몰입
+steam_237123386,other,전반적 만족,positive,ko,2026-10-07,전반적 호평·추천
+steam_237098007,character,시로코 애정,positive,ko,2026-10-07,특정 캐릭터 애정
+steam_237073476,character,학생 디자인 호평,positive,ko,2026-10-06,외형·디자인 호평
+steam_237073476,monetization,애정캐·페스 위주 뽑기,positive,ko,2026-10-06,과금 부담·가성비
+steam_237059623,other,욕심 버리면 즐거움,neutral,ko,2026-10-06,재미·완성도 호평
+steam_237051772,other,의미 모호한 한 줄,neutral,ko,2026-10-06,의미 불명·무의미 글
+steam_236967079,content_story,다채로운 스토리,positive,ko,2026-10-05,스토리 다양성
+steam_236967079,combat_balance,일반 전투 재미 부족,negative,ko,2026-10-05,전투 재미 부족
+steam_236967079,combat_balance,총력전 보스 패턴,positive,ko,2026-10-05,보스 패턴 설계
+steam_236967079,growth_resources,초반 자원 부족,negative,ko,2026-10-05,초반 성장 난이도
+steam_236967079,monetization,선택과 집중 필요한 가챠,negative,ko,2026-10-05,과금 부담·가성비
+steam_236967079,character,엔드 콘텐츠 캐릭 요구,negative,ko,2026-10-05,캐릭터 콘텐츠 요구
+steam_236949900,character,히나 애정 표현,positive,ko,2026-10-05,특정 캐릭터 애정
+steam_236949900,character,사랑 고백 반복,positive,ko,2026-10-05,특정 캐릭터 애정
+steam_236878602,other,감탄사,positive,ko,2026-10-04,의미 불명·무의미 글
+steam_236872640,growth_resources,느긋한 수집·성장,positive,ko,2026-10-04,성장 속도 체감
+steam_236872640,content_story,스토리 종류 다양,positive,ko,2026-10-04,스토리 다양성
+steam_236872640,combat_balance,경쟁 압박 적음,positive,ko,2026-10-04,기타
+steam_236798296,character,미도리 귀여움,positive,ko,2026-10-03,외형·디자인 호평
+steam_236779485,other,내부 은어 진입장벽,negative,ko,2026-10-03,기타
+steam_236695909,content_story,스토리 호평,positive,ko,2026-10-02,스토리 호평·몰입
+steam_236695909,character,학생 귀여움,positive,ko,2026-10-02,외형·디자인 호평
+steam_236619380,character,SD 캐릭터 귀여움,positive,ko,2026-10-01,외형·디자인 호평
+steam_236619380,content_story,깊은 스토리·몰입,positive,ko,2026-10-01,스토리 호평·몰입
+steam_236619380,growth_resources,초반 빡셈·만렙 필요,negative,ko,2026-10-01,초반 성장 난이도
+steam_236619380,monetization,가챠 매움·월정액 필수,negative,ko,2026-10-01,과금 부담·가성비
+steam_236619380,combat_balance,확률 요소 있는 전투,negative,ko,2026-10-01,랜덤 요소
+steam_236548316,character,캐릭터 애착,positive,ko,2026-09-30,캐릭터 전반 호평
+steam_236504556,other,PC판 필요성 의문,neutral,ko,2026-09-29,기타
+steam_236451625,monetization,픽뚫 심화,negative,ko,2026-09-29,픽업 천장·확률 개선
+steam_236451625,growth_resources,복귀 유저 진입장벽,negative,ko,2026-09-29,복귀 유저 진입장벽
+steam_236451625,content_story,캐릭터·스토리 원툴,negative,ko,2026-09-29,스토리 호평·몰입
+steam_236414282,character,아리스 애정,positive,ko,2026-09-28,특정 캐릭터 애정
+steam_236323517,other,단순 호평,positive,ko,2026-09-27,전반적 호평·추천
+steam_236317606,other,단순 호평,positive,ko,2026-09-27,전반적 호평·추천
+steam_236313997,other,서브컬처 최고 평가,positive,ko,2026-09-27,전반적 호평·추천
+steam_236306730,content_story,초반 주인공 언행,negative,ko,2026-09-27,초반 전개·주인공 불만
+steam_236236966,other,세계관 애착,positive,ko,2026-09-26,세계관·게임 애착
+steam_236150082,other,쿠소게 밈 응원,neutral,ko,2026-09-25,밈·드립성 글
+steam_236146305,content_story,청춘 학원물 정체성,positive,ko,2026-09-25,세계관·장르 정체성
+steam_236146305,combat_balance,랜덤 있으나 힐링,positive,ko,2026-09-25,랜덤 요소
+steam_236146305,growth_resources,골드만으로 육성 가능,positive,ko,2026-09-25,성장 속도 체감
+steam_236114876,other,애니 팬 추천,positive,ko,2026-09-25,전반적 호평·추천
+steam_236065843,content_story,비주얼 노벨 완성도,positive,ko,2026-09-24,연출·영상미 호평
+steam_236065843,combat_balance,전투는 서브 콘텐츠,neutral,ko,2026-09-24,기타
+steam_236039531,other,유입 경로 감사,positive,ko,2026-09-24,기타
+steam_235882505,character,아루 애정 반복,positive,ko,2026-09-23,특정 캐릭터 애정
+steam_235829627,content_story,스토리 감동,positive,ko,2026-09-22,스토리 호평·몰입
+steam_235758108,character,케이 애정,positive,ko,2026-09-21,특정 캐릭터 애정
+steam_235753271,character,드하루 애정,positive,ko,2026-09-21,특정 캐릭터 애정
+steam_235749501,content_story,선생님 서사 영향,positive,ko,2026-09-21,세계관·장르 정체성
+steam_235577894,character,캐릭터 취향 적중,positive,ko,2026-09-19,캐릭터 전반 호평
+steam_235552496,monetization,페스 가챠 혜택 요구,neutral,ko,2026-09-18,BM 변경·완화 요구
+steam_235532904,combat_balance,플레이 재미 부족,negative,ko,2026-09-18,전투 재미 부족
+steam_235532904,other,플레이 외 요소 재미,positive,ko,2026-09-18,재미·완성도 호평
+steam_235524831,monetization,픽업 확률 상향 요구,negative,ko,2026-09-18,픽업 천장·확률 개선
+steam_235485584,other,세계관 애착,positive,ko,2026-09-17,세계관·게임 애착
+steam_235463881,character,케이 애정,positive,ko,2026-09-17,특정 캐릭터 애정
+steam_235324282,content_story,슬픈 스토리 몰입,positive,ko,2026-09-15,스토리 호평·몰입
+steam_235177002,other,의미 없는 감탄,neutral,ko,2026-09-13,의미 불명·무의미 글
+steam_235171298,content_story,청춘을 보는 어른 시점,positive,ko,2026-09-13,세계관·장르 정체성
+steam_235171075,other,스토리 대사 인용,positive,ko,2026-09-13,밈·드립성 글
+steam_235165174,other,예상 밖의 재미,positive,ko,2026-09-13,재미·완성도 호평
+steam_235114781,other,드립성 글,neutral,ko,2026-09-12,밈·드립성 글
+steam_235099779,other,의미 불명,neutral,ko,2026-09-12,의미 불명·무의미 글
+steam_235099280,content_story,스토리 호평,positive,ko,2026-09-12,스토리 호평·몰입
+steam_235099280,character,캐릭터별 매력,positive,ko,2026-09-12,캐릭터 전반 호평
+steam_235099280,other,게임성 기대 낮음,negative,ko,2026-09-12,재미·게임성 불만
+steam_235083952,other,전반적 재미,positive,ko,2026-09-12,재미·완성도 호평
+steam_235076944,combat_balance,결전 반복 피로,negative,ko,2026-09-12,반복 플레이 피로
+steam_235076944,other,택틱 성공 응원,positive,ko,2026-09-12,기타
+steam_235005050,character,캐릭터 애정,positive,ko,2026-09-11,캐릭터 전반 호평
+steam_235004660,character,호시노 디자인,positive,ko,2026-09-11,외형·디자인 호평
+steam_235003015,tech_bugs,튕김 실행 삭제 오류,negative,ko,2026-09-11,앱 튕김·강제종료
+steam_235001140,other,심해 밈,neutral,ko,2026-09-11,밈·드립성 글
+steam_234983255,monetization,뽑기권 지급 호평,positive,ko,2026-09-11,재화 지급 호평
+steam_234983255,growth_resources,빠른 성장,positive,ko,2026-09-11,성장 속도 체감
+steam_234973723,other,전반적 재미,positive,ko,2026-09-11,재미·완성도 호평
+steam_234877510,other,전반적 재미,positive,ko,2026-09-09,재미·완성도 호평
+steam_234842253,other,전반적 호평,positive,ko,2026-09-09,전반적 호평·추천
+steam_234768304,other,세계관 몰입,positive,ko,2026-09-08,세계관·게임 애착
+steam_234750129,other,파봉 복사 불만,negative,ko,2026-09-08,운영 불신·불만
+steam_234675536,other,낮은 평점 납득,negative,ko,2026-09-07,재미·게임성 불만
+steam_234666280,character,쿠루미 호감,positive,ko,2026-09-07,특정 캐릭터 애정
+steam_234654095,other,게임 및 PD 신뢰,positive,ko,2026-09-06,세계관·게임 애착
+steam_234643674,character,미카 호감,positive,ko,2026-09-06,특정 캐릭터 애정
+steam_234426879,other,무난한 평가,neutral,ko,2026-09-04,기타
+steam_234371639,character,호시노 애정,positive,ko,2026-09-03,특정 캐릭터 애정
+steam_234367151,other,선생 롤플레이 추천,positive,ko,2026-09-03,전반적 호평·추천
+steam_234310481,character,캐릭터 애정,positive,ko,2026-09-02,캐릭터 전반 호평
+steam_234306472,other,전반적 호평,positive,ko,2026-09-02,전반적 호평·추천
+steam_234298770,other,개발진 영향력 밈,positive,ko,2026-09-02,밈·드립성 글
+steam_234288190,content_story,스토리 때문에 입문,neutral,ko,2026-09-02,스토리 호평·몰입
+steam_234276159,content_story,스토리 호평,positive,ko,2026-09-02,스토리 호평·몰입
+steam_234276159,other,게임플레이 구성 혹평,negative,ko,2026-09-02,재미·게임성 불만
+steam_234258397,other,힐링 분위기,positive,ko,2026-09-01,세계관·게임 애착
+steam_234231420,tech_bugs,보안 모듈 초기화 반복,negative,ko,2026-09-01,기타
+steam_234230780,content_story,스토리 중심 게임,neutral,ko,2026-09-01,스토리 호평·몰입
+steam_234151706,content_story,아리우스 스토리 요구,neutral,ko,2026-08-31,기타
+steam_234151706,character,아리우스 의상 요구,neutral,ko,2026-08-31,캐릭터 콘텐츠 요구
+steam_234147044,monetization,가챠 운 좋음,positive,ko,2026-08-31,가챠 확률 불만·의심
+steam_234140892,character,학생 디자인,positive,ko,2026-08-31,외형·디자인 호평
+steam_234090560,content_story,엔드콘텐츠 한정,negative,ko,2026-08-30,엔드 콘텐츠 부족
+steam_234090560,ui_ux,캐릭터 상호작용 부족,negative,ko,2026-08-30,소통·상호작용 부족
+steam_234090560,other,업계 영향력 고평가,positive,ko,2026-08-30,전반적 호평·추천
+steam_234080733,event_ops,레벨 제한 참가 불가,negative,ko,2026-08-30,참여 조건 제한
+steam_234051063,other,인생 게임 호평,positive,ko,2026-08-30,전반적 호평·추천
+steam_234050980,other,의미 불명 밈,neutral,ko,2026-08-30,밈·드립성 글
+steam_234049702,other,전반적 호평,positive,ko,2026-08-30,전반적 호평·추천
+steam_234005710,other,내용 없음,neutral,ko,2026-08-29,의미 불명·무의미 글
+steam_233985493,monetization,BM 완화 요구,negative,ko,2026-08-29,BM 변경·완화 요구
+steam_233985493,content_story,메인 스토리 주기,negative,ko,2026-08-29,엔드 콘텐츠 부족
+steam_233823537,content_story,스토리 호평,positive,ko,2026-08-27,스토리 호평·몰입
+steam_233823537,character,학생 디자인 호평,positive,ko,2026-08-27,외형·디자인 호평
+steam_233795495,other,밈성 글,neutral,ko,2026-08-27,밈·드립성 글
+steam_233792914,character,캐릭터 애정,positive,ko,2026-08-27,캐릭터 전반 호평
+steam_233751862,content_story,스토리 재미,positive,ko,2026-08-26,스토리 호평·몰입
+steam_233660839,other,의미 불명,neutral,ko,2026-08-25,의미 불명·무의미 글
+steam_233610955,other,욕설 이모티콘,negative,ko,2026-08-24,의미 불명·무의미 글
+steam_233489561,character,캐릭터 극찬,positive,ko,2026-08-23,캐릭터 전반 호평
+steam_233489561,other,게임성 평가 모호,neutral,ko,2026-08-23,의미 불명·무의미 글
+steam_233481857,other,게임 애정,positive,ko,2026-08-23,세계관·게임 애착
+steam_233417005,content_story,스토리 호평,positive,ko,2026-08-22,스토리 호평·몰입
+steam_233417005,other,게임성 평가 모호,neutral,ko,2026-08-22,의미 불명·무의미 글
+steam_233399540,other,good 반복 입력,positive,en,2026-08-22,의미 불명 리뷰
+steam_233344410,other,전반적 비난,negative,ko,2026-08-21,재미·게임성 불만
+steam_233329466,character,캐릭터 매력,positive,ko,2026-08-21,캐릭터 전반 호평
+steam_233329466,content_story,스토리 호평,positive,ko,2026-08-21,스토리 호평·몰입
+steam_233329466,other,게임성 평범,neutral,ko,2026-08-21,재미·게임성 불만
+steam_233318540,other,게임명 외침,positive,ko,2026-08-21,의미 불명·무의미 글
+steam_233264103,other,취향 추천,neutral,ko,2026-08-20,전반적 호평·추천
+steam_233261009,monetization,BM 변경 반발,negative,ko,2026-08-20,BM 변경·완화 요구
+steam_233261009,event_ops,BM 설명 부실,negative,ko,2026-08-20,BM 안내 부족
+steam_233261009,event_ops,운영 신뢰 하락,negative,ko,2026-08-20,운영 신뢰 저하
+steam_233250591,other,재미 추천,positive,ko,2026-08-20,전반적 호평·추천
+steam_233207135,other,가벼운 플레이,positive,ko,2026-08-19,기타
+steam_233203104,other,애정 표현 밈,neutral,ko,2026-08-19,밈·드립성 글
+steam_233191420,monetization,확률 조작 의심,negative,ko,2026-08-19,가챠 확률 불만·의심
+steam_233191420,other,매몰비용 불만,negative,ko,2026-08-19,운영 불신·불만
+steam_233181621,other,습관적 플레이,neutral,ko,2026-08-19,기타
+steam_233179020,other,게임 애정,positive,ko,2026-08-19,세계관·게임 애착
+steam_233174968,content_story,스토리 호평,positive,ko,2026-08-19,스토리 호평·몰입
+steam_233174968,other,최근 사건 언급,neutral,ko,2026-08-19,기타
+steam_233165921,other,운영 배신감,negative,ko,2026-08-19,운영 불신·불만
+steam_233165921,other,루틴이라 못 접음,neutral,ko,2026-08-19,기타
+steam_233139983,other,의미 불명,neutral,en,2026-08-18,의미 불명 리뷰
+steam_233132209,other,플레이 비추천,negative,ko,2026-08-18,재미·게임성 불만
+steam_233127807,monetization,가챠 확률 악화,negative,ko,2026-08-18,가챠 확률 불만·의심
+steam_233127734,other,집무실 의문,neutral,ko,2026-08-18,기타
+steam_233121780,event_ops,운영 신뢰 하락,negative,ko,2026-08-18,운영 신뢰 저하
+steam_233121659,character,캐릭터 귀여움,positive,ko,2026-08-18,외형·디자인 호평
+steam_233121626,character,캐릭터 매력,positive,ko,2026-08-18,캐릭터 전반 호평
+steam_233121626,content_story,스토리 호평,positive,ko,2026-08-18,스토리 호평·몰입
+steam_233120322,other,의미 불명,neutral,ko,2026-08-18,의미 불명·무의미 글
+steam_233119155,monetization,가챠 개선 환영,positive,ko,2026-08-18,재화 지급 호평
+steam_233117798,other,전반적 호평,positive,ko,2026-08-18,전반적 호평·추천
+steam_233113518,other,의미 모호,neutral,ko,2026-08-18,의미 불명·무의미 글
+steam_233113256,monetization,뽑기 개선 호평,positive,ko,2026-08-18,재화 지급 호평
+steam_233113242,monetization,한섭 체감확률 최악,negative,ko,2026-08-18,가챠 확률 불만·의심
+steam_233112521,other,유입 경위,neutral,ko,2026-08-18,기타
+steam_233111711,other,가볍게 체험,neutral,ko,2026-08-18,기타
+steam_233109038,other,의리로 플레이,neutral,ko,2026-08-18,세계관·게임 애착
+steam_233105325,character,캐릭터 애정,positive,ko,2026-08-18,캐릭터 전반 호평
+steam_233104878,tech_bugs,게임 구동 불량,negative,ko,2026-08-18,앱 튕김·강제종료
+steam_233056720,other,의미 모호,neutral,ko,2026-08-17,의미 불명·무의미 글
+steam_233053163,character,캐릭터 외형,positive,ko,2026-08-17,외형·디자인 호평
+steam_233048905,character,학생 캐릭터 애정,positive,ko,2026-08-17,캐릭터 전반 호평
+steam_233048259,other,전반적 호감,positive,ko,2026-08-17,전반적 호평·추천
+steam_233026116,other,게임성 노잼,negative,ko,2026-08-17,재미·게임성 불만
+steam_233026116,character,애정 캐릭터 의존,neutral,ko,2026-08-17,캐릭터 전반 호평
+steam_233018527,tech_bugs,저사양 최적화,positive,ko,2026-08-17,최적화 불량
+steam_232977016,content_story,스토리 몰입,positive,ko,2026-08-16,스토리 호평·몰입
+steam_232977016,character,원하는 캐릭터 육성,positive,ko,2026-08-16,수집·육성 요구
+steam_232977016,monetization,재화 부족 천장,neutral,ko,2026-08-16,픽업 천장·확률 개선
+steam_232977016,event_ops,프랜차이즈 콜라보,positive,ko,2026-08-16,콜라보 이벤트
+steam_232971489,monetization,한섭 BM 개선 요구,negative,ko,2026-08-16,BM 변경·완화 요구
+steam_232971489,character,쿠루미 픽업 욕구,neutral,ko,2026-08-16,수집·육성 요구
+steam_232949515,character,이치카 애정,positive,ko,2026-08-16,특정 캐릭터 애정
+steam_232844564,content_story,게임 스토리 호평,positive,ko,2026-08-14,스토리 호평·몰입
+steam_232844564,character,캐릭터 호평,positive,ko,2026-08-14,캐릭터 전반 호평
+steam_232844564,ui_ux,유저 간 소통 기능 부재,negative,ko,2026-08-14,소통·상호작용 부족
+steam_232828202,content_story,뇌제의 유산 전개 분노,negative,ko,2026-08-14,초반 전개·주인공 불만
+steam_232777651,combat_balance,전투 상호작용 부족,negative,ko,2026-08-14,전투 재미 부족
+steam_232777651,content_story,스토리 연출 재탕,negative,ko,2026-08-14,연출·영상미 호평
+steam_232777651,character,의상별 성능 격차,negative,ko,2026-08-14,캐릭터 콘텐츠 요구
+steam_232777651,growth_resources,인연 랭크 느림,negative,ko,2026-08-14,성장 속도 체감
+steam_232728546,monetization,한정 상품 FOMO,negative,ko,2026-08-13,과금 부담·가성비
+steam_232678582,monetization,BM 변경 요구,negative,ko,2026-08-12,BM 변경·완화 요구
+steam_232657518,other,의미 모호,neutral,ko,2026-08-12,의미 불명·무의미 글
+steam_232630933,other,게임이 준 변화,positive,ko,2026-08-12,기타
+steam_232583803,other,은어 의미 모호,neutral,ko,2026-08-11,의미 불명·무의미 글
+steam_232577782,other,의미 모호,neutral,ko,2026-08-11,의미 불명·무의미 글
+steam_232572344,other,의미 모호,neutral,ko,2026-08-11,의미 불명·무의미 글
+steam_232508183,other,게임 외 콘텐츠 소비,neutral,ko,2026-08-10,기타
+steam_232499593,other,게임 애착,positive,ko,2026-08-10,세계관·게임 애착

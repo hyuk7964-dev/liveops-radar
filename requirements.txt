@@ -1,0 +1,3 @@
+pandas
+streamlit
+# 분석 단계(src/analysis)는 claude -p로 로컬에서만 돌린다. 웹사이트는 API 키가 필요 없다

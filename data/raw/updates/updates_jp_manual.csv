@@ -1,0 +1,7 @@
+﻿update_id,game_id,service_region,update_date,notice_date,version,update_type,update_title,update_description,source_url,language,collected_at,collection_method,is_synthetic
+jp_707,blue_archive,JP,,2026-10-27,,system,【新規コンテンツ】「仮想適性試験BETA」について,신규 콘텐츠,https://bluearchive.jp/news/newsJump/707,ja,2026-11-08T09:30:00Z,manual_input,False
+jp_706,blue_archive,JP,,2026-10-27,,event,【イベント】「Start Your Engines！ ～183号よ永遠に！～」紹介,이벤트,https://bluearchive.jp/news/newsJump/706,ja,2026-11-08T09:30:00Z,manual_input,False
+jp_705,blue_archive,JP,2026-10-28,2026-10-27,,maintenance,メンテナンスのお知らせ（10/28 11:00 - 19:00予定）,정기 점검 8시간,https://bluearchive.jp/news/newsJump/705,ja,2026-11-08T09:30:00Z,manual_input,False
+jp_704,blue_archive,JP,,2026-10-27,,character,ピックアップ募集紹介：★3「ヒフミ(レーシング)」、★3「アズサ(レーシング)」,신규 픽업 2명,https://bluearchive.jp/news/newsJump/704,ja,2026-11-08T09:30:00Z,manual_input,False
+jp_703,blue_archive,JP,,2026-10-25,,developer_note,運営権移管に関するお知らせ,일본 서비스 운영권 이관 공지. 이후 리뷰 변화의 큰 교란 요인,https://bluearchive.jp/news/newsJump/703,ja,2026-11-08T09:30:00Z,manual_input,False
+jp_702,blue_archive,JP,,2026-10-20,,event,【イベント】特殊作戦「ロア追跡」編 紹介,이벤트,https://bluearchive.jp/news/newsJump/702,ja,2026-11-08T09:30:00Z,manual_input,False

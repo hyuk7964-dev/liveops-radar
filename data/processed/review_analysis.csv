@@ -1,0 +1,824 @@
+﻿review_id,sentiment,issue_summary,ai_confidence,model_name,prompt_version,analyzed_at,reviewed_by_human
+appstore_jp_14759798576,negative,"요스타 이탈에 반발, 변경 시 전 기기 은퇴 선언",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14753031958,positive,게임은 매우 재밌고 부정 여론은 과하다는 의견,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14751809606,positive,비주얼과 사운드 모두 신급이라는 극찬,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14750030822,positive,퍼블리셔 변경 신경 쓰지 말고 즐기자는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14748646885,mixed,애착은 깊지만 회사와 작가 변경 후가 불안함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14747407926,mixed,원래 재밌지만 넥슨 운영 전환이 걱정됨,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14745839321,positive,시로코가 귀여워서 별 6개를 준다는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14741304486,positive,"스토리 좋고 가챠 무난, 기믹은 어렵지만 익숙해지면 재밌음",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14740707039,positive,"빠지면 깊이 빠지는 게임, 과금 의미 모호",0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14738006706,positive,초보에게 친절하고 가챠 사양도 좋아졌다는 평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14737908673,positive,최고라며 요즘 이슈에도 힘내길 바라는 응원,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14736920454,negative,요스타와 블루 아카이브에 작별을 고함,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14736115113,positive,블루 아카를 하라고 권하는 짧은 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14735537141,negative,재미없고 금방 게임오버가 된다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14731659008,positive,사양 변경으로 강캐 획득이 쉬워졌고 스토리가 감동적,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14730056802,positive,스토리와 BGM에 감사하며 계속 서비스되길 바람,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14726317315,mixed,애정이 큰 만큼 괴로운 전개와 게마트리아에 분노,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14726053347,mixed,가챠와 회사가 불안해도 좋아해서 계속하겠다는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14725924510,mixed,"캐릭터 묘사는 호평, 넥슨 이후 번역 품질이 걱정",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14725055138,positive,요스타가 떠나도 하루카만 있으면 괜찮다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14724727072,negative,가챠 변경과 퍼블리셔 교체로 의욕이 계속 떨어짐,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14724357356,negative,블루 아카는 끝났고 실행할 가치도 없다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14723954540,positive,히카리 케이 아리스 등 귀여운 캐릭터 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14723702708,negative,가챠 변경과 운영사 교체로 유저를 흔든다는 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14723511859,mixed,완성도는 높지만 상성과 새 가챠가 난해하고 템포가 느림,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14721702489,neutral,운영 체제 변경으로 소란 피우지 말라는 반박,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14721164908,positive,블루 아카는 신게임이라는 확신,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14721159010,positive,이벤트 질이 좋고 넥슨에 기대를 건다는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14721072903,positive,귀여운 학생이 많이 나와서 최고,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14721041563,positive,캐릭터가 귀엽고 스토리도 재밌다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14720962039,positive,유리조노 세이아가 귀여워서 별 5개,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14720604829,positive,히나가 너무 귀엽고 게임도 재밌다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14717814993,negative,넥슨 회원가입이 싫어서 그만둔다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14716627686,positive,일부 정보만으로 데이터를 복구해 줘서 감사,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14715305738,negative,"가챠 개악에 과금 중단, 넥슨 전환으로 은퇴 결심",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14713365576,positive,하기 쉽고 에덴 조약 스토리가 감동적,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14713141502,negative,회사 변경으로 이탈이 커져 서비스 종료가 가깝다는 예측,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14712544550,negative,1300일 플레이했으나 불안 속 퍼블리셔 변경에 실망,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14708955938,positive,혹평에 슬프지만 스토리와 학생이 훌륭하다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14708010844,mixed,스토리는 최고지만 전투와 육성이 단조롭다는 개선안,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:12:55Z,False
+appstore_jp_14694137256,negative,구체 근거 없이 게임을 조롱하는 평,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14692498681,negative,용량이 과하고 가챠도 최악이라는 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14692329304,mixed,스토리는 좋지만 특히 전술대항전이 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14687969292,negative,데이터가 사라졌고 복구도 불가하다고 안내받음,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14684367767,positive,부정 여론이 불쾌해 응원 차원에서 호평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14681061192,positive,스토리 감동과 편성 고민의 재미를 극찬,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14678695154,neutral,의미가 모호한 중국어 한 줄 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14672742146,mixed,BGM은 좋지만 뒷말이 생략된 평,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14665573385,positive,학생이 귀엽고 스토리가 감동적이라며 추천,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14406985977,negative,가챠 변경 공지 방식과 빈약한 주년 스토리 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14400504236,negative,이탈 유저가 스토리 하락과 가챠 개악을 비판,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14399487312,negative,가챠 사양 변경으로 재미가 사라져 신규 추천 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14399060290,negative,게임이 멈춘 채로 진행되지 않음,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14398521986,mixed,가챠와 편성은 호평이나 튕김과 소재 부족이 불만,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14397614715,positive,신작이라며 감사를 전하는 호평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14397572912,negative,신 가챠 사양을 거부하며 과금 중단 선언,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14396241327,negative,5.5주년 이벤트 스토리와 미니게임에 실망,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14395284171,mixed,포인트 리셋과 로딩 불만이나 2부는 기대,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394885499,negative,가챠 개편이 개악이며 게임 자체는 좋다는 평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394519291,negative,가챠 개악과 운영의 침묵으로 신뢰가 무너졌다는 평,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394499071,positive,캐릭터가 귀엽다는 짧은 호평,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394477723,positive,수영복 이로하 출시에 크게 감사,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394474296,negative,공지 방식과 천장교환 폐지 포인트 리셋에 불신,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394279778,negative,콘텐츠 증가와 가챠 변경으로 서비스 종료를 우려,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14394068108,negative,갑작스런 가챠 변경과 개선 의지 없는 대응을 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14392778082,positive,카요코에 대한 열광적 애정 표현,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14392752643,positive,사츠키와 마코토 등 만마전 캐릭터를 극찬,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14392310145,negative,확률 업이 거짓 같고 픽업 이탈이 너무 많다는 불만,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391824277,negative,갑작스런 가챠 개편으로 불신이 커져 과금 보류,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391741278,positive,에리에 대한 열광적 애정 표현,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391678501,negative,가챠 사양 변경으로 픽업을 못 뽑아 극심한 불쾌감,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391654818,negative,낮은 픽업률과 천장 리셋은 불만이나 스토리는 호평,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391436335,mixed,가챠 복원을 요구하되 학생이 귀여워 별 다섯,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391329967,positive,츠루기를 향한 애정과 감사,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14391002869,positive,시로코가 귀여워 별 다섯,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390915270,negative,가챠 개편보다 PD 개인 SNS뿐인 대응이 불성실,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390786957,positive,시로코 나츠 미노리가 귀엽다는 호평,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390737870,negative,캐릭터와 스토리가 강점인데 가챠를 개악했다는 비판,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390653466,negative,가챠 개악을 클레임하며 복원이나 개선을 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390490099,negative,스토리 하락과 가챠 개편 공지로 은퇴를 결심,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:14:22Z,False
+appstore_jp_14390342424,mixed,"캐릭터·스토리는 호평, 가챠 개편에 혼란",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14390035602,positive,미요가 너무 귀엽다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389910702,negative,가챠·UI 개악에 운영이 침묵해 실망,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389867287,positive,새 가챠가 유저에게 유리하다는 옹호,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389842644,negative,운영이 돈벌이로 돌아서 신규는 말리고 싶다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389617641,negative,가챠 시스템이 쓰레기라며 개선 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389567818,mixed,캐릭터는 귀엽지만 용량이 쓸데없이 큼,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389484449,positive,캐릭터·스토리·전투 모두 좋아 대만족,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389408740,negative,"가챠 개악으로 천장 가치 소멸, 캐릭터는 좋음",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389403536,negative,가챠 이력 기능 없고 공식 설명이 불성실,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14389256338,negative,가챠 개악과 낮은 픽업 확률 비판,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14388717610,negative,가챠 개악이 최악이라는 한마디,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14387636742,negative,대항전 버그와 설정 불만으로 삭제 결심,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14386900474,positive,스토리·디자인·가챠 모두 최고라며 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14386882748,negative,유저 불리 업데이트 끝에 가챠까지 손댐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_jp_14386839799,negative,육성이 번잡해져 즐거움보다 부담이 큼,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13730769892,positive,캐릭터·스토리 모두 완벽한 인생 게임,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13727559160,negative,전투 조작 불편과 매크로 제재 미흡 비판,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13725302807,mixed,튕김은 심하지만 스토리는 감동적,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13694816307,negative,아이폰13에서 튕김과 랙으로 플레이 불가,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13687710709,negative,수년간 튕김 리뷰를 무시하는 운영 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13684823954,neutral,의미가 모호한 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13671019106,positive,이 게임 덕에 행복한 삶을 보낸다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13627804271,mixed,"재밌지만 가끔 꺼지고 발열, iOS 최적화 요청",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13603642523,negative,SE2에서 실행 불가라 구형폰 지원 요구,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13588586097,positive,일러와 캐릭터 모션이 귀엽고 좋다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13584039935,negative,전투 진입마다 튕겨 튜토리얼도 못 끝냄,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13581091486,negative,아이폰13에서 전투 진입 시 계속 튕김,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13569264802,mixed,게임은 재밌으나 전투 진입 튕김이 심함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13551795075,negative,모바일에서 접속할 때마다 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13544549004,negative,확률이 소녀전선보다 심하다며 격한 비난,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13530719838,negative,튕김과 화면 멈춤으로 플레이 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13521773597,mixed,게임은 재밌으나 너무 자주 튕김,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13519867814,positive,학생과 노래가 즐겁고 히나에 30만원 과금,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13519759590,negative,튕김이 전보다 심해져 진행 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13497926696,negative,아이폰16에서도 자꾸 튕겨 해결 요구,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13473567504,neutral,밈성 글로 의미가 모호함,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13465799076,positive,스토리와 학생들이 좋아 매일 접속,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13357759833,negative,아이폰13에서 너무 자주 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13349994349,negative,전투 진입 시 튕겨 해결 요청,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:15:48Z,False
+appstore_kr_13316602874,negative,키보토스로 가지 못한다는 한탄(원인 불명),0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13294114502,positive,스토리가 좋고 앞으로의 업데이트도 기대,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13277247341,positive,살면서 가장 빠져서 한 최고의 게임,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13265653262,negative,모든 픽업이 천장이라며 픽업 삭제와 200포인트 교환 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13247268724,negative,어디든 들어가면 튕겨 진행 불가 원인 안내 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13234947674,mixed,게임성은 만족하나 전투 중 튕김이 심해짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13234789123,negative,아이폰16에서 앱 복귀 후 프레임이 떨어짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13227537428,negative,신규 보스가 모바일에선 안 보이고 PC를 사실상 강제,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13225126305,negative,초반 무음성 연출이 지루해 바로 삭제,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13223102778,negative,옵션을 꺼도 3분마다 강제종료되어 최적화 의심,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13216653759,negative,IP는 좋지만 하루 여러 번 튕겨 젠레스와 비교하며 분노,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13204100886,negative,아이폰 튕김이 몇 년째 그대로라 비추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13191190989,negative,270뽑에도 픽업이 안 나와 확률에 분노,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13189325735,negative,몇 달째 튕김에 업데이트 후 버벅임까지 추가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13180235780,negative,진행이 안 될 만큼 튕겨 저사양 설정 요청,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13178095934,negative,최적화해도 심하게 튕김(본인 폰 탓도 의심),0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13177794405,negative,아이폰13 미니에서 업데이트 후 뭘 눌러도 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13177476382,positive,인생을 구원했다며 감사(대상 불명확),0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13174667093,negative,몇 년째 고쳐지지 않는 문제 비난(구체 불명),0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13173604532,positive,캐릭터가 예쁘고 재밌어 인생 게임,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13173394490,positive,보상을 많이 뿌려 수익 걱정(호평 추정),0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_13154005130,negative,인게임이 재미없다는 의문,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9611023009,negative,아이폰13에서 일반 화면에 계속 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9610016333,mixed,게임은 좋으나 튕김과 저옵션 글자 불가독,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9605297482,negative,아이폰 아이패드 모두 계속 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9605037577,negative,화면 전환 튕김이 개선 안 된다며 넥슨 비난,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9602798902,negative,재밌지만 10~20분마다 강제종료되어 최악,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9601534840,negative,계속 튕겨 PC로 플레이 중 최적화 수준 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9600676487,negative,개노잼이니 하지 말라는 비추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9599564085,negative,예전엔 없던 튕김이 최근 심해짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9599449813,negative,아이폰 SE2에서 이 게임만 요즘 너무 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9599242005,negative,아이폰에서 튕겨 점령전을 못함,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9596434265,negative,튕김이 잦아 의욕 상실 빠른 수정 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9594994020,negative,iOS에서 재설치해도 계속 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9592809735,negative,게임이 자주 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9592282621,negative,최적화는 언제 하냐는 불만,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9591666599,mixed,다 좋은데 너무 튕기니 고쳐달라,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9591240765,mixed,해외라 타임아웃으로 못 했지만 재밌어 보임,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9589944369,negative,접속 1분 내 튕겨 아이폰 최적화 시급,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9589601593,negative,1년 넘게 했는데 3분마다 튕겨 못 하겠다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:16:59Z,False
+appstore_kr_9587897802,negative,"재설치해도 계속 튕김, 해결 요청",0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9586594928,negative,백야당 이벤트 이후 튕김이 심해짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9586455858,negative,반어로 카테고리 이동 시 잦은 튕김 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9585946921,positive,성공이 기쁘고 이번 패스를 결제함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9585032592,mixed,게임은 재밌으나 아이폰11프로에서 꺼짐,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9584183886,negative,"1년째 강종 악화, 이벤트 진입도 불가",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9581393117,positive,기적 같은 이야기를 계속 이어가고 싶음,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9581048494,mixed,스토리와 디자인은 좋으나 튕김이 잦음,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9579415006,negative,튕김 때문에 그만둘 생각,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9579323275,negative,아이패드에서 이벤트맵과 로비 튕김이 심함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9578485939,negative,아이폰13에서도 버튼마다 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9577216869,negative,재설치해도 카페와 홈 이동 시 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9576351016,mixed,재밌지만 카페와 이벤트 진입 시 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9575476586,negative,이벤트 패치 후 강제종료로 플레이 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9575189367,negative,아이폰에서 5분마다 튕겨 플레이 곤란,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9574783303,negative,게임이 계속 종료됨,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9574549385,negative,5분에 3번씩 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9574356735,negative,실행하면 튕김이 무한 반복됨,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9574058262,mixed,아이폰8 튕김과 3성 확률 상향 요청,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9573111970,negative,구형폰에서 튕김과 점령전 진입 불가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9573042992,negative,튕김 악화와 운영진의 책임 회피 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9572963517,negative,"패치 후 튕김, 사용자 탓 말고 대책 요구",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9572763069,mixed,재밌고 예쁘지만 튕겨서 진행 불가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9571535512,negative,용량과 발열 문제없는데 아이패드서 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9570296154,mixed,캐릭터와 성우는 좋으나 혼자 튕김,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9570094879,negative,이번 이벤트 이후 튕김이 더 심해짐,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9569742611,negative,5분쯤 하면 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9569160265,negative,아이폰13에서 20분에 4번 이상 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9568540366,negative,로딩 중 튕김이 극심하고 최적화 미흡,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9568483550,negative,iOS 최적화가 나빠 플레이 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+appstore_kr_9568388384,negative,"아이폰12에서 몇 판마다 튕김, 업데이트 요청",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_808,negative,업데이트 완료 후에도 재업데이트 안내와 네트워크 오류,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_807,negative,"게브라전에서 게임이 꺼짐, 해결법 문의",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_806,negative,아이패드에서 수영복 세이아 편성 시 소리 끊김과 튕김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_805,neutral,"같은 증상을 겪는지 묻는 글, 맥락 불명",0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_804,neutral,"무엇인지 묻는 글, 맥락 불명",0.25,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_803,negative,같은 상태이며 아직 안 고쳐졌다는 동조 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_802,neutral,"무엇인지 묻는 글, 맥락 불명",0.25,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_801,negative,수영복 카스미가 편성과 카페에서 표시 안 됨,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_800,neutral,"이벤트 스토리 전투가 강제 승리 처리됨, 버그 문의",0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:18:04Z,False
+gamerch_219513_799,negative,포인트를 받아도 레벨이 오르지 않는 버그,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_798,negative,임무를 쓰면 게임에서 로그아웃됨,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_797,negative,이벤트 전투 시작 시 조작이 먹통이 됨,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_796,negative,모집 화면에서 슌의 방어 타입이 잘못 표시됨,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_795,neutral,안드로이드 사용자라는 언급뿐,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_794,negative,제약해제결전을 시작하면 앱이 꺼짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_793,negative,iOS에서 총력전·결전 진입 시 홈으로 튕김,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_792,neutral,iOS 사용자라는 언급뿐,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_791,negative,전투 시작 시 멈춘 뒤 홈 화면으로 복귀,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_790,negative,로딩 중 앱이 꺼지고 버그 감지 메시지 표시,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_789,neutral,Wi-Fi 환경을 점검해 보라는 조언,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_788,negative,로그인이 자주 안 되어 대처법을 묻는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_787,negative,이벤트 화면 배경이 검게 나오고 재시작해도 그대로,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_786,negative,레벨업한 장비에 레벨업 안내 마크가 계속 뜸,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_785,neutral,어제부터 이렇다는 짧은 글(내용 불명),0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_783,negative,버튼이 전부 검게 변한 지 이틀째,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_782,neutral,이런 상태라는 짧은 글(내용 불명),0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_781,neutral,무언가 이상해졌다는 짧은 글(내용 불명),0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_780,negative,전투하면 게임이 꺼져 이벤트 공략 불가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_779,negative,앱을 열자 이상 상태가 되어 원인을 묻는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_778,negative,스토리 열람이나 보상 수령 시 크래시 발생,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219513_777,negative,탐색 이벤트 에피소드5에서 넬이 안 움직임,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219515_635,neutral,기념 파피코라는 짧은 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+gamerch_219515_634,neutral,한국·일본 굿즈 교환 및 친구 제안,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239632077,mixed,확률 비난 리뷰는 무시하고 슈포가키 때문에 한다는 밈 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239544071,mixed,게임은 괜찮지만 고객지원이 같은 문서만 반복함,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239526162,negative,인도네시아어 욕설 섞인 글(가챠 불만 추정),0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239488039,negative,접속 오류로 출석이 끊기고 재화 수급도 힘들어 이탈,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239487098,mixed,울릴 만큼 감동적이지만 램 부담이 큼,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239476603,mixed,디자인과 음악은 좋으나 화풍 편차와 단조로운 전투,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239470244,positive,지금까지의 스토리가 마음에 든다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239442568,negative,게임이라 할 만한 게 별로 없다는 평,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239429603,positive,성장이 꾸준하고 시스템이 이해하기 쉬움,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239402235,positive,스토리와 음악을 극찬하나 일부 커뮤니티는 아쉬움,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239379774,positive,스토리가 감동적이고 캐릭터가 모두 귀엽다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239268118,positive,최고의 가챠 게임이라는 극찬,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239238588,positive,스토리와 OST에 크게 감동했다는 글,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239228646,positive,전투가 경쾌하고 스토리와 학원 분위기가 재밌다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239209738,positive,게임은 좋지만 가챠 변경 불만은 인지하는 추천글,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239175470,positive,눈물이 멈추지 않을 만큼 감동받음,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:02Z,False
+steam_239168177,positive,최고의 게임이라며 10점 만점 평가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_239118370,positive,오래 비난하다 해보니 인생 최고의 게임이라고 평가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_239101980,positive,재밌는 게임인데 평판이 망쳤다는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_239101042,positive,좋다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_239061297,positive,인생 최고의 게임이라는 극찬과 농담성 바람,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238974463,mixed,게임플레이는 훌륭하나 미성년 캐릭터 묘사가 아쉽다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238971687,positive,게임이 정말 좋았다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238909767,positive,캐릭터가 귀여워 아직 안 해봤지만 10점,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238819060,neutral,의미를 알 수 없는 짧은 글,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238805512,positive,훌륭해서 계속 할 게임이라는 호평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238784702,neutral,의미가 모호한 은어성 표현,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238674127,negative,매우 지루하다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238673492,negative,"EA를 향한 욕설, 맥락 불명",0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238668755,positive,울음이 멈추지 않는다는 감정적 반응,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238663246,neutral,의미 없는 문자열,0.05,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238652477,positive,질문을 늘어놓다 성적 농담으로 호평하는 글,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238619416,negative,시간 낭비라며 추천하지 않음,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238617437,negative,게임과 파생 커뮤니티를 강하게 비난,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238599916,mixed,캐릭터와 무과금 친화는 호평이나 가챠 50/50 변경을 우려,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238550540,positive,AI 조수 캐릭터가 내 이름을 불러주는 게 즐겁다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238534483,positive,게임을 좋아한다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238529313,positive,여성 캐릭터가 마음에 든다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238451563,mixed,자동 소탕 탓에 전투 깊이가 없어 지루해졌다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238430495,positive,마리 캐릭터에 대한 애정 표현,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238416697,positive,귀엽고 재미있다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238411597,mixed,게임은 좋으나 실행 실패와 세션 오류로 결제 보류,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238352174,mixed,캐릭터는 최고 강점이나 플레이 콘텐츠가 금방 소진된다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238306474,positive,매우 귀엽고 재미있다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238280440,negative,가챠 확률이 나쁘다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238266379,positive,스토리가 역대 최고라는 극찬,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238250346,positive,매우 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238170242,positive,첫눈에 반한 캐릭터가 너무 많아 이름을 못 외운다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238158493,neutral,리오 배너 복귀를 요청하는 팬심,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238151140,neutral,우는 이모티콘만 있어 의도가 불분명,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238128474,positive,매우 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238087499,positive,어린 캐릭터를 좋아한다는 농담성 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238078487,positive,스토리와 게임플레이 모두 훌륭하다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238077308,positive,매우 좋은 게임이다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238067678,positive,너무 귀엽고 재미있다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238058674,positive,캐릭터로 시작해 스토리 때문에 남았다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:19:44Z,False
+steam_238043781,positive,스토리와 캐릭터에 깊이 몰입해 만족,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_238042403,neutral,귀엽다는 뜻의 모호한 한 줄 평,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_238039506,positive,종료된 다른 게임의 대체재로 만족,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237964169,positive,캐릭터와 스토리 좋고 무과금에도 덜 가혹,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237958723,positive,리눅스에서 잘 돌아가고 캐릭터도 좋아함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237953671,mixed,OST는 극찬하나 풀보이스 부재와 가챠 개편에 반발,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237930689,negative,게임과 팬덤을 노골적으로 비난,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237887013,mixed,게임은 좋다면서 팬덤을 격하게 비난,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237870837,positive,캐릭터 키사키에 만점을 줌,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237825144,positive,스토리와 캐릭터 모델이 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237746809,mixed,게임은 괜찮지만 커뮤니티가 이상하다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237713671,positive,메타 부담 없고 스토리와 캐릭터가 좋다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237678883,positive,시간 때우기에 재미있는 게임,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237665038,neutral,그냥 괜찮다는 평가,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237630481,positive,캐릭터 아루에 대한 애정 표현,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237622381,positive,재미있는 게임이라는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237613645,negative,쓰레기라는 감정적 비난,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237559663,positive,게임이 예쁘고 마음에 든다는 농담조 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237549705,mixed,게임은 사랑하나 스파크 개편에 반발하며 신규 비추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237531932,mixed,전략 게임으로 좋으나 접속 오류가 반복됨,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237502765,neutral,전설로는 실제로 하는 사람이 있다는 농담,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237492606,positive,스토리와 캐릭터와 음악 모두 호평,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237472261,mixed,할 거리 많고 가챠는 무난하나 픽업 확률이 낮다,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237394392,positive,13시간 만에 가챠 운이 따르고 학생들이 매력적,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237388765,positive,학생들과 플롯이 좋다는 평 (스토리는 미독),0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237363785,mixed,게임은 최고지만 하기 부끄럽다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237342489,positive,캐릭터 히후미에 대한 감정 표현,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237341260,negative,가챠 개편 탓에 장기 플레이 의욕이 사라짐,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237340246,positive,캐릭터 취향을 드러낸 짧은 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237274834,positive,귀엽다는 모호한 한 줄 평,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237258651,negative,스토리는 좋으나 새 가챠 개편 때문에 비추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237216827,mixed,전략성은 좋으나 새 가챠 시스템에 욕설 비난,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237206865,negative,슬롯머신 같고 과금 유도가 심하다는 풍자,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237191810,neutral,무료니까 괜찮다는 뉘앙스의 한 줄,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237178305,negative,타인이 실행한 기록으로 스팀 계정 평판 피해,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237176745,negative,후회한다는 모호한 한 줄,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237175469,mixed,추천하지만 새 가챠 시스템은 형편없다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237132431,positive,캐릭터들을 모두 좋아함,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237104639,negative,네트워크는 정상인데 연결 오류로 플레이 불가,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237097946,positive,전투와 스토리가 훌륭해 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:20:55Z,False
+steam_237017625,negative,AI 생성 콘텐츠에 반대해 플레이를 중단함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236977924,positive,스토리와 작가진을 극찬함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236926966,positive,"손 부상 중 시작해 만족, 음악과 캐릭터 호평",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236900717,positive,최고라는 짧은 찬사,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236878973,positive,귀엽고 웃기다는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236820078,negative,전투는 흥미롭지만 선정적 방향이 거부감,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236786808,positive,히나와 스토리에 만족하며 과금도 함,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236744078,positive,은어로 캐릭터를 좋게 표현한 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236692588,neutral,의미 파악이 어려운 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236662760,positive,최고라는 짧은 찬사,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236616557,negative,구체적 이유 없이 게임을 비추천함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236602035,mixed,가챠 개편은 아쉽지만 캐릭터는 좋아함,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236542911,mixed,가볍게는 재미있고 경쟁은 스트레스,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236465549,negative,새 가챠 시스템이 게임을 망쳤다는 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236444488,mixed,가챠 피로감은 있으나 스토리는 몰입감 있음,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236397679,mixed,초중반은 재미있으나 엔드게임은 리셋 노동,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236374337,positive,편견을 반박하며 설정과 캐릭터를 옹호함,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236369807,mixed,연출은 훌륭하나 전투는 밋밋하다는 평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236368074,neutral,아로나 관련 농담조 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236323212,positive,심심풀이로 매우 좋아함,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236321485,positive,귀여운 캐릭터에 대한 호감 표현,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236284283,positive,스토리와 캐릭터가 좋아 8점을 줌,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236284082,positive,좋다는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236264207,negative,로딩이 매우 길다고 비꼼,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236229352,positive,말로 못 할 만큼 좋아함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236185532,negative,지루함 등을 나열한 밈성 비난,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236122604,positive,은어로 캐릭터를 좋아함을 표현,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236105229,positive,처음 시작하던 때가 그립다는 향수,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236090132,negative,밈성으로 플레이를 말리는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236070850,negative,밈성으로 게임을 비난하는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_236063081,positive,캐릭터와 스토리와 전투 아트를 좋아함,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235995377,negative,가챠 시스템을 되돌리라고 요구함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235895345,positive,아루의 명대사가 인상 깊었다는 글,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235858758,mixed,PC 튕김과 새 가챠에 불만이나 음악과 캐릭터는 호평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235830767,positive,게임을 좋아한다는 짧은 평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235808199,positive,밈성 표현으로 좋은 게임이라 평가,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235790410,negative,운영진과 가챠 개편이 게임을 망친다는 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235738957,neutral,의미가 모호한 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235659892,positive,"5년 플레이, 스토리 호평이나 콘텐츠는 부족",0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235643103,negative,이즈미의 자가 회복 스킬을 조롱함,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:21:57Z,False
+steam_235588790,positive,재밌는 게임이라는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235579413,negative,'smelly'라는 한 단어 평 (의미 모호),0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235559242,neutral,캐릭터 이름(츠루기)만 언급,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235554934,positive,밈성 표현과 함께 게임이 마음에 든다고 함,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235457442,positive,멋진 게임이라는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235457344,positive,좋은 게임이라는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235444510,negative,새 가챠와 팬덤에 분노해 플레이를 그만둠,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235444246,positive,캐릭터에 밈 섞인 호감을 표현,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235433582,negative,굳이 할 필요 없다는 비추천,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235426962,negative,전투 사이 대화가 적고 실제 전투가 어디냐는 불만,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235399879,neutral,커뮤니티 밈 용어 비난에 대한 반박 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235359629,mixed,게임은 괜찮지만 커뮤니티가 나빠졌다고 함,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235356017,mixed,좋은 게임이나 신규에겐 정신없다는 평,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235355899,neutral,점자 아트만 있어 내용 판단 불가,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235330265,neutral,'ONCE CHANCE'만 적혀 의미 모호,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235323745,mixed,분위기와 캐릭터는 좋으나 최근 가챠 변경은 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235314344,positive,작은 로봇 소녀 캐릭터가 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235295408,neutral,하트로 키워드만 나열해 의도 불명,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235285510,positive,가챠 게임 편견과 달리 전투 플레이가 재밌다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235275414,neutral,결혼 기능은 언제 나오느냐는 질문,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235215384,positive,좋다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_235209033,neutral,아로나 관련 밈성 욕설 (의미 모호),0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234993966,negative,회사 방침이 캐릭터 획득을 망쳤다는 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234932072,negative,로리 게임이라며 낮게 평가,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234908059,mixed,게임은 좋지만 가챠 시스템을 고쳐달라,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234895339,positive,스토리와 캐릭터가 훌륭하다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234895031,mixed,게임은 귀엽지만 커뮤니티는 최악이라는 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234889857,neutral,아스키 아트만 있어 내용 판단 불가,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234879427,positive,이부키가 귀엽고 웃겨 꼭 해보라는 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234860098,negative,새 가챠가 불만이나 이미 투자해 계속 플레이,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234852345,mixed,가챠 논란은 최악이나 게임과 캐릭터는 괜찮다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234832102,neutral,'대단합니다' 한마디 (반어 여부 불명),0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234813762,negative,회사의 탐욕과 팬덤 때문에 좋은 시리즈가 망했다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234808525,positive,타카나시 호시노에 대한 애정 표현,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234796447,neutral,모모이 무릎보호대만 언급,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234751695,negative,가챠가 나빠졌고 아카이브 모집 확장도 방치됨,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234706074,negative,포인트샵 아이템을 늘리지 않으면 비추천 유지,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234680727,mixed,스토리는 최고지만 가챠가 너무 심하다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234675001,neutral,게임명을 비튼 'glue archive'만 적음,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234645306,positive,글과 세계관과 캐릭터가 좋고 과금도 부담 적다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:22:46Z,False
+steam_234621210,positive,캐릭터 매력과 스토리 작문을 극찬,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234604053,mixed,스토리·UI는 좋으나 반복 플레이와 커뮤니티가 아쉬움,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234600167,positive,모든 선생님에게 좋은 게임이라는 호평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234592161,negative,배신당했다는 한 단어 평,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234582888,negative,가챠 개편에 분노하며 개선 전까지 접속 안 함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234560914,neutral,밈성 외침으로 의미 불명,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234517581,negative,진행 중인 세션 오류 메시지만 반복 도배,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234509460,mixed,가챠 개편에 분노하나 스토리·캐릭터 때문에 잔류,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234501127,negative,러시아어 욕설로 쓰레기라는 평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234427224,positive,귀여운 게임이라는 짧은 호평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234397620,positive,매우 좋고 즐겁다는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234393114,positive,무난하다는 한 단어 평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234379814,positive,최고의 게임이라는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234369301,negative,캐릭터 말투가 거슬리고 전반적으로 평범,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234366110,positive,밈 투로 게임에 헌신하라는 찬사,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234359929,negative,가챠 개편 공지 뒤 커뮤니티가 분열되어 비추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234359594,mixed,게임성은 좋으나 여고생 성적 대상화는 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234317799,mixed,스토리는 훌륭하나 커뮤니티가 아쉽다는 평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234310704,negative,장점을 비꼬며 과금·팝업·스태미나를 비판,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234308514,neutral,점자 아트만 있고 평가 내용 없음,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234307613,positive,밈 표현으로 최고라는 반응,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234276317,negative,가챠 개편 우려로 과금 중단과 운영 괴리 지적,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234260322,positive,귀엽고 재미있는 게임이라는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234256949,mixed,새 가챠는 환영하나 전투 개선을 요구,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234244586,negative,수치상 차이는 작으나 뽑기 체감이 전반적으로 악화,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234231452,positive,최고의 동인이라는 짧은 평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234225917,neutral,그저 그렇고 취향이 갈린다는 평,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234223771,negative,50/50 도입으로 더는 재미없다는 평,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234220224,negative,과금과 캐릭터 소비 방식을 슬롭이라 조롱,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234218154,negative,넥슨의 탐욕적 상황에 항의하는 비추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234209776,negative,인도네시아어로 인색하다는 한 단어 평,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234208132,positive,꽤 좋은 게임이라는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234206102,positive,최고라는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234192144,neutral,게헨나 구호만 반복하는 도배성 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234181771,negative,게임이 탐욕스러워졌다는 평,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234180296,negative,50/50 도입을 유저 짓밟기로 보고 과금 거부 촉구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234170006,mixed,50/50은 반대하나 게임은 귀엽고 재미있음,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234143562,negative,맥락 없이 거부하는 짧은 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234136810,mixed,스토리와 숙제는 좋으나 새 가챠로 신규 비추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234123805,negative,지루해 보인다는 짧은 평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:23:44Z,False
+steam_234107156,negative,EA를 욕하는 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234097967,mixed,게임은 좋았지만 변경과 넥슨 때문에 망쳤다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234064050,positive,세이아를 좋아한다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234055892,negative,업데이트 후 접속 오류가 매번 세 번째 시도에 풀림,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234047729,positive,좋은 게임이라는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234022534,negative,신규 가챠 때문에 신규 유저에게 시작을 말린다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234021212,negative,전형적인 기업 탐욕이라며 시간 낭비라 평가,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234019022,negative,페이투윈 쓰레기라는 평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_234012223,negative,탐욕스러운 과금에 분노하며 보이콧을 주장,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233990805,negative,2초도 못 버티고 혐오감에 종료,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233961880,negative,게임플레이가 평범하다는 낮은 평가,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233958555,positive,게임플레이와 천장과 방 꾸미기를 좋게 평가,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233952556,positive,인생이 바뀔 게임이라는 호평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233934346,positive,더 관대해진 가챠 시스템에 감사,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233919538,mixed,오랜 유저로서 호평하지만 최근 경험에 큰 단서를 단다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233899343,negative,4년 유저가 신규 가챠에 실망해 복귀하지 않겠다고 함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233887889,negative,넥슨에 TF2처럼 방치하지 말라고 호소,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233863734,negative,EA를 욕하는 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233838631,positive,좋은 게임이라는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233837560,negative,가챠 개편으로 재미가 없어졌고 이전 방식 복구를 원함,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233831536,mixed,게임은 좋지만 신규 가챠와 탐욕이 걱정된다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233831523,negative,신규 가챠 시스템이 나쁘다,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233830428,negative,천장 없이 확률이 낮아 과금 없이는 즐기기 어렵다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233809869,neutral,텍스트 없이 아스키 아트만 있음,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233785485,negative,게임을 지우라고 권한다,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233767416,neutral,스토리를 묻는 한 단어 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233758919,positive,와카모에 대한 애정 표현,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233751416,positive,카요코에 대한 깊은 애정 표현,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233750132,positive,귀엽고 재미있는 게임이라며 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233745162,positive,편안한 분위기에 가챠가 섞인 게임이며 나쁘지 않다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233741773,positive,스토리와 캐릭터가 좋고 편안한 게임,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233739050,positive,모든 학생을 사랑한다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233731096,mixed,3년 유저가 세계관은 칭찬하지만 최근 피로감을 느낀다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233712904,neutral,의미가 불분명한 한 단어 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233710689,negative,팬덤을 무시하면 대가를 치른다는 경고,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233706367,mixed,스토리와 전투 연출은 좋지만 가챠 개편과 운영에 실망,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233685860,neutral,아마 긍정적인 리뷰라는 모호한 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233684193,neutral,텍스트 없이 아스키 아트만 있음,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233670380,mixed,신규 가챠는 별로지만 스토리와 캐릭터 때문에 계속 플레이,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233665726,mixed,가챠 개편에 반발하지만 아트와 스토리와 캐릭터로 추천,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:24:39Z,False
+steam_233665287,positive,아리스가 최고의 학생이라며 캐릭터 호감 표현,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233648801,negative,개발진과 지원 대응이 불쾌하고 답답했다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233647694,negative,변경이 철회되지 않으면 게임을 떠난다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233633742,negative,새 가챠 시스템을 반어적으로 비판하고 옹호자를 비난,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233633008,negative,가챠 시스템이 원복될 때까지 비추천,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233632640,negative,커뮤니티 이용자 성향을 비난하며 나쁜 게임이라 평가,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233630834,neutral,밈성 글로 게임 평가 내용 없음,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233625980,mixed,게임은 좋지만 새 가챠 시스템은 별로,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233618573,mixed,스토리는 극찬하나 가챠 개편에 항의성 부정 평가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233615895,neutral,밈성 단문으로 평가 불명확,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233589174,positive,스토리 음악 그림체 분위기를 모두 칭찬,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233586502,positive,플레이타임은 짧지만 스토리와 캐릭터가 좋다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233578962,neutral,생각보다 나쁘지 않다는 가벼운 평가,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233576917,negative,게임을 떠나겠다는 이탈 선언,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233574055,mixed,콘텐츠는 호평하나 가챠 개편과 경영진을 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233562299,negative,가챠 개편으로 신뢰가 무너졌다며 미쿠 콜라보 복각 제안,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233486580,negative,가챠 업데이트를 돈벌이라 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233468464,positive,가챠 변경은 보이는 만큼 나쁘지 않다는 옹호,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233462196,mixed,모바일 시간 때우기엔 좋으나 새 가챠는 유저에 불리,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233455611,negative,경영진 영입 탓에 최근 배너가 최악이라며 이탈 선언,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233429149,positive,스토리 디자인 편의 기능 칭찬 느긋한 가챠로 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233421015,negative,360회 뽑기에 무지개 5개로 부정 평가,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233392715,positive,매우 재밌다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233385759,positive,게임이 좋다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233383256,negative,넥슨의 결정에 의문을 제기,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233380967,mixed,스토리만 좋고 이상한 리뷰 분위기는 아쉽다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233354769,positive,꼭 해보라는 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233348675,negative,운영사가 게임을 망치고 있다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233344973,negative,가챠를 원복하라 신뢰 배신은 잊지 않는다,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233330219,mixed,스토리와 OST는 극찬 일부 커뮤니티는 문제,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233296755,neutral,점자 아스키아트뿐이라 평가 내용 없음,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233289201,positive,10점 만점에 필수 플레이라는 호평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233272792,neutral,밈성 감탄사로 평가 불명확,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233268732,positive,게임이 좋다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233263760,negative,역대 최악의 가챠 시스템 변경,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233263388,neutral,점자 아스키아트뿐이라 평가 내용 없음,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233261887,positive,매우 좋다는 짧은 호평,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233257470,positive,디자인과 귀여운 캐릭터 칭찬,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233254674,positive,매우 재미있다는 짧은 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233246498,negative,EA식 변질에 반발해 복귀하지 않겠다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:25:26Z,False
+steam_233243737,negative,"가챠 개편 철회 요구, 케이 조기 서비스 종료 우려",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233241067,negative,가챠 변경 때문에 더는 추천 못 함,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233237503,negative,"가챠 개편과 신임 CEO를 격하게 비난, 스파크 복구 요구",0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233229282,negative,가챠 개편을 탐욕적이라 비판하며 신규 추천 거부,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233224684,mixed,콘텐츠는 호평 가챠 개편은 불만이나 긍정 평가 유지,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233200964,negative,전해 들은 새 가챠가 별로라 신규에겐 비추천,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233195329,neutral,은어 한마디라 의도 불명확,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233194121,negative,EA 출신 신임 CEO 때문에 접겠다는 반응,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233190367,negative,가챠 시스템 변경에 질렸다는 태국어 리뷰,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233188545,neutral,친구가 작은 캐릭터를 좋아한다는 농담성 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233182845,positive,귀여운 캐릭터 칭찬,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233176259,negative,신규 유저 눈에도 새 시스템이 형편없음,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233173784,positive,새 가챠가 더 낫다는 옹호 밈성 글,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233173161,negative,스파크 논란과 진척감 부족으로 게임이 공허함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233166346,negative,미호요식 가챠가 BA에 안 맞고 5성 육성 부담 큼,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233163505,mixed,스토리 디자인은 좋으나 탐욕스러운 개편에 실망,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233160288,neutral,텍스트 없이 점자 아스키아트만 있음,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233158197,positive,좋은 게임이라는 단순 호평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233143727,negative,스파크 폐지에 분노하며 가챠 수정 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233136804,mixed,CEO 교체는 우려하나 새 가챠는 유저에게 이득이라 주장,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233136543,negative,가챠를 망쳤다며 탐욕을 비판,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233135675,negative,가챠를 고치라는 요구,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233135640,negative,스토리는 훌륭하나 최근 변경과 방향성에 실망,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233133927,negative,뽑기 시스템 변경을 반어적으로 비꼼,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233131538,negative,스파크를 유지했어야 한다며 탐욕과 호요 따라하기 비난,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233130635,negative,새 UI가 못생겼다는 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233127118,negative,게임 자체는 7점이나 새 가챠로 최종 2점,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233126000,negative,이유 없는 한 단어 혹평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233125912,negative,신임 CEO 해임 전까지 추천 불가,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233125632,negative,전 EA 출신이 게임을 망쳤다는 비난,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233124572,negative,새 가챠 시스템 때문에 추천 불가,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233121671,positive,새 가챠 비난은 계산 못 한 탓이라며 옹호,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233118924,negative,노트북 과열 문제와 천장 개편 그리고 배너 광고에 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233115284,negative,이유 없는 한 단어 혹평,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233115171,negative,오래한 유저가 열정이 식음 가챠와 스토리는 무난,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233112053,negative,EA를 끼워 넣은 비꼬는 제목 말장난,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233107136,negative,인도네시아어로 인색하다는 뜻의 비꼼,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233106031,positive,스토리가 좋다는 밈성 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233094307,positive,리뷰 폭탄이 과하다며 게임 자체는 만족,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233091243,neutral,텍스트 없이 점자 아스키아트만 있음,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:26:33Z,False
+steam_233071591,neutral,점자 아스키아트만 있어 의미 판단 불가,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233069645,negative,게임은 좋지만 가챠 변경 방식 때문에 운영 불신,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233048269,positive,스토리와 캐릭터가 좋아 다른 가챠와 달리 정착,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233020916,negative,EA에 빗대어 게임을 비꼬는 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233019008,neutral,의미가 모호한 짧은 질문,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233016553,negative,기업 탐욕이 게임을 장악했다는 비판,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233008151,negative,예전 시스템으로 되돌려 달라는 요구,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_233002563,negative,역대 최악의 게임이라는 혹평,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232983871,negative,스파크 폐지로 추천 불가,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232973011,negative,욕설과 함께 개발사 탐욕을 비난,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232970549,negative,스킵 없는 미니게임 이벤트 복각에 불만,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232962605,negative,가챠 변경보다 피드백을 무시하는 운영에 실망,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232955687,positive,리뷰 폭격에도 최고의 게임이라는 옹호,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232950483,neutral,점자 아스키아트만 있어 의미 판단 불가,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232934245,positive,이벤트 스토리 전투는 좋고 무료 모집과 신규 보스 요청,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232934097,negative,최근 상황으로 게임이 나빠졌고 운영진을 저주,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232930553,negative,일본판 가챠 개악으로 캐릭터 확보가 어려워진다고 우려,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232924439,mixed,스토리는 좋지만 롤백 전까지 플레이 안 함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232871610,negative,EA식 회사의 가챠 변경으로 비추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232867512,neutral,의미가 모호한 한 단어 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232865691,negative,서비스 종료가 머지않았다는 예측,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232836581,neutral,카린이 그리울 것이라는 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232823435,negative,돈이 많은데도 더 원하는 넥슨 비판,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232820270,negative,새 가챠 시스템과 새 CEO를 욕함,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232809057,negative,EA식 개편에 불만이라 업데이트 후 삭제 예정,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232778040,mixed,게임은 좋을 수 있으나 팬덤 때문에 안 함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232770427,negative,천장 시스템 때문에 삶이 망가졌다는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232769557,negative,뽑기는 적고 패키지는 비싼 가챠 개편에 복귀 거부,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232765472,mixed,최고이자 최악의 선택이지만 캐릭터를 사랑함,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232755152,negative,EA 출신 영입과 가챠 개악에 과금 중단 선언,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232748861,mixed,게임은 귀엽지만 탐욕 때문에 과금 말라고 함,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232738843,positive,사오리를 보고 좋아했다는 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232708133,positive,귀여운 겉모습 뒤의 깊은 세계관과 선생 서사를 칭찬,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232703032,mixed,세계관과 캐릭터는 훌륭하나 약탈적 가챠와 단순한 플레이,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232696461,mixed,유저 항의를 구경하며 탐욕 반대에 공감,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232694177,negative,스토리는 좋지만 스파크 폐지 가챠 개악에 과금 반대,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232689047,positive,가챠 논란에도 따뜻한 게임이라며 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232627271,negative,넥슨을 욕하는 짧은 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232623461,negative,가챠 변경으로 제2의 원신이 될 거라는 비판,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232621420,negative,예정된 가챠 변경으로 게임을 접음,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:27:38Z,False
+steam_232596548,negative,가챠 시스템 변경과 5주년 방송 발표 방식에 실망,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232589953,negative,유저 친화적 스파크를 없앤 새 가챠에 반대,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232585074,negative,예전 가챠로 되돌려 달라는 요구,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232573156,negative,기존 스파크 유지와 유료 모집 분리를 제안,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232552240,negative,경영진 교체와 스토리 일관성 저하에 우려,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232550513,negative,가챠 개편에 불만 이탈 가능성 언급,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232543154,neutral,의미가 모호한 짧은 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232532266,neutral,유튜브 검색을 유도하는 밈성 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232517954,negative,새 가챠 시스템이 형편없다는 비난,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232511769,negative,새 가챠가 끔찍하니 지지하지 말라는 글,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232508196,positive,게임이 좋다는 짧은 호평,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232506327,negative,이유 없이 절규하는 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_232497516,negative,가챠 시스템 복구 요구와 넥슨 비난,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239581405,positive,특정 캐릭터 애정과 빠른 출시 요청,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239522465,positive,미소녀 캐릭터가 좋다는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239502368,positive,입문자 호평 월정액으로 할 만하다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239434474,positive,이모티콘만 있는 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239368873,negative,보안모듈에 대한 짜증 섞인 의문,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239356327,neutral,직접 하진 않지만 좋아 보인다는 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239313967,positive,이구사 하루카 사랑 문구를 반복한 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239251795,neutral,대사를 인용한 밈성 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239205343,neutral,의미가 모호한 짧은 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239080293,positive,재미있고 콘텐츠가 많은 갓겜이라는 호평,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239055192,negative,청휘석을 더 달라는 요구,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239005482,neutral,몰?루 문구를 반복한 밈 도배,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_239001373,neutral,의미 없는 문자 입력,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238916100,neutral,밈성 문구로 의미가 모호함,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238911729,positive,호시노에 대한 애정 표현,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238879148,negative,긴 로딩과 튕김으로 실행이 귀찮다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238836782,positive,세리카가 귀엽다는 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238833350,neutral,게임과 무관한 F1 선수 밈 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238824847,positive,캐릭터 외형을 농담조로 언급,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238802623,positive,의미가 모호한 짧은 감탄,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238792800,positive,넥슨 서브컬쳐 중 혜자 무과금도 가능,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238750823,positive,강하게 추천하는 짧은 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238730850,positive,시로코에 대한 애정 표현,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238679241,mixed,스토리·캐릭터는 좋으나 가챠와 재화 수급에 불만,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238676121,positive,게임을 최고라고 칭찬하는 짧은 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238666376,positive,최고의 게임이니 당장 받으라는 추천,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238614675,positive,캐릭터를 아내로 칭하는 애정 표현,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:28:35Z,False
+steam_238613046,negative,외장 SSD 설치 후 라이브 2D 때마다 끊김,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238603280,positive,지금까지 한 게임 중 최고라는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238591728,positive,매우 재밌다는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238545125,neutral,"파레이돌리아 응원, 의미 모호",0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238510574,neutral,캐릭터 수집이 핵심이라는 반문,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238462526,positive,아루 캐릭터가 최고,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238458278,positive,취향 모르면 해보라며 강력 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238435000,positive,캐릭터들이 너무 귀엽다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238397034,positive,그냥 최고라는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238386680,positive,스토리를 포함해 전부 훌륭하다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238363118,positive,스토리가 게임을 계속 하는 이유,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238334156,positive,애정하는 캐릭터들 모임이라는 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238297487,negative,너무 어렵다는 불만,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238251146,mixed,게임성 빼면 명작이라는 평가,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238085213,positive,육감 캐릭터 게임 1등이라는 호평,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238022964,positive,지켜야 할 세계가 많다는 감상,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_238004662,mixed,"캐릭터와 스토리는 최고, 게임성은 아쉽다",0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237981605,neutral,야한 캐릭터가 많다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237856596,neutral,의미 없는 이모티콘 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237852234,positive,좋은 게임이라는 평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237823003,positive,체리노가 너무 귀엽다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237789684,neutral,성교육 업데이트를 요청하는 농담성 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237757057,positive,매우 재밌으니 해보라는 추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237698053,mixed,"스토리와 연출은 호평, 초반 랙과 상점은 감수 필요",0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237683884,positive,게임하다 울었다는 감상,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237682846,positive,스토리와 영상미가 패키지 게임급이라는 추천,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237633276,positive,아로나에 대한 애정 표현,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237608454,positive,세리카를 아내라며 애정 표현,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237605871,positive,무과금으로도 매우 재밌게 즐김,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237546647,positive,아직 안 나온 코토네에 대한 애정,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237532929,neutral,"총력전 관련 짧은 언급, 의미 모호",0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237524758,neutral,무엇이 안 생기는지 불명확,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237437945,positive,동물 귀 캐릭터 취향을 발견했다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237437042,positive,선생과 학생 설정에 몰입한 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237375293,positive,하나코에 대한 호감 표현,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237277743,positive,좋다는 짧은 평,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237216694,positive,캐릭터가 예쁘다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237130634,positive,아비도스 3장 스토리가 최고,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237123386,positive,최고라는 짧은 호평,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237098007,positive,시로코에게 감동받음,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:29:06Z,False
+steam_237073476,positive,캐릭터가 예쁘고 애정캐·페스만 뽑으면 돌 걱정 없다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_237059623,neutral,욕심을 버리면 즐겁게 할 수 있다,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_237051772,neutral,게임이 건전하다는 짧은 글(반어 가능성),0.25,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236967079,mixed,스토리·보스 호평 속 초반 자원과 가챠 부담 지적,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236949900,positive,히나 사랑 고백을 반복한 도배성 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236878602,positive,의미 없는 환호성,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236872640,positive,스트레스 없이 느긋하게 즐기기 좋고 스토리 다양,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236798296,positive,미도리가 너무 귀엽다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236779485,negative,유저끼리만 아는 말로 대화해 불편하다,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236695909,positive,스토리와 학생들이 훌륭해 강력 추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236619380,mixed,캐릭터·스토리 장점이나 초반·가챠·월정액 부담,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236548316,positive,애정 캐릭터를 아내라 부름,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236504556,neutral,폰이 있으면 PC판은 굳이 필요 없다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236451625,negative,픽뚫과 복귀 장벽 심화로 경쟁작에 밀리는 느낌,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236414282,positive,아리스에 대한 애정 표현,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236323517,positive,정말 재밌다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236317606,positive,너무 재미있다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236313997,positive,서브컬처계 최고라는 극찬,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236306730,mixed,초반 주인공 언행이 부담스럽지만 버티면 할 만함,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236236966,positive,키보토스에 가고 싶을 만큼 애착,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236150082,neutral,쿠소게 밈으로 게임개발부를 응원,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236146305,positive,청춘 감성과 힐링 전투 호평 속 가볍게 키우기 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236114876,positive,애니 좋아하면 후회 없다며 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236065843,positive,잘 만든 비주얼 노벨이고 게임 파트는 서브,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_236039531,positive,게임을 알려준 인물에게 감사,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235882505,positive,아루 사랑 고백을 반복한 도배성 글,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235829627,positive,게임하며 눈물이 날 만큼 감동받았다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235758108,positive,케이를 매우 좋아한다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235753271,positive,드하루 사랑한다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235749501,positive,덕분에 선생님이 꿈이 되었다,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235577894,mixed,게임성은 뒤로하고 캐릭터는 취향에 맞다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235552496,neutral,페스 때 쉽게 뽑게 해달라는 요청,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235532904,mixed,플레이는 재미없고 그 외 요소가 재밌다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235524831,mixed,확률을 올려주면 열심히 결제하겠다는 요구,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235485584,positive,키보토스가 실존한다는 애정 표현,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235463881,positive,케이 관련 노래를 매일 들을 만큼 애정,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235324282,positive,슬픈 스토리를 극찬하며 강하게 추천,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235177002,neutral,의미를 알 수 없는 감탄사,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235171298,positive,청춘을 바라보는 어른의 시점 표현이 좋다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235171075,positive,작중 대사를 인용한 애정 표현,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:30:15Z,False
+steam_235165174,positive,편견이 있었지만 해보니 재미있다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235114781,neutral,밈성 장문 글로 게임 평가 내용은 불분명,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235099779,neutral,의미가 모호한 짧은 글,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235099280,mixed,게임성은 아쉽지만 스토리와 캐릭터는 훌륭하다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235083952,positive,재밌어서 계속하겠다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235076944,mixed,결전에 짜증냈으나 택틱 성공에 평가를 바꿈,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235005050,positive,캐릭터를 아내라 부르며 애정 표현,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235004660,positive,호시노가 예쁘다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235003015,negative,튕김과 실행 불가 삭제 오류 해결 요청,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_235001140,neutral,의미가 모호한 밈성 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234983255,positive,3성이 잘 나오고 성장이 빨라 좋다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234973723,positive,재미있다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234877510,positive,초반이지만 재밌다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234842253,positive,훌륭하다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234768304,positive,키보토스에서 살고 싶을 만큼 몰입,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234750129,negative,파봉 복사 현상에 불만을 토로,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234675536,negative,낮은 평점이 이해된다는 비판,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234666280,positive,쿠루미가 게임을 하는 이유,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234654095,positive,1000시간 플레이 후 게임과 PD를 강하게 지지,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234643674,positive,미카와 게임이 재밌다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234426879,neutral,그냥저냥 할만하다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234371639,positive,호시노를 서방님이라 부르며 애정 표현,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234367151,positive,선생이 되고 싶은 사람에게 추천,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234310481,positive,애정 가는 캐릭터가 생겼다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234306472,positive,블루 아카이브는 갓겜이다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234298770,positive,개발진이 남긴 변화를 평가하는 밈성 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234288190,mixed,스토리가 궁금해 시작한 것을 후회하는 밈,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234276159,mixed,스토리는 재밌고 게임 구성은 별로다,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234258397,positive,취향저격이며 힐링되는 서브컬쳐 게임,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234231420,negative,보안 모듈 초기화 문구를 반복 나열,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234230780,neutral,스토리 보는 게임,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234151706,mixed,재밌지만 아리우스 스토리와 의상 출시를 요구,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234147044,positive,2트만에 니코를 뽑아 감사하다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234140892,positive,학생들이 귀엽다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234090560,mixed,4년 플레이 유저가 엔드콘텐츠 편중과 상호작용 부족을 지적,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234080733,negative,레벨이 낮아 이벤트에 참가하지 못한다,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234051063,positive,인생을 바꿔준 감동적인 게임,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234050980,neutral,화분에 물 주러 간다는 모호한 글,0.2,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234049702,positive,아주 좋은 게임이다,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_234005710,neutral,게임 이름만 적은 글,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:31:31Z,False
+steam_233985493,negative,BM 완화와 메인 스토리 주기 정상화 요구,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233823537,positive,스토리는 명작이고 학생들이 예쁘고 사랑스러움,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233795495,neutral,농농단 관련 밈성 글,0.25,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233792914,positive,아내가 생겼다는 캐릭터 애정 표현,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233751862,positive,복귀 후 선생과 학생 스토리가 재미있음,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233660839,neutral,의미가 모호한 감탄성 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233610955,negative,ㅗ를 반복한 불만 표현,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233489561,mixed,캐릭터는 최고지만 게임성은 모르겠다,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233481857,positive,인생게임이라 포기할 수 없음,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233417005,mixed,게임성은 모르겠고 스토리는 좋음,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233399540,positive,good을 길게 늘여 쓴 호평,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233344410,negative,게임을 망겜이라 부른 짧은 비난,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233329466,positive,게임성은 평범해도 캐릭터와 스토리로 즐김,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233318540,positive,게임명을 외친 짧은 글,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233264103,neutral,씹덕이면 하라는 취향 추천,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233261009,negative,BM 변경 설명이 부실해 신뢰가 깨지고 이탈 고민,0.92,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233250591,positive,꼭 해보라고 할 만큼 재미있음,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233207135,positive,가볍게 하기 좋음,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233203104,neutral,선생님을 안아 달라는 밈성 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233191420,negative,확률 조작을 의심하고 매몰비용이 크다고 비난,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233181621,neutral,이유는 모르지만 계속 플레이 중,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233179020,positive,게임이 너무 사랑스럽다는 호평,0.65,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233174968,positive,최근 일이 있었어도 스토리 덕에 최애 게임,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233165921,mixed,실망과 배신감이 쌓이지만 루틴이라 못 접음,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233139983,neutral,의미를 알 수 없는 영문 자판 입력,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233132209,negative,절대 하지 말라는 비추천,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233127807,negative,가챠 확률이 나빠져 천장까지 3성이 거의 안 나옴,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233127734,neutral,집무실이 뭔지 의아해하는 글,0.35,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233121780,negative,넥슨 신뢰가 없고 5년을 3분 만에 바꾼다고 비꼼,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233121659,positive,쿠루미가 너무 귀엽다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233121626,positive,캐릭터가 매력적이고 스토리가 마음에 듦,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233120322,neutral,밈성 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233119155,positive,가챠 개선을 더 일찍 안 했다고 농담 섞어 불평,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233117798,positive,정말 좋은 게임이라는 호평,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233113518,neutral,한숨과 따봉이 섞인 모호한 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233113256,positive,명합뽑기가 좋아졌다,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233113242,negative,한섭 가챠 체감확률이 압도적으로 나빠 비추천,0.9,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233112521,neutral,포르자6 하다가 이 게임까지 오게 됨,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233111711,neutral,아직 맛만 보는 중,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233109038,mixed,의리로 하는 게임이라는 애매한 평가,0.45,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:32:32Z,False
+steam_233105325,positive,애정하는 캐릭터들만 있어서 행복하다,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233104878,negative,게임이 자꾸 제대로 안 된다,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233056720,neutral,의미가 모호한 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233053163,mixed,캐릭터는 예쁘다고 함,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233048905,positive,모니터 속 학생들이 있어 좋다는 밈성 글,0.5,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233048259,positive,게임이 좋다는 짧은 글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233026116,negative,애정 캐릭터가 없으면 노잼이라 오래 못 함,0.75,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_233018527,positive,저사양에서도 돌아가는 최적화 칭찬,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232977016,positive,스토리 캐릭터 콜라보 추억을 돌아보는 회고글,0.6,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232971489,negative,일섭 BM 개선을 한섭에 도입하라는 요구,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232949515,positive,이치카에 대한 애정 표현,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232844564,mixed,스토리 캐릭터는 좋으나 유저 간 소통 기능 아쉬움,0.7,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232828202,negative,뇌제의 유산 스토리 전개와 히나 취급에 격분,0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232777651,negative,전투 단조로움과 스토리 연출 재탕 비판 (글 중간 끊김),0.8,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232728546,negative,뽑기 후 72시간 한정 상품으로 과금 유도 심해짐,0.95,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232678582,negative,일섭을 경험하고 한섭 BM 변경을 요구,0.85,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232657518,neutral,의미가 모호한 짧은 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232630933,positive,무기력한 청년에서 선생님이 됐다는 밈성 글,0.3,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232583803,neutral,성적 은어로 의미가 모호한 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232577782,neutral,의미가 모호한 짧은 글,0.1,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232572344,neutral,캐릭터명 언급뿐인 모호한 글,0.15,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232508183,neutral,게임보다 팬콘텐츠 소비 시간이 늘었다,0.4,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
+steam_232499593,positive,게임이 망하면 안 된다는 강한 애착,0.55,claude-sonnet-5-5,v1-2026-11-08,2026-11-08T08:33:22Z,False
